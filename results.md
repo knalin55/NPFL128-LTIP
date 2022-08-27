@@ -24,7 +24,7 @@
 | Bilingual       | **0.830** | **51.70** | 0.731 | 22.09 |
 | Bilingual + WPC | 0.829 | **51.70** | **0.746** | 22.96 |
 
-- Since the scores for MT5_WMT were better in most cases, performance of finetuning methods are checked on MT5_WMT as pretraining method.
+- Since the scores for MT5_WMT were better in most cases, performance of finetuning methods are checked for MT5_WMT.
 
 
 
