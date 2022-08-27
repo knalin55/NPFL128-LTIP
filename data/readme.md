@@ -1,4 +1,4 @@
-This directory contains data files. 
+Download all required data to this directory.
 
 pretrain.py takes wiki dumps of "parquet" type. To convert first "num_lines" of wiki dump to parquet, use make_parqeut.py. 
 
