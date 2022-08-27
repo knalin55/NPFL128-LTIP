@@ -30,7 +30,7 @@ Clone WebNLG Corpus Reader to current directory.
 >`git clone https://gitlab.com/webnlg/corpus-reader.git`
 
 
-Use make_parquet.py to make parquet files for *en* and *ru* wiki dumps. 
+Use ./data/make_parquet.py to make parquet files for *en* and *ru* wiki dumps. 
 
 Note: Due to limited resources, all the experiments in this repository use smaller models and are trained for lesser number of steps.
 
