@@ -12,7 +12,7 @@ def main(args: argparse.Namespace) -> None:
 
 # Write first args.num_lines to a csv file. 
     count =0
-    with open('{}.csv'.format(args.language), "w") as file:
+    with open(f'{args.language}.csv', "w") as file:
         with open(os.path.join(args.directory, '{}.txt'.format(args.language))) as r_file:
             file.write("SNo\tinput\n")
             for line in r_file:
