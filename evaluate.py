@@ -21,15 +21,20 @@ def main(args: argparse.Namespace) -> None:
         langs = ["ru"]
     elif args.finetune == "monolingual_en":
         langs = ["en"]
-
-    for lang in langs:
     
-        fil_dir = "./data/webnlg_dataset/release_v3.0/{}/dev".format(lang)
+    def extract_component(triple: str, entity_index: int) -> str:
+        return triple.split("|")[entity_index].strip().split("_")
+    
+    def camel_case_split(str):
+        return [re.findall(r"[a-z]*", str)[0]] + re.findall(r'[A-Z](?:[a-z]+|[A-Z]*(?=[A-Z]|$))', str) 
+        
+    def preprocess_data(lang):
+        # Preprocess RDF-to-Text data; 
+        # Returns list of preprocessed triples and list of text
+        
+        fil_dir = "./data/webnlg_dataset/release_v3.0/{}/dev".format(lang) # Path of dev set
         prefix = dict(en= "Generate in English ", ru= "Generate in Russian ")
-
-        def camel_case_split(str):
-            return [re.findall(r"[a-z]*", str)[0]] + re.findall(r'[A-Z](?:[a-z]+|[A-Z]*(?=[A-Z]|$))', str) 
-
+        
         b = Benchmark()
         files = select_files(fil_dir)
         b.fill_benchmark(files)
@@ -42,20 +47,26 @@ def main(args: argparse.Namespace) -> None:
         obj = "<O>"
         pre = "<P>"
 
-
         for entry in entry_list:
             
             inputs = ""
+            
+            # For Ru, the text corresponding to triples has Ru translation as well as the En ones. For En, only text in En is available
             label = [sent.lex for i, sent in enumerate(entry.lexs) if i%2==1] if lang == "ru" else [sent.lex for i, sent in enumerate(entry.lexs)]
+            
             for triple in entry.list_triples():
                 
-                
-                inputs = inputs + sub + " ".join(triple.split("|")[0].strip().split("_")) \
-                    + pre +  " ".join([word.lower() for word in camel_case_split(triple.split("|")[1].strip())]) + \
-                        obj + " ".join(triple.split("|")[2].strip().split("_"))
+                inputs = inputs + sub + " ".join(extract_component(triple, 0)) \
+                    + pre +  " ".join([word.lower() for word in camel_case_split(" ".join(extract_component(triple, 1)))]) + \
+                        obj + " ".join(extract_component(triple, 2)) # object
                 
             triples_list.append(inputs)
             text_list.append(label)
+        return triples_list, text_list
+    
+    for lang in langs:
+    
+        triples_list, text_list = preprocess_data(lang)
         
         predictions= []
         
