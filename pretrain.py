@@ -14,16 +14,18 @@ import os
 import re
 from typing import Dict
 
-parser = argparse.ArgumentParser()
-parser.add_argument("--batch_size", default=2, type=int, help="Batch size.")
-parser.add_argument("--pretrain_type", default=None, type=str, help="Pretraining method")
-parser.add_argument("--weight_decay", default=0.01, type=float, help="Weight Decay.")
-parser.add_argument("--steps", default=200000, type=int, help="Number of steps.")
-parser.add_argument("--lr", default=2e-5, type=float, help="Learning Rate.")
-parser.add_argument("--model", default="t5-small", type=str, help="Seq to Seq Model")
-parser.add_argument("--seed", default=42, type=int, help="Random seed.")
-parser.add_argument("--threads", default=1, type=int, help="Maximum number of threads to use.")
-parser.add_argument("--ckpt_path", default=None, type=str, help="Checkpoint Path to resume from")
+def get_parser():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--batch_size", default=2, type=int, help="Batch size.")
+    parser.add_argument("--pretrain_type", default=None, type=str, help="Pretraining method")
+    parser.add_argument("--weight_decay", default=0.01, type=float, help="Weight Decay.")
+    parser.add_argument("--steps", default=200000, type=int, help="Number of steps.")
+    parser.add_argument("--lr", default=2e-5, type=float, help="Learning Rate.")
+    parser.add_argument("--model", default="t5-small", type=str, help="Seq to Seq Model")
+    parser.add_argument("--seed", default=42, type=int, help="Random seed.")
+    parser.add_argument("--threads", default=1, type=int, help="Maximum number of threads to use.")
+    parser.add_argument("--ckpt_path", default=None, type=str, help="Checkpoint Path to resume from")
+    return parser
 
 
 def main(args: argparse.Namespace) -> None:
@@ -180,5 +182,5 @@ def main(args: argparse.Namespace) -> None:
 
 
 if __name__ == "__main__":
-    args = parser.parse_args([] if "__file__" not in globals() else None)
+    args = get_parser().parse_args([] if "__file__" not in globals() else None)
     main(args)
