@@ -7,10 +7,12 @@ import argparse
 import re
 from nltk.translate.bleu_score import corpus_bleu, SmoothingFunction
 
-parser = argparse.ArgumentParser()
-parser.add_argument("--pretrain", default=None, type=str, help="Pretrained model")
-parser.add_argument("--finetune", default=None, type=str, help="Number of lines to keep in dataset")
-parser.add_argument("--ckpt", default=None, type=str, help="Number of lines to keep in dataset")
+def get_parser():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--pretrain", default=None, type=str, help="Pretrained model")
+    parser.add_argument("--finetune", default=None, type=str, help="Number of lines to keep in dataset")
+    parser.add_argument("--ckpt", default=None, type=str, help="Number of lines to keep in dataset")
+    return parser
 
 def main(args: argparse.Namespace) -> None:
     
@@ -81,5 +83,5 @@ def main(args: argparse.Namespace) -> None:
                 file.write(pred + " \n")
 
 if __name__ == "__main__":
-    args = parser.parse_args([] if "__file__" not in globals() else None)
+    args = get_parser().parse_args([] if "__file__" not in globals() else None)
     main(args)
