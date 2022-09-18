@@ -1,6 +1,7 @@
 import pandas as pd
 import argparse
 import os 
+import csv
 
 def get_parser():
     parser = argparse.ArgumentParser()
@@ -15,10 +16,11 @@ def main(args: argparse.Namespace) -> None:
     count =0
     with open(f'{args.language}.tsv', "w") as file: # write n_lines to (en/ru).tsv (tmp)
         with open(os.path.join(args.directory, '{}.txt'.format(args.language))) as r_file: # read (en/ru) dataset file
-            file.write("SNo\tinput\n")
+            csvwriter = csv.writer(file, delimiter='\t')
+            csvwriter.writerow(["SNo", "input"])
             for line in r_file:
-                if line.strip("\n").strip() != "":
-                    file.write(str(count) + "\t" + line.strip("\n") + " \n")
+                if line.strip() != "":
+                    csvwriter.writerow([str(count), line.strip()])
                     count += 1
                 if count == args.num_lines:
                     break
