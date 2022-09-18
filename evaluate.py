@@ -35,8 +35,8 @@ def main(args: argparse.Namespace) -> None:
         b.fill_benchmark(files)
             
         entry_list = [entry for entry in b.entries]
-        triples_list    = []
-        text_list       = []
+        triples_list    = [] # Inputs to model (RDF Triples)
+        text_list       = [] # Labels (Text)
 
         sub = "<S>"
         obj = "<O>"
@@ -45,17 +45,17 @@ def main(args: argparse.Namespace) -> None:
 
         for entry in entry_list:
             
-            label = ""
-            inputs = [sent.lex for i, sent in enumerate(entry.lexs) if i%2==1] if lang == "ru" else [sent.lex for i, sent in enumerate(entry.lexs)]
+            inputs = ""
+            label = [sent.lex for i, sent in enumerate(entry.lexs) if i%2==1] if lang == "ru" else [sent.lex for i, sent in enumerate(entry.lexs)]
             for triple in entry.list_triples():
                 
                 
-                label = label + sub + " ".join(triple.split("|")[0].strip().split("_")) \
+                inputs = inputs + sub + " ".join(triple.split("|")[0].strip().split("_")) \
                     + pre +  " ".join([word.lower() for word in camel_case_split(triple.split("|")[1].strip())]) + \
                         obj + " ".join(triple.split("|")[2].strip().split("_"))
                 
-            triples_list.append(label)
-            text_list.append(inputs)
+            triples_list.append(inputs)
+            text_list.append(label)
         
         predictions= []
         
