@@ -65,11 +65,8 @@ def main(args: argparse.Namespace) -> None:
         # load and process tsv file for WMT News dataset
 
         dataset = open("./data/news-commentary-v14.en-ru.tsv").read().split("\n")
-        en = []
-        ru = []
-        for line in dataset:
-            en.append(line.split("\t")[0])
-            ru.append(line.split("\t")[1])
+        en = [line.split("\t")[0] for line in dataset]
+        ru = [line.split("\t")[1] for line in dataset]
 
         parallel_data = {"input": en, "label": ru}    
 
