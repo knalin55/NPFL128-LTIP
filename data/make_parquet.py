@@ -2,13 +2,14 @@ import pandas as pd
 import argparse
 import os 
 
-parser = argparse.ArgumentParser()
-parser.add_argument("--language", default="en", type=str, help="Language (en/ru)")
-parser.add_argument("--directory", default="", type=str, help="directory where wiki dump is located")
-parser.add_argument("--num_lines", default=500000, type=int, help="Number of lines to keep in dataset")
+def get_parser():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--language", default="en", type=str, help="Language (en/ru)")
+    parser.add_argument("--directory", default="", type=str, help="directory where wiki dump is located")
+    parser.add_argument("--num_lines", default=500000, type=int, help="Number of lines to keep in dataset")
+    return parser
 
 def main(args: argparse.Namespace) -> None:
-
 
 # Write first args.num_lines to a csv file. 
     count =0
@@ -27,5 +28,5 @@ def main(args: argparse.Namespace) -> None:
     os.remove("{}.csv".format(args.language)) # Remove intermediate file
 
 if __name__ == "__main__":
-    args = parser.parse_args([] if "__file__" not in globals() else None)
+    args = get_parser().parse_args([] if "__file__" not in globals() else None)
     main(args)
