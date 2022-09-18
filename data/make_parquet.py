@@ -11,10 +11,10 @@ def get_parser():
 
 def main(args: argparse.Namespace) -> None:
 
-# Write first args.num_lines to a csv file. 
+# Write first args.num_lines to a tsv file. 
     count =0
-    with open(f'{args.language}.csv', "w") as file:
-        with open(os.path.join(args.directory, '{}.txt'.format(args.language))) as r_file:
+    with open(f'{args.language}.tsv', "w") as file: # write n_lines to (en/ru).tsv (tmp)
+        with open(os.path.join(args.directory, '{}.txt'.format(args.language))) as r_file: # read (en/ru) dataset file
             file.write("SNo\tinput\n")
             for line in r_file:
                 if line.strip("\n").strip() != "":
@@ -23,9 +23,9 @@ def main(args: argparse.Namespace) -> None:
                 if count == args.num_lines:
                     break
 
-    df = pd.read_csv('{}.csv'.format(args.language), sep="\t")
-    df.to_parquet('{}.parquet'.format(args.language)) # Convert csv to parquet
-    os.remove("{}.csv".format(args.language)) # Remove intermediate file
+    df = pd.read_csv('{}.tsv'.format(args.language), sep="\t")
+    df.to_parquet('{}.parquet'.format(args.language)) # Convert tsv to parquet
+    os.remove("{}.tsv".format(args.language)) # Remove intermediate file
 
 if __name__ == "__main__":
     args = get_parser().parse_args([] if "__file__" not in globals() else None)
