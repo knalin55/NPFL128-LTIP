@@ -1,0 +1,1669 @@
+SacreBLEU: BLEU = 23.64 60.0/25.0/16.7/12.5 (BP = 1.000 ratio = 1.000 hyp_len = 5 ref_len = 5) 
+NLTK BLEU: 0.6693717380226335 
+Aarhus isleader toJacob Bundsgaard. 
+Aarhus Airport is2702.0. 
+TheAdirondack Regional Airport is507 metres above sea level. 
+Thelocation ofAdirondack Regional Airport isHarrietstown, New York. 
+Thelocation ofAdolfo Suárez Madrid–Barajas Airport isSan Sebastian de los Reyes,. 
+Therunway name ofAdolfo Suárez Madrid–Barajas Airport is14L/32R. 
+Therunway name ofAdolfo Suárez Madrid–Barajas Airport is14R/32L. 
+Theoperating forAfonso Pena International Airport isInfraero. 
+Agra Airport is made fromAgra. 
+TheAl-Taqaddum Air Base has aelevation above sea level of84.0. 
+Alderney Airport is located in theAlderney Airport. 
+Therunway name ofAllama Iqbal International Airport is18R/36L. 
+TheAlpena County Regional Airport is1533.0. 
+Therunway name ofAlpena County Regional Airport is1/19. 
+Amsterdam Airport Schiphol is located in theAmsterdam. 
+Andrews County, Texas is in thecounty seat ofAndrews. 
+Andrews County Airport is located in Texas. 
+Andrews County Airport is in therunway name"11/29. 
+Andrews County Airport is in therunway name ofHelipad. 
+Angola International Airport is located inLuanda. 
+Ardmore Airport (New Zealand) is made oflocationAuckland. 
+Athens was a member of theGiorgos Kaminis. 
+Athens International Airport is inSpata. 
+Belgium is alanguage inGerman. 
+Theleader ofBelgium is located inPhilippe of Belgium. 
+Denmarkcapital isCopenhagen. 
+Theleader ofDenmark isLars Lòkke Rasmussen. 
+Flemish Region is located inFlemish Government. 
+Greece is alanguage ofGreek language. 
+Greece isleader toNikos Voutsis. 
+Harrietstown, New York is part of theUnited States. 
+Pakistan isleader ofAnwar Zaheer Jamali. 
+Theis part ofCommunity of Madrid is theuellos de Jarama. 
+Theheadquartered inFour World Trade Center is theort Authority of New York and New Jersey. 
+Thecountry ofSpain isSan Sebastián de los Reyes. 
+Theis part ofSaranac Lake, New York isUnited. 
+Thechief ofStephen Dilts is theSouth Jersey Transportation Authority. 
+Aaron Bertram has theactive years start year of1998. 
+Aaron Deer wasassociated musician inThe Horns of Happiness. 
+Aaron Turner is agenre ofvant-garde metal. 
+Aaron Turner is agenre ofBlack metal. 
+Aaron Turner is aorigin ofBoston. 
+Abradab was a member of theMagik musician. 
+Abradab isbackground insolo singer. 
+Thebirth ofAce Wilder was1982-07-23. 
+Ace Wilder isrecord labelEMI Records. 
+Agustin Barboza wasrecord label isPhilips Records. 
+Alan Frew was a member of theGlass Tigerassociated band. 
+Albennie Jones was built byErrata Mississippi. 
+Aleksandra Kovac is a musical artist ofKornelije Kovac. 
+Aleksandra Kovac isbackground insolo singer. 
+Aleksandra Kovac is agenre ofSoul music. 
+Alfred Garth Jones was built byLondon. 
+Alfredo Zitarrosa was a member of theHilario Pérez. 
+Alfredo Zitarrosa was a member of theMilongagen. 
+Alfredo Zitarrosa wasrecord labelMovieplay. 
+Alison O'Donnell'sactive years start year is1963. 
+Allen Forrest was an American music. 
+Anders Osborne wasrecord label isAlligator Records. 
+Anders Osborne wasrecord label inShanachie Records. 
+Andrew Rayel wasassociated band,Jwaydan Moyine. 
+Andrew Rayel isbirth place of thebirth place ofu, Moldova. 
+Andrew White is agenre of theAlternative rock. 
+Asunción is part ofGran Asunción. 
+Deram Records was alocationLondon. 
+Funk has amusic fusion ofAfrobeat. 
+Hip hop music has an sub genre ofGangsta rap. 
+Jazz has astylistic originated fromBlues. 
+Thedistributing company ofRCA Records isLegacy Recordings. 
+Thegenre ofTwilight isBlack metal. 
+TheUnited Kingdom is a traditional dish fromBritish. 
+Alan Shepard was awarded theDistinguished Service Medal in the United States Navy. 
+Alan Shepard was built by theCalifornia. 
+Apollo 11 was abackup pilot inWilliam Anders. 
+Apollo 14 wasoperator inNASA. 
+Apollo 8 wasoperator inNASA. 
+TheBuzz Aldrin was a member of theUnited States. 
+Theoccupation ofElliot See isTest pilot. 
+TheUniversity of Texas at Austin wasmascot isHook 'em. 
+Thechairman ofA.C. Milan isSilvio Berlusconi. 
+Aaron Boogaard was abirth place ofCanada. 
+Abel Hernández was a member of theUruguay Olympic football team. 
+Abel Hernández'sclub isUruguay national football team. 
+The footballerAbner was a member ofC.D. FAS. 
+Adam Maher isbirth place ofAit Ikkou, Morocco. 
+Adam Maher isbirth place ofDiemen. 
+Thebirth place ofAdam McQuaid isCharlottetown. 
+Ahmad Kadhim Assad wasbirth place ofIraq. 
+Ahmad Kadhim Assad was a member of thePAS Tehran F.C. 
+Akeem Ayers was a fruit ofLinebacker. 
+Akeem Priestley'sclub isFK Mughan. 
+Akeem Priestley'syouthclub isJacksonville Dolphins. 
+Al-Khor Sports Club wasleague inQatar Stars League. 
+Alaa Abdul Zahra was built byBaghdad. 
+Alan Martin was a footballer for theAccrington Stanley F.C. 
+The footballerAlan Martin was a footballer for theCrewe Alexandra F.C. 
+Aleksander Barkov Jr was abirth place ofFinland. 
+Aleksander Barkov Jr was a member of theFlorida Panthers. 
+Aleksander Barkov Jr was a member ofNational Hockey League. 
+Aleksandre Guruli was a member of theFC Samtredia. 
+Alex Plante was abirth place ofManitoba. 
+Alex Plante has aheight of1.9304. 
+Theleader ofBrandon, Manitoba isDrew Caldwell. 
+Budapest was written byHungary. 
+Thelanguage ofCanada isInuktitut. 
+TheColumbus Blue Jackets is a member of theColumbus, Ohio. 
+FC Terek Grozny has anGroznyground. 
+FC Tom Tomsk was founded in theRussian Football National League. 
+FC Torpedo Moscow wasmanager forValery Petrakov. 
+Florida Panthers wasgeneral manager isDale Tallon. 
+Maccabi Tel Aviv BC. was created byan Tabak. 
+Theground ofOlympique Lyonnais isParc Olympique Lyonnais. 
+Themanager ofPeñarol isJorge Orosmán da Silva. 
+Thecountry ofPoint Fortin isTrinidad. 
+103 Colmore Row wasarchitect inJohn Madin. 
+103 Colmore Row was written byColmore Row. 
+The11 Diagonal Street iscolingtion date was1983. 
+200 Public Square has ancolingtion date of1985. 
+20 Fenchurch Street has abuilding start date ofJanuary 2009. 
+20 Fenchurch Street is thelocation ofUnited Kingdom. 
+300 North LaSalle is afloor count in60. 
+3Arena'sarchite is"HOK SVE. 
+3Arena was written by thelocation"East Link Bridge. 
+Adare Manor has anbuilding start date of1700. 
+Adare Manor was an American whosecountry wasRepublic of Ireland. 
+TheAkita Museum of Art isinauguration date on the 1st of July,2013. 
+TheL tenants ofAlan B Miller Hall isMason School of Business. 
+Amdavad ni Gufa is located inB. V. Doshi. 
+Ampara Hospital is thecountry ofSri Lanka. 
+TheAsher and Mary Isabelle Richardson House was designed by the National Register of Historic Places on the11-22 of the historic places. 
+Asser Levy Public Baths was a member of the1904ar of construction. 
+Birmingham has apostal code ofB postcode area. 
+Chicago is part ofDuPage County, Illinois. 
+Dublin is thecountry ofRepublic of Ireland. 
+Theis part ofDublin isLeinster. 
+India isleaderSumitra Mahajan. 
+Theethnic ofJapan isBrazilians in Japan. 
+Theleader ofJapan isTarò Asò. 
+Marriott International is akey person ofBill Marriott. 
+Thelanguage of Ireland isEnglish. 
+Thecapital of theCape Town is the location of theouth Africa. 
+United Kingdom iscapital inLondon. 
+The United States isethnic group of thenited, which is located in theNative Americans. 
+Theleader ofUnited States isPaul Ryan. 
+(29075 1950 DA was designed byCarl A. Wirtanen. 
+(410777 2009 FD has anapoapsis of259776702.47055 kilometres. 
+(66063 1998 RO1 was a member of theepoch of2013-11-04. 
+(6391 1999 KW4 has anperiapsis of29919600000.0. 
+101 Helena has anmass of3.0 kgs. 
+101 Helena has anorbital period of1516.6700000000003 days. 
+1036 Ganymed has anaverage speed of16.86 km/s. 
+1036 Ganymed has atemperature of160.0 kelvins. 
+107 Camilla was designed byF. Vilas. 
+107 Camilla was designed byN. R. Pogson. 
+1089 Tama has aescape velocity of0.0068 kilometres per second. 
+1097 Vicia has anrotation period of95040.0. 
+1099 Figneria has aescape velocity of0.0155 kilometres per second. 
+1099 Figneria has anmass of2.7 kgs. 
+109 Felicitas has anperiapsis of283326000000.0. 
+109 Felicitas has atemperature of170.0 kelvins. 
+10 Hygiea has anorbital period of5.57 days. 
+1101 Clematis has anperiapsis of445895000000.0. 
+110 Lydia has aepoch of2006-12-31. 
+110 Lydia has anperiapsis of377016000000.0. 
+N. R. Pogson was a member of theEngland. 
+Abilene, Texas has aarea code of325. 
+Abilene, Texas is part ofTexas. 
+Albany, Georgia isleader titlesMayor. 
+Albany, Oregon has aarea total of45.97 square kilometres. 
+Albany, Oregon was thecountry of theUnited States. 
+Albuquerque, New Mexico isleader to the city ofState Senate. 
+Albuquerque, New Mexico isleader title in theAlbuquerque City Council. 
+Amarillo, Texas was thecountry of theUnited States. 
+Amarillo is part ofPotter County, Texas. 
+Amarillo, Texas is part of theUnited States. 
+Anaheim, California has aarea code657. 
+Anderson, Indiana is part of theAdams Fall Creek, Lafayette, Richland, Union. 
+Angola is part ofPleasant Township, Steuben County, Indiana. 
+Ann Arbor, Michigan isleader to the"City Administrator. 
+Ann Arbor, Michigan isleader toMayor. 
+Ann Arbor, Michigan has apopulation density of1580.7 inhabitants per square kilometre. 
+Antioch, California has aelevation above sea level. 
+Theleader ofAntioch, California is theCalifornia's 11th State Assembly district. 
+Arlington, Texas has aelevation above sea level. 
+Atlantic County, New Jersey was written by theUnited States. 
+Attica is part ofFountain County, Indiana. 
+Auburn, Alabama is part ofAlabama. 
+Thecountry ofCalifornia is theUnited States. 
+Fulton County, Georgia is in thelargest city ofAtlanta. 
+Georgia is thecountry of theUnited States. 
+Indiana iscapital inIndianapolis. 
+Lee County, Alabama is a member of theAlabama происходит. 
+New Jersey has acapital ofTrenton, New Jersey. 
+Thestate ofPotter County, Texas isTexas. 
+Tarrant County, Texas was written by theUnited States. 
+Washtenaw County, Michigan has thelargest city ofAnn Arbor. 
+The comic characterAsterix was created byRené Goscinny. 
+The comic characterAuron was created byMarv Wolfman. 
+The comic characterBalder was created byJack Kirby. 
+Banaman wasbroadcasted by the United States and isSTV. 
+Thefirst aired on the 3rd of March,1983. 
+Banaman was a member of theBill Oddiering. 
+Baymax is aseries ofBig Hero 6. 
+Theaward of theEisner Award isBill Everett. 
+Bill Oddie is inKate Hardie. 
+The comic characterBolt was created byDan Mishkin. 
+Thefull name ofBozo the Iron Man isHugh Hazzard. 
+Theaward for theEagle Award is theJohn Buscema. 
+Marv Wolfman was theaward ofEagle Award. 
+Theleader ofBrazil isCármen Lúcia. 
+Thenet income ofChinabank is15100000000. 
+GMA New Media iskey person at theFelipe Gozon. 
+GMA New Media wasproduct. 
+GMA New Media has atype ofMedia company. 
+La Crosse, Wisconsin has anarea total of58.38. 
+Thepine Entertainment Portal wasparent companyGMA New Media. 
+Theethnic group ofPangasinense people is theangasinense people. 
+Theleader of thehilipines isRodrigo Duterte. 
+Theis part ofDublin (European Parliament constituency) is the home ofSwords. 
+Theleader ofSwords, Dublin is"County Manager. 
+Thelong name of theUnited States of America is theUnited. 
+Ajoblanco is aalternative name ofAjo blanco. 
+Ajoblanco has anmain ingredient of almonds, garlic, water and olive oil. 
+Arem-arem wasregion isreg leader in Indonesia, but more specific to Java. 
+Arem-arem wasregion ofIndonesia. 
+Arrabbiata sauce is a traditional dish from the United States and is a member of theTomatoes, red chili, garlic and olive oil. 
+TheArròs negre has aredient ofCuttlefish. 
+Arros negre has aredient ofSquid. 
+Asam pedas is a member of theMalaysiary. 
+Avocado is in thegenus ofPersea. 
+Ayam penyet has aserving temperature of"Hot. 
+TheBaked Alaska has acourseDessert. 
+TheBakewell tart was aredient ofFrangipane. 
+Bakso is aredient ofNoodle. 
+Bakso was aredient ofVermicelli. 
+Bandeja paisa has theingredient ofChorizo. 
+Barny cakes was created byMondelez International. 
+Thedish variation of the Bhocolate is the BBarny cakes. 
+Barny cakes has anprotein of1.8 g. 
+Thecountry ofBatchoy isPhilippines. 
+Batchoy is aredient ofChicken. 
+Theingredient ofBatchoy isVegetable. 
+Binignit'sregion isVisayas. 
+Derbyshire Dales isleader to thePatrick McLoughlin. 
+Dessert is thedish variation ofCake. 
+Dessert isdish variation ofIce cream. 
+Indonesia wasleader atJusuf Kalla. 
+Italy is amonym inItalians. 
+Java isethnic in theBaduy. 
+Lemon is aorder ofRosids. 
+Mexico is aMexicans. 
+Thelanguage ofMexico isSpanish language. 
+Thelanguage ofPhilipines isArabic. 
+Thedish variation ofSiomay isShumai. 
+The United States isethnic group of thenited, which is located in theNative Americans. 
+1955 Dodge is thealternative name ofDodge Coronet. 
+1955 Dodge has aengine230 (cubic inches). 
+AIDA Cruises was alocation ofRostock. 
+AIDAluna wasive on the 22nd of March2009. 
+AIDAluna is aship class cruise ship. 
+AIDAstella has abuilderMeyer Werft. 
+AIDAstella waschristening date on 3 March2013. 
+AIDAstella is in service on 3rd July2013. 
+ALCO RS-3 has aengineFour-stroke engine. 
+ALV X-1 wasmanufacturer isAlliant Techsystems. 
+TheAMC Matador wasrelated mean of transportation. 
+TheAbarth 1000 GT Coupe wasproduction end year in1958. 
+Acura TLX has aengine3.5 litre. 
+TheAcura TLX is aengine ofHonda K engine. 
+Acura TLX has aическийmission of"9-speed ZF 9HP automatic (V6). 
+Alfa Romeo 164 is aclassExecutive car. 
+TheAlfa Romeo 164 is a member of theFiat Croma. 
+Alhambra was amaiden voyage on1855-07-07. 
+Alhambra has aship beam of8.3m. 
+Alhambra has atop speed of18.52. 
+TheAntares rocket wasfinal flight on2014-10-28. 
+Ariane 5 was on June June2005-08-11. 
+Ariane 5 wasmanufacturer isAirbus Defence and Space. 
+Atlas II was an American whosecountry originates from theUnited States. 
+Atlas II was a member of thefinal flight of1998. 
+Audi has thedivision ofAudi e-tron. 
+Audi A1 wasassembly inAudi Brussels. 
+Caterpillar Inc. wasfoundation place inCalifornia. 
+TheCaterpillar Inc. was Kuy person isDouglas R. Oberhelman. 
+Thelocation ofCaterpillar Inc. isPeoria, Illinois. 
+Delta II waslaunch site ofCape Canaveral Air Force Station. 
+Finland haslanguage andSami languages. 
+Germany isleaderStanislaw Tillich. 
+Guiana Space Centre isheadquartered inKourou, French Guiana. 
+Honda has adivision ofAcura. 
+TheLancia Thema was a member of theAlfa Romeo 164. 
+TheMeyer Werft was written byGermany. 
+Meyer Werft was written byPapenburg. 
+Atatürk Monument is located in thePietro Canonica. 
+Atatürk Monument is in thematerial of thezmir. 
+Azerbaijan isleader toArtur Rasizade. 
+Thelocation ofBaku Turkish Martyrs' Memorial isAzerbaijan. 
+Thematerial ofBaku Turkish Martyrs' Memorial is granite and white marble. 
+Aaron S Daggett was a member of thePurple Heart. 
+Aaron S Daggett wasbattle ofBattle of Mine Run. 
+Abdul Rahman Ya'kub was a member of thein office whileTuanku Bujang Tuanku Othman was thein office. 
+Abdul Taib Mahmud'salma mater isUniversity of Adelaide. 
+Abdul Taib Mahmud'sregion isKota Samarahan. 
+Abdul Taib Mahmud was created byAdenan Satem. 
+Abdul Taib Mahmud was designed bySulaiman Abdul Rahman Taib. 
+Abdulsalami Abubakar was inNigerian Army. 
+Abel Caballero was a member of theJuan Carlos I of Spain. 
+Abner W. Sibal was abattle inWorld War II. 
+Abraham A. Ribicoff wassuccessor ofAnthony J. Celebrezze. 
+Adam Koc was theaward of theCross of Valour (Poland. 
+Adam Koc was founded inNew York City. 
+Adenan Satem'salma mater is theUniversity of Adelaide. 
+Adonis Georgiadis was aoffice ofDeputy Minister for Development, Competitiveness and Shipping. 
+Agnes Kant wasice of theHouse of Representatives in footballetherlands. 
+Agnes Kant was awarded theNetherlands. 
+Airey Neave was awarded theTerritorial Decoration. 
+Airey Neave was abirth place of"Knightsbridge, London. 
+Airey Neave'sservice of the start year of1935. 
+Alberto Teisaire was a member of thergentinanational. 
+Alfred Moore Scales wasbattle inBattle of Chancellorsville. 
+Alfred Moore Scales wasbattle inOverland Campaign. 
+Allan Shivers wasbattle inWorld War II. 
+Allan Shivers was themilitary branch of theUnited States Army. 
+Alvah Sabin wasiveed by the1857-03-03. 
+Alvah Sabin is a member of theWhig Party of the United States. 
+Antonis Samaras was created byKonstantinos Mitsotakis. 
+Argentina is located in theGabriela Michetti. 
+Austria waslanguage inAustrian German. 
+Theis part of theBattle of Fredericksburg wasne inAmerican Civil War. 
+Thedeath place ofEdmund J. Davis isAustin, Texas. 
+Thealma mater ofJosef Klaus is theUniversity of Vienna. 
+Theparty ofJuan Peron isLabour Party (Argentina. 
+TheMike Akhigbe waspredecessor isladipo Diya. 
+Nigerian Air Force wascommander onSadique Abubakar. 
+Theethnic of theland isRomani people. 
+Thelanguage of theKashubian language is theKashubian. 
+1. FC Köln was created byPeter Stöger. 
+Theseason of1. FC Magdeburg is2014. 
+Theseason ofA.C. Lumezzane is2014–15 Lega Pro. 
+A.D. Isidro Metapan is thefull name ofAsociación Deportiva. 
+A.E Dimitra Efxeinoupolis isfull name ofA.E Dimitra Efxeinoupolis. 
+A.E Dimitra Efxeinoupolis isseason of2014. 
+A.E Dimitra Efxeinoupolis isseason of2014–15 A EPSTH, Greece. 
+A.F.C. Blackpool has theumber of1500 members. 
+A.F.C. Fylde has anground ofThe Fylde. 
+Theground ofA.S. Gubbio 1910 isItaly. 
+Thenumber ofA.S. Livorno Calcio is19238. 
+2014–15 Serie A is theseason ofA.S. Roma. 
+Themanager ofAFC Ajax isFrank de Boer. 
+AFC Ajax (amateurs) wasickname in"Joden, Godenzonen. 
+AFC Ajax (amateurs) wasumber of members is5000. 
+AZAL PFK has alocation of Baku, Azerbaijan. 
+AZ Alkmaar wasumber of17023. 
+Agremiação Sportiva Arapiraquense was created byVica. 
+Agremiação Sportiva Arapiraquense'sseason is2015 Campeonato Brasileiro Série C. 
+Akron Summit Assault wasground bySt Vincent-St Mary High School. 
+Akron Summit Assault is located in3000. 
+Amsterdam ispart ofAmsterdam-Centrum. 
+Greece isleader toNikos Voutsis. 
+Gus Poyet is a member of theAEK Athens F.C. 
+Jens Härtel has a member ofSV Germania Schöneiche. 
+John van den Brom is a member of theAZ Alkmaar. 
+Jorge Humberto Rodriguez was a member of theA.D. Isidro Metapán. 
+TheMassimo Drago was a member of theDelfino Pescara 1936. 
+Massimo Drago is a member of the Chieti Calcio. 
+Thelocation ofOlympic Stadium (Athens isMarousi. 
+ThechampionsedKW United FC is the location of the ground ofPremier Development League. 
+The footballer of the footballer, which is part of theBury F.C. 
+Accademia di Architettura di Mendrisio has aacademic staff of100. 
+TheAcharya Institute of Technology has thecampus of Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. 
+Alba Iulia, was written byRomania. 
+Alba Iulia, theis part ofAlba County. 
+Romania has apatron saintAndrew the Apostle. 
+Theacademic staff of theSchool of Business and Social Sciences at the Aarhus University is737. 
+TheSchool of Business and Social Sciences at the Aarhus University is calledDenmark. 
+1634: The Bavarian Crisis was designed byEric Flint. 
+Thepreceded of1634: The Bavarian Crisis wasThe Grantville Gazettes. 
+1634: The Ram Rebellion wasfollowed by1635: The Cannon Law. 
+AIP Advances has theeissn number of2158. 
+Themedia type of theA Fortress of Grey Ice isHardcover. 
+A Long Long Way has theisbn number of"0-670-03380-4. 
+A Loyal Character Dancer has anisbn number of"1-56947-301-3. 
+Theauthor ofA Severed Wasp isMadeleine L'Engle. 
+A Wizard of Mars was completed inEnglish language. 
+Abhandlungen aus dem Mathematischen Seminar der Universität Hamburg has a LCCN number32024459. 
+Above the Veil is amedia type ofHardcover. 
+Acta Mathematica Hungarica'sbbreviation isActa Math. Hungar. 
+Acta Mathematica Hungarica has aacademic disciplineMathematics. 
+TheActa Palaeontologica Polonica has acoden code of"APGPAC. 
+Adiction (journal) has the OCLC number27367194. 
+Adiction (journal) has anpublisher ofWiley-Blackwell. 
+Administrative Science Quarterly has a LCCN number of57059226. 
+Aenir has the OCLC number45644811. 
+Alcatraz Versus the Evil Librarians has the OCLC number78771100. 
+Alcatraz Versus the Evil Librarians is a member of the Scrivener's Bones. 
+TheAmerican Journal of Mathematics wasimpact factor is"1.337. 
+Thefollowed by theAenirCastle. 
+ThenicknameCornell Big Red is the Bornell Big Red. 
+HIV is in thegenusLentivirus. 
+John Cowper Powys has amonable workWolf Solent. 
+Theleader of theUnited Kingdom isElizabeth II. 
+Theleader ofUnited States isJoe Biden. 
+Wolf Solent has aauthor ofJohn Cowper Powys. 
+Abilene Regional Airport is located inTexas. 
+Adolfo Suárez Madrid–Barajas Airport has alocation ofAlcobendas and a length of3500.0. 
+TheAdolfo Suárez Madrid–Barajas Airport has a length of3500.0 and itslocation isSan Sebastian de los Reyes,. 
+Thelocation ofAgra Airport isIndia which isleader ofT. S. Thakur. 
+TheAl Asad Airbase, which was written by618, is made from thelocation ofAl Anbar Province, Iraq. 
+Theoperating organisation forAl Asad airbase is theUnited States Air Force which isbattle in theOperation Enduring Freedom. 
+Theoperating organisation forAl Asad airbase is theUnited States Air Force, which isbattle in theUnited States invasion of Panama. 
+Adolfo Suárez Madrid–Barajas Airport is part ofCommunity of Madrid. 
+Alderney Airport has a runway length of877.0 and its surface is made ofPoaceae. 
+Theoperating organisation forAllama Iqbal International Airport is thePakistan Civil Aviation Authorityheadquartered inJinnah International Airport. 
+Thelocation ofAlpena County Regional Airport isWilson Township, Alpena County, Michigan,is part of theUnited States. 
+TheAmsterdam Airport Schiphol has aelevation above sea level-3.3528 and isoperating theSchiphol Group. 
+Andrews County Airport has a runway surface type ofAsphalt and is973 metres above sea level. 
+Andrews County Airport is inTexas,capital isAustin, Texas. 
+TheLuanda is the location of theAngola International Airport which iselevation above sea level in159. 
+Angola International Airport is thelocationcolo e Bengo, which is in thecountry ofAngola. 
+Theoperating organisation forAntwerp International Airport is theFlemish department of Mobility and Public Works and iselevation above sea level. 
+Apleton International Airport is located in theGrand Chute, Wisconsin. 
+The 1st runway atArdmore Airport (New Zealand) is made fromPoaceae, which is in theorder ofPoales. 
+The 1st runway atArdmore Airport (New Zealand) is made fromPoaceae which isclassMonocotyledon. 
+Ashgabat International Airport has arunway length of3800.0 and is situated at thelocationAshgabat. 
+Athens International Airport is located in thelocationSpata. 
+Athens International Airport is located in theAthens, which has a length of3800.0. 
+Thelocation ofAdolfo Suárez Madrid–Barajas Airport isSan Sebastian de los Reyes, which is part ofCommunity of Madrid. 
+Aaron Bertram was a member of theKids Imagine Nationassociated bandSuburban Legends. 
+Aaron Bertram was a member of theSuburban Legends, whosegenre isSka. 
+Aaron Deer is a member of theGuitargenre of which isPsychedelia. 
+Aaron Turner, who was born inLotus Eaters, is a musical artist ofIsis. 
+Abradab was abirth place ofKatowice and was designed byPoland. 
+Thegenre ofAce Wilder isHip hop music which has thestylistic originated fromDisco. 
+Al Anderson is a member of the band NRock music, which has thestylistic origin ofCountry music. 
+Alan Frew is agenre ofRock music which has thestylistic origin ofCountry music. 
+Albennie Jones was an American whosestylistic originated fromBlues. 
+Albennie Jones was an American who was made ofRhythm and Blues. Hisstylistic origins inBlues. 
+Aleksandra Kovac is a member of thegenre ofSoul music and has theactive of1990. 
+Alex Day was an Americangenre of theDiscos. 
+Alex Day was an Americangenre ofSynthpop, which has thestylistic origin ofNew wave music. 
+Alfredo Zitarrosa was built byDaniel Martínez and is located in theleader ofMontevideo. 
+Thegenre ofAlfredo Zitarrosa isZamba and has thebackground ofsolo singer. 
+Alison O'Donnell was a member of theHead South By Weaving and isassociated band,Plastik Mak. 
+Alison O'Donnell is a member of thegenre ofAutoharp and is a member of theAutoharp. 
+Allen Forrest was a solo singer. He was a member of thegenre ofPop music. 
+Alternative rock has amusic fusion ofNu metal. 
+Anders Osborne is a member of the bandBilly Iuso andTheresa Andersson. 
+Anders Osborne, whosegenre isRhythm and blues, is a member ofRabadash Records. 
+Andra is a singer whoseactive years start in2000. 
+Thegenre ofAndra isPop music and has thebackground assolo singer. 
+Andra is a member of themusic fusion genreDisco. 
+Andrew Rayel is a musical artistsJonathan Mendelsohn andMark Sixma. 
+Andrew Rayel is a musician in theMark Sixma and wasassociated musician inChristian Burns. 
+Andrew White is a member of theMarry Banilowassociated band and is a member of thegenreAlternative rock. 
+Alfredo Zitarrosa was a member of theTabaré Vázquez. 
+Alan Shepard was a member of thedate of retirement of theApollo 14 and is1974-08-01. 
+TheBuzz Aldrin was a member of the United States and was a member of thebirth place ofGlen Ridge, New Jersey. 
+TheBuzz Aldrin was a member of theFighter pilot and was created byRetired. 
+TheBuzz Aldrin was a member of theApollo 11, who wasoperator ofNASA. 
+TheBuzz Aldrin was a member of theFighter pilot and was built byApollo 11. 
+Aaron Hunt, who was a member of theVfL Wolfsburg, is a member of theV Werder Bremen II. 
+Abel Hernandez is a member of theU.S. Citta di Palermo and is a member of thePeñarol. 
+Adam Maher is a member of theNetherlands national under 17 football team and is a member of theNetherlands national under 17 football team. 
+Ahmad Kadhim Assad is a member of theAl-Naft, which is part of theSteel Azin F.C. 
+Akeem Adams was a member of theFerencvarosi TC, which wasmanager isThomas Doll. 
+Akeem Dent was built by1987 on 27th July1987. 
+Akeem Dent was built by1987 andbirth place ofAtlanta, Georgia. 
+Akeem Dent'sdebut team isAtlanta Falcons, which wasowner wasArthur Blank. 
+Akeem Priestley was abirth place ofJamaica, which isleader inPatrick Allen. 
+Alaa Abdul Zahra, whoseclub isShabab Al-Ordon Club, is a member of theAl-Zawra'a SC. 
+The footballerAlan Martin was a footballer forHamilton Academical FC and is a member of theBarrow AFC. 
+Aleksandr Chumakov was a member of theValery Petrakov, who was a member of theFC Torpedo Moscow, which ismanager. 
+Aleksandr Chumakov was built by thedeath placeRussia, which isleader ofSergey Naryshkin. 
+Aleksandr Chumakov was built by theVladimir Putin ofRussia. 
+Aleksandr Prudnikov was a member of theFC Tom Tomsk, who play in theRussian Football National League. 
+Aleksandre Guruli, whoseclub isFC Karpaty Lviv, wasAS Lyon-Duchère. 
+Aleksandre Guruli, whoseclub isFC Dinamo Batumi, was part of theFC Karpaty Lviv. 
+Alessio Romagnoli, whose fruit isDefender, is a member of theA.C. Milan. 
+Alessio Romagnoli is a member of theA.S. Roma, whoseyouthclub isA.S. Roma. 
+Alex Plante, whosebirth place isManitoba, is located in1989. 
+Alex Tyus, who was a member of thePallacanestro Cant, was on 1st July1988. 
+Aaron Boogaard was abirth place ofCanada, which islanguage. 
+Thebirth place of theAdam McQuaid isCanada, which islanguage. 
+Theman of theHull City A.F.C. wasmanager inSteve Bruce. 
+11 Diagonal Street is a traditionalgonal Street, which is a member of theColouredethnic. 
+200 Public Square, whoselocation isCleveland, was a crew member of thefloor count of45. 
+20 Fenchurch Street is located inLondon, which isleader title wasEuropean Parliament. 
+Theleader of theUnited isBarack Obama and was thelocation of250 Delaware Avenue. 
+300 North LaSalle was a member of thelocationIllinois. 
+Thelocation of3Arena isNorth Wall, Dublin and wasarchite in"HOK SVE. 
+3Arena, who was written byLive Nation Entertainment, has anlocation of"East Link Bridge. 
+TheLive Nation Entertainment is located in thelocationBeverly Hills, California. 
+Thetenant ofAC Hotel Bella Sky Copenhagen isMarriott International and wasfloor count in23. 
+TheAddis Ababa City Hall, which has aheight of"42 m, is acurrent tenant of theGovernment of Addis Ababa. 
+Adisham Hall is aarchitectural style of"Tudor and Jacabian and is situated toputale, Sri Lanka. 
+Adisham Hall is thecountry ofSri Lanka, which islanguage ofTamil language. 
+The city ofAlan B Miller Hall, which has abuilding 8 date of"30 March 2007, isadned by101 Ukrop Way. 
+The Bollege of William and Mary is the Академи of theAlan B Miller Hall, which is situated in thelocationWilliamsburg, Virginia. 
+TheMason School of Business was thetenant ofAlan B Miller Hall,architectRobert A M Stern. 
+Ampara Hospital is thecountry ofSri Lanka and wasregion ofAmpara District. 
+Ampara Hospital was written by theSri Lankacapital ofSri Jayawardenepura Kotte. 
+TheAsher and Mary Isabelle Richardson House was written byU.S. Route 83 and has the reference number of88002539. 
+TheAsilomar Conference Grounds, which has the reference number of87000823, was written by the reference number ofAsilomar Blvd., Pacific Grove, California. 
+Asilomar Conference Grounds was designed by thelocation ofPacific Grove, California and was designed by the National Register of Historic Places on 27th July,1987. 
+TheAsser Levy Public Baths was a fighter pilot23rd Street (Manhattan and was built in1904. 
+Gujarat is theleader of theAnandiben Patel and is thelocation ofGujarat. 
+(410777 2009 FD has anapoapsis of259776702.47055 kilometres and anminimum temperature of211.0 kelvins. 
+(410777 2009 FD has anperiapsis of88234300000.0 and wasdiscoverer wasSpacewatch. 
+The(66063 1998 RO1 has anepoch of2013 and anescape velocity of0.0999 km per sec. 
+(6391 1999 KW4 has anro prominent period of9953.28 and itsepoch is2004-07-14. 
+101 Helena has anaverage speed of18.44 km/s and anapoapsis of441092000.0 km. 
+1036 Ganymed has anaverage speed of16.86 km/s and anapoapsis of611961000.0 km. 
+103 Hera was thediscoverer of theJames Craig Watson, who was born inCanada. 
+103 Hera was thediscoverer of theJames Craig Watson who was born inCanada. 
+103 Hera has anperiapsis of371240000.0 kilometres and anepoch of2011. 
+Theepoch of107 Camilla is2006-12-31 and was designed byN. R. Pogson. 
+1097 Vicia has anorbital period of135589000.0 and itsepoch is2006-12-31. 
+1099 Figneria has anapoapsis of605718000.0 kilometres and anaverage speed of16.37 km per sec. 
+1099 Figneria has anperiapsis of349206000000.0 and anepoch of2006-12-31. 
+10 Hygiea has anformer name ofA900 GA and was a member of theepoch of2015-06-27. 
+1101 Clematis has anperiapsis of445895000000.0 and aepoch of2006-12-31. 
+110 Lydia has anro prominent period of39332.9 and was a member of the2006-12-31. 
+Theepoch of11264 Claudiomaccone is2005 and itsperiapsis is296521000.0 kilometres. 
+Albany, Georgia is part of theUnited States which isethnic group ofAfrican Americans. 
+Albany is a city inPortland, Oregon. 
+Alexandria, Indiana has aarea total of6.81 square kilometres and apopulation density of755.3 inhabitants per square kilometre. 
+Amarillo is part ofPotter County, which is in thecountry ofUnited States. 
+Anaheim, which has aelevation above sea level of48.0, is aarea total of131.6 square kilometres. 
+Anderson, Indiana, is part ofAnderson Township, Madison County, Indiana, which is thecountry of theUnited States. 
+Anderson, Indiana, is part ofFall Creek Township, Madison County, which is thecountry ofUnited States. 
+Anderson is part ofUnion Township, Madison County, Indiana, which is thecountry ofUnited States. 
+Ann Arbor, Michigan has anarea total of74.33 square kilometres, and itspopulation is1580.7 inhabitants per square kilometre. 
+Atlanta is thecountry of theUnited States whoseethnic group isAfrican Americans. 
+Atlanta is part of theGeorgia in the state of Georgia. 
+Attica, Indiana, is in theUnited States and is part ofIndiana. 
+Auburn, Alabama was written by theUnited Statescapital isWashington, D.C. 
+Auburn, Alabama was written by theUnited States which isethnic group ofAsian Americans. 
+Austin, Texas has anarea of land of686.0 square kilometres and anarea total of703.95 square kilometres. 
+Austin, Texas, is in thecountry of theUnited States and is part ofTravis County. 
+Austin, Texas is located in theUnited States and isleader title of theCity Manager. 
+Austin, Texas is inTexas, which is based in theUnited States. 
+Attica, Indiana is part ofIndiana, which iscapital. 
+Ann Arbor, Michigan is in theUnited Statescountry. 
+Arlington, Texas is part ofTexas, which haslanguage ofEnglish. 
+Albuquerque, New Mexico is thecountry ofUnited States and is the location of theAmericans. 
+Akron, Ohio is part of theUnited States which isethnic to theAsian Americans. 
+Asterix (comics character) was created byRené Goscinny andAlbert Uderzo. 
+Aurakles, whosealternative name isLen Wein. 
+The comic characterBallistic was created byDoug Moench and is located at thealternative name ofKelvin Mao. 
+Banaman wasbroadcasted by theBBC and was an American. 
+Banaman was a member of theBill Oddie, who wasbirth place ofLancashire. 
+The United States is the location of theJerry Ordway, who was born inAmericans. 
+Thealternative name ofBlack Pirate is"Jon Valor and was created bySheldon Moldoff. 
+The comic characterBlockbuster was created byRoger Stern andTom Lyle. 
+The comic characterBolt was created byGary Cohn andParis Cullins. 
+AmeriGas, whoseindustry isEnergy industry, is located in theKing of Prussia, Pennsylvania. 
+AmeriGas, whoseregion served isUnited, is a member of theEnergy industry. 
+Theservice ofChinabank isBanking and has anet income of15100000000. 
+Thefoundation place of theInsular Government of the Philippine Islands isIns of the «Пbank, which is part of thetype. 
+GMA New Media, whoseindustry isMass Media, is aproduct ofMobile Aplications. 
+Hypermarcas, a member of theCosmetics, is a member of theindustry, washarmaceuticals. 
+Hypermarcas, akey person isCEO, has thetype ofS.A. corporation. 
+Hypermarcas, aproduct ofDrugs, is a crew member of thelocationBrazil. 
+Hypermarcas, aproduct ofDrugs, is alocation ofSo Paulo. 
+Trane was born on January 1,1913 and was founded on January 1,La Crosse, Wisconsin. 
+Thelocation ofTrane wasSwords, Dublin andIreland. 
+Ajoblanco is a member of thecountry ofSpain. He was aredient ofBread. 
+Ajoblanco is a member of theAndalusiaregion ofAjoblanco. 
+Amatriciana sauce has aregion ofLazio and is aredient ofTomato. 
+TheAntioquia Department, whosecountry isColombia. 
+Arem-arem was built byIndonesia andingredient isBana leaf. 
+Arrabbiata sauce, whosecountry isItaly, was a member of theingredient ofOlive oil. 
+Arrabbiata sauce was written by theItaly, whosecapital isRome. 
+Arrabbiata sauce, whosecountry isItaly, was aredient ofTomato. 
+TheArròs negre is a member of theSpain and is a crew member of the crew of the crew of Ahingredient ofSquid. 
+TheArròs negre has aregion ofValencian Community and is aredient ofCuttlefish. 
+TheAyam penyet is amain ingredient of the smashed fried chicken served with sambal. Thecountry of theAyam penyet isJava. 
+TheBacon Explosion, whosecountry is theUnited States, was a crew member of theSausage. 
+Thecountry of theUnited States is thecountry ofBacon Explosion. Theleader isJohn Roberts. 
+Bacon Explosion, whosecourse is"Main course. 
+TheBacon sandwich has aredient ofBread and isalternative name ofBacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, and bacon muffin. 
+The dishBaked Alaska, whosecountry is"France, United States, is aredient ofChristmas pudding. 
+Baked Alaska was written in the «П and has thelanguage ofStandard Chinese. 
+The dessert of theDessert is thedish variation ofCookie. 
+Bakewell pudding is a dessert from the United States, where the ground almonds, jam, butter and eggs. He is a member of the United States. 
+Bakewell pudding is a variation ofBakewell tart, which is aredient ofShortcrust pastry. 
+Bandeja paisa is a crew member of theLemongenusCitrus. 
+Thecountry ofBatchoy isPhilippines andingredient ofShrimp. 
+Thecountry ofBatchoy is thecountry ofPhilippines, which isethnic group in theChinese Filipino. 
+Beef kway teow is theregion ofSingapore which islanguage inStandard Chinese. 
+Beef kway teow is theregion ofSingapore which isleader ofTony Tan. 
+Theleader of theSumitra Mahajan is theleader of theIndia which is thecountry. 
+Thesimilar dish is made from wheat or corn flour and is the location ofBhajji. Theingredient isGram flour. 
+Binignit is a dish from the United States, which is a member of the ingredient ofBinignit which is a member of the ingredients of which. 
+Binignit is a dish from the United States, which has amain ingredient ofSago. 
+Binignit is aredient of thedivision ofFlowering plant. 
+Binignit is a dish from theorder ofSolanales. 
+TheBionico has aredient ofGranola and is acourse isDessert. 
+Thedish variation ofBionico isHoney and is acourse area ofDessert. 
+Thedish variation ofDessert isIce cream and thecourse isDessert. 
+Theingredient of theBatagor isdish variation of theSiomay which is a member of the United States. 
+Thechristening date ofA-Rosa Luna is2005-04-07. It has anlength of125800.0 millimetres. 
+TheA-Rosa Luna isship classCruise ship and has alength of125800.0 millimetres. 
+AIDA Cruises was alocationRostock. 
+TheAIDAstella waschristening date on March March2013 and has alength of253260.0 millimetres. 
+TheengineFour-stroke engine is theFour-stroke engine. The country is the location of theALCO RS-3 which has abuilderMontreal Locomotive Works. 
+ALV X-1 wasmanufacturerAlliant Techsystems, which wasproduct isAGM-88 HARM. 
+TheAMC Matador was built byRichard A. Teague, whoseemployer was on theChrysler. 
+TheAMC Matador was built byRichard A. Teague and wasemployer wasGeneral Motors. 
+ARA Veinticinco de Mayo (V-2) has anlength of192000.0 millimetres and was an American of thecountry ofArgentina. 
+Abarth 1000 GT Coupe was built by themanufacturer. It has anman company ofGruppo Bertone. 
+Themanufactura TLX isHonda J engine. 
+Themanufacturer ofAcura TLX isHonda and has theengineInline-four engine. 
+Thebuilder ofAleksey Chirikov isFinland, theleader of theSauli Niinisö. 
+Aleksey Chirikov (icebreaker) has aship beam of21.2 and abuilder ofArctech Helsinki Shipyard. 
+TheAlfa Romeo 164, which wasassembly inMilan, is a member of theFiat Croma. 
+Thelocation of theAlhambra isDeptford, thepower type ofHumphrys, Tennant and Dykes. 
+Alhambra wasship beam of8.3m and was on 31 July1855. 
+TheAlvis Speed 25 is aengine of4387.0 (cubicCentimetres) and itsическийmission is"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, spiral bevel fully floating back axle. 
+Themanufacturer of theAMC Matador was in theAmerican MotorsfateEagle. 
+TheMid-Atlantic Regional Spaceport Launch Pad 0 is thecomparable ofDelta II. 
+TheAntares rocket was built byMid-Atlantic Regional Spaceport and was on January 1st,2014. 
+Ariane 5 wasmanufacturer inAirbus Defence and Space. TheAirbus Group isparent company. 
+Aston Martin V8, which is a member of transportation of theAston Martin RHAM/1, is asuccessor ofAston Martin Virage. 
+Themanufacturer ofAtlas II wasLockheed Martin andlaunch site wasCape Canaveral Air Force Station. 
+Audi A1 ismanufacturer and thesubsidiary ofDucati. 
+Audi A1 wasmanufacturer and is a member of theSEAT Ibiza. 
+AIDAluna is a member of theCaterpillar Inc. which iskey person isDouglas R. Oberhelman. 
+TheAtatürk Monument (òzmir) was designed by theinauguration date on 27 July,1932. 
+TheBaku Turkish Martyrs' Memorial is located in the city of Baku and is situated in the city of soldiers killed in the Battle of Baku. It is situated in the above sea level. 
+TheBaku Turkish Martyrs' Memorial is located in the name ofTürk <unk>ehitleri Aniti and is made in granite and white marble. 
+Dead Man's Plack is amaterial ofRock, whosededicated to<unk>thelwald, Ealdorman of East Anglia. 
+Aaron S. Daggett, whosebattle isBattle of Fredericksburg, was a member of the United States. 
+Aaron S. Daggett, whosebattle isBattle of Gettysburg, was awarded thePurple Heart. 
+Abdul Taib Mahmud was a member of theKingdom of Sarawak. He was a member of theparty ofParti Pesaka Bumiputera Bersatu. 
+Abdul Taib Mahmud was a member of theParti Pesaka Bumiputera Bersatu. He was a member ofMiri, Malaysia. 
+Abdulsalami Abubakar, whosein office whileMike Akhigbe was created byNigerian Army. 
+Abdulsalami Abubakar was a member of theChief of the Defence Staff in thebirth placeMinna. 
+Abdulsalami Abubakar was a member of theChief of the Defence Staff in the footballeria. 
+Abel Caballero was a member of theGalicia (Spain and was founded inPonteareas. 
+Abner W. Sibal was a member of theUnited States Army and was founded inUnited. 
+Abner W. Sibal was themilitary branch of theUnited States Army, which wasbattle inAmerican Revolutionary War. 
+Thebirth place ofAbraham A. Ribicoff isUnited States and has anspouse ofRuth Ribicoff. 
+Thebirth place of theAbraham A. Ribicoff isChicago and has anspouse ofCasey Ribicoff. 
+Adam Koc was abattle inPolish-Soviet War and was awarded theCross of Valour (Poland. 
+Adam Koc was awarded theOfficer's Star "Parasol". 
+Adam Koc was abattle inic War I and was awarded theVirtuti Militari. 
+Adonis Georgiadis was a member of thebirth place ofGreece and has theoffice ofDeputy Parliamentary Spokesman of Popular Orthodox Rally. 
+Adonis Georgiadis was a member of theKonstantinos Mitsotakis and is a member of theAntonis Samaras. 
+Adonis Georgiadis, whosein office while thein office whileAntonis Samaras was created byKonstantinos Mitsotakis. 
+Airey Neave, who was founded on1979-06-30, wasiveed by1953. 
+Airey Neave, whosebattle isWorld War II, wasive on March 4th1953. 
+Thebirth place ofAirey Neave, who wasKnightsbridge, is theKnightsbridge. 
+Airey Neave was abattle in theWorld War II which iscommander on theJoseph Stalin. 
+Albert B White was built by thesuccessor of theWilliam M. O. Dawson and was founded inParkersburg, West Virginia. 
+Albert Jennings Fountain was a member of theNew Mexico Territorydeath ofb Mexico Territory. He was a member of theEdmund J. Davis. 
+Alberto Teisaire was built byDiego Santilli. 
+Alfons Gorbach was abirth place ofTyrol and was created byAustria. 
+Alfons Gorbach was a member of theAdolf Schärf andbirth place ofAustria. 
+Alfred N. Phillips was a member of theMayor of Stamford, Connecticut. He was a member of thebirth place ofDarien, Connecticut. 
+Alfred N. Phillips was in theUnited States Army, which wasbattle inAmerican Civil War. 
+Allan Shivers, which has thesuccessor ofBen Ramsey, is aoffice of the Texas State Senate from District 4 (Port Arthur. 
+Thesuccessor of theHomer Elihu Royce is the location of theAlvah Sabin, which is located in theofficeSecretary of State of Vermont. 
+A Cesena is in thechampions theCarpi F.C. 1909. 
+Theground ofA.C. Chievo Verona isStadio Marc'Antonio Bentegodi. 
+Theground ofA.C. Lumezzane isItaly which isleader inPietro Grasso. 
+Themanager ofA.D. Isidro Metapan isJorge Humberto Rodriguez who was born inC.D. FAS. 
+A.E Dimitra Efxeinoupolis is located in theA EPSTH 2nd GROUP and isnumber of1500. 
+The footballer ofA.F.C. Blackpool is themanager ofStuart Parker who was born inRuncorn FC Halton. 
+Themanager ofA.F.C. Blackpool isStuart Parker who was born inSparta Rotterdam. 
+Theground ofA.F.C. Fylde isThe Fylde and itsnumber of3180. 
+A.F.C. Fylde has the members of3180 and itsground is"Bryning Lane. 
+Theman ofAS Livorno Calcio is themanager of theChristian Panucci, who was born inItaly national football team. 
+A.S. Roma, whoseground is"Rome, Italy, is in theSerie A. 
+ACF Fiorentina was written byItaly and is the location of theSerie A, which is based in the country of the country. 
+AFC Ajax, which ismanager ofFrank de Boer, who was born inAjax Youth Academy. 
+AFC Ajax, whoseowner isAFC Ajax N.V., wasmber of members is53502. 
+AFC Ajax (amateurs) was built byEberhard van der Laan. 
+AFC Ajax (amateurs) was a member of2014–15 Topklasse and is located in5000. 
+AZAL PFK was a member of theAZAL Arena, which is thelocation ofShuvalan. 
+AZ Alkmaar, whosefull name isAlkmaar Zaanstreek, was a member of the17023 members. 
+TheEstadio Municipal Coaracy da Mata Fonseca, which isBrazil, wasg byEstadio Municipal Coaracy da Mata Fonseca. 
+Agremiação Sportiva Arapiraquense, whosefull name is17000, is the location of the Arapiraquense. 
+Akron Summit Assault wasg by theAkron, Ohio, who was thecountry of theUnited States. 
+Themanager of theMassimo Drago isMassimo Drago, who was born in Chieti Calcio. 
+TheAcharya Institute of Technology is in the United Statesdirector of the country of Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It has itsdirector of the Institute is G. P. Prabhukumar and its itscampus is the Soldevanahalli, Acharya Dr. Sarva Main Road, Bangalore – 560090. 
+Acharya Institute of Technology, whose school colour is"Blue, White and Orange, iswas given the technical campus status byAll India Council for Technical Education. 
+TheAcharya Institute of Technology is located inTennis and isInternational Tennis Federation governing body. 
+Theaffiliation of theEuropean University Association was theaffiliation of theEuropean University Association,headquartered inBrussels. 
+Acharya Institute of Technology is inKarnataka which has the west ofArabian Sea. 
+1634: The Bavarian Crisis waspreceded byGrantville Gazette III and was created by theuthor"Virginia DeMarce and Eric Flint. 
+1634: The Ram Rebellion was an American whoseuthor wasEric Flint. 
+1634: The Ram Rebellion was an American in theHardcover. 
+ACM Transactions on Information Systems has theabbreviation ofACM Trans. Inf. Syst. and has thecoden code of"ATISET. 
+AIDS is a member of theUnited Kingdom which isleader toElizabeth II. 
+A Fortress of Grey Ice has anauthor ofJ. V. Jones and anisbn number of"0-7653-0633-6. 
+A Glastonbury Romance is a member of theisbn number of"0-7156-3648-0. 
+Theisbn number ofA Glastonbury Romance is0-7156-3648-0. 
+A Glastonbury Romance is a member of the pages of the war., which is1174. 
+A Long Long Way has the OCLC number57392246 and theisbn number is"0-670-03380-4. 
+A Loyal Character Dancer was written by theUnited States which isethnic group ofAsian Americans. 
+A Loyal Character Dancer waspublisher inSoho Press, whosecountry isUnited States. 
+A Wizard of Mars was author ofDiane Duane and has the OCLC number318875313. 
+A Wizard of Mars was a student of theHardcover and has theisbn number of"978-0-15-204770-2. 
+A Wizard of Mars was a member of the pages of pages. It has anisbn number of"978-0-15-204770-2. 
+Above the Veil, whosecountry was theAustralians. It waspreceded byAenir. 
+Aenir was a member of theAbove the Veil, whichlanguage isEnglish. 
+Above the Veil waspreceded byAenir, which has theCastle. 
+Acta Mathematica Hungarica is a member of theJulius Springer. 
+Administrative Science Quarterly has acoden code of"ASCQAG and aabbreviated toAdmin. Sci. Q. 
+Theaffiliation of theAssociation of Public and Land-grant Universities is theaffiliation ofCornell University. 
+Aenir, which has anauthor ofGarth Nix, wasisbn number of"0-439-17684-0. 
+The bookAlcatraz Versus the Evil Librarians ismedia type inHardcover and has anisbn number of"0-439-92550-9. 
+Alcatraz Versus the Evil Librarians has theisbn number of"0-439-92550-9 and wasumber of pages. 
+Theacademic discipline of theHIV isHIV, whosefamily isOrthoretrovirinae. 
+Thelanguage of theEnglish language is thelanguage ofUnited States which is thecountry of theUnited States. 
+Abilene Regional Airport is located inTaylor County, Texas, which is part of thecountry ofUnited States. 
+Adirondack Regional Airport is located inLake Placid, New York and is served bySaranac Lake. 
+TheAdolfo Suárez Madrid–Barajas Airport is operated by theMadrid and has a name of14L/32R. 
+TheAgra Airport is operated by theIndian Air Force and itsicao location identifier is"VIAG. 
+Theoperating organisation forUnited States Air Force is theAl Asad Airbase which is3078.48. and itsrunway length is3078.48. 
+Theoperating organisation forAl Asad airbase is theUnited States Air Force, which wasbattle inInvasion of Grenada and is inKorean War. 
+Theoperating organisation forAl Asad airbase is theUnited States Air Force, which wasbattle inInvasion of Grenada andOperation Enduring Freedom. 
+Theoperating organisation forAl Asad airbase is theUnited States Air Force, which is part of theOperation Enduring Freedombattle inKorean War. 
+Alderney Airport is located in the 1st runway surface type of the 1st runway is733.0 and has a length of733. 
+Alpena County Regional Airport has alocation ofWilson Township, Alpena County, Michigan and a length of1533.0. It has aelevation above sea level. 
+Amsterdam Airport Schiphol has a length of3500.0 and aelevation above sea level. 
+TheAndrews County Airport is inTexas, which is located in theHouston of theUnited States. 
+Angola International Airport is located incolo e Bengo, which is operated by theAngola, has a length of4000.0. 
+Angola International Airport is a company incolo e Bengo, which is operated by theAngola. The airport is also known as the name of Runway. 
+TheAntwerp International Airport is located in theFlemish Region and has aelevation above sea level of12.0. 
+Antwerp International Airport is the Академи ofFlemish Region and itsoperating is theFlemish department of Mobility and Public Works. 
+Apleton, Wisconsin is part ofKimberly, Wisconsin, which is part ofLittle Chute, Wisconsin. 
+Apleton International Airport is thelocation ofGreenville, Wisconsin, whosecountry is theUnited States. 
+The 1st runway atArdmore Airport (New Zealand) is made fromPoaceae, which has thedivisionFlowering plants as itsorder. 
+Ashgabat International Airport has alocation ofAshgabat and a length of3800.0. It waselevation above sea level in metres. 
+Athens International Airport is located in theAthens, which is led by theAlexis Tsipras. 
+TheAtlantic City International Airport is operated byEgg Harbor Township, New Jersey, which is located in theUnited States and itsrunway name is"4/22. 
+Theleader ofAntwerp International Airport is located in theBelgium, which is led by theleader of thePhilippe of Belgium. 
+The 1st runway atArdmore Airport (New Zealand) is made from theCommelinids and is made from theCommelinids. 
+Aaron Bertram was a member of theKids Imagine Nation. He was a member of theSuburban Legends, who was a member of thePop musical. 
+Aaron Deer is aorigin of theUnited States and is a member of thegenre ofIndie rock. 
+Aaron Turner, who was born inTwilight and is a musical artist ofGreymachine. He is a musicalgenre ofBlack metal. 
+Aaron Turner, who was born in theGreymachine and is a musicalgenre ofDrone music. 
+Aaron Turner, who was born inTwilight and is a musical artist of the band ofTwilight. 
+Aaron Turner, who was born in the musical artistSumac, has amusic fusion ofDeath metal. 
+Aaron Turner is a member of theDeath metal fusion ofDeath metal. He is a member of theElectric guitar. 
+Thegenre ofAbradab isHip hop music, whosemusic subgenre isGangsta rap, is calledDrum and bass. 
+Ace Wilder, a solo singer, was a member of theWarner Music Group. 
+Agustin Barboza was a member of theGuaraniagenre of which is thebackground ofsolo singer. He isrecord label which ishilips Records. 
+Agustin Barboza was on the 1st of July1913. He isbirth place ofAsunción. 
+Ahmet Ertegun is aorigin forUnited States and is part of thegenre ofBlues. 
+Al Anderson, who was born in the band NRBQ, is located inThe Wildweeds. He was a member of the band1966ive. 
+Alan Frew is agenre ofRock music which has itsstylistic origins inCountry music andFolk music. 
+Albennie Jones was built byErrata Mississippi and has thegenre ofsolo singer. 
+Albennie Jones is a member of the genre ofJazz, which has themusic fusion ofAfrobeat as a fusion. 
+Aleksandra Kovac is a musical artist of the band ofBebi Dol and has the musical artistKornelije Kovac. 
+Aleksandra Kovac is a musical artist of the sisters duo and is a member of the bandK2. Hisgenre isRhythm and blues. 
+Aleksandra Kovac is a musical artist of the band ofRhythm and blues. Hisassociated band,Kornelije Kovac. 
+Alfred Garth Jones was built byEngland and was created byManchester. 
+Alfred Garth Jones was a member of theUnited Kingdom and was created byManchester. 
+Alfred Garth Jones was built by theLondon, which isleader inBoris Johnson. 
+Alfredo Zitarrosa, whosegenre isZamba, is located in the city ofRCA Records. Thebackground issolo singer. 
+Alison O'Donnell was a member of theStatic Caravan Recordings and was built by thegenre of theJazz which isderivative ofFunk. 
+Allen Forrest was a member of theAcoustic musician. He was a member of thebirth place ofAcoustic and was part of the Dothan of thebackground issolo singer. 
+Anders Osborne is a member of the band for the musical artistsBilly Iuso andVoice of the Wetlands All-Stars. 
+Anders Osborne, whosegenre isRock music, wasrecord label isAlligator Records. 
+Andra is a singer who was a singer, whosegenre isRhythm and blues. He is a singerassociated band musical artist inCRBL. 
+Thegenre ofAndra isRhythm and blues, which is led byDisco. 
+Thegenre ofAndrew Rayel isHouse music and the musical artist is theJwaydan Moyine. 
+Andrew Rayel is agenre ofHouse music. He is a musical artist of the musical artist of theJwaydan Moyine. 
+Alan Bean was a member of theApollo 12operator ofNASA. He wascommander onDavid Scott. 
+Thedeath of theAlan Shepard was the name of theDianne Feinstein, was on the 1st July,1998. 
+TheBuzz Aldrin, whosealma mater is Edwin E. Aldrin Jr, was a member of theApollo 11 Salvador. He was a member of theMassachuset Institute of Technology in 1963. 
+TheBuzz Aldrin was a member of theApollo 11 Salvador. He was a member of thewarth place ofGlen Ridge, New Jersey and has a Canada in space.0 minutes. 
+Thedeath of theDistinguished Service Medal, the United States Navy, theAlan Shepard was thefossil ofCalifornia. 
+Elliot See was built by the Easternth of March1966, and was designed by the Easternth of March1966. 
+Elliot See was built by thebirth of July1927 and was a member of theDallas. 
+Thebirth ofWilliam Anders was assembled inBritish Hong Kong and was designed byApollo 8. 
+Aaron Boogaard, who was a member of theWichita Thunder, is thebirth place ofRegina, Saskatchewan. It has anheight of1.905. 
+Aaron Hunt, a member of theVfL Wolfsburg, is a member of theGoslarer SC 08outhclub. 
+Aaron Hunt, a member of theVfL Wolfsburg, is a member of theGoslarer SC 08outhclub. 
+Abel Hernandez, whoseouthclub isCentral Español, is a member of theCentral Espanol. 
+Ad Kadhim Assad, who was a member of theEsteghlal Ahvaz F.C., which ismanager ofAdnan Hamad, is a member of theIraq national football team. 
+Akeem Ayers was built byTennessee Titans anddraft pick is"39. 
+Akeem Ayers wasdraft pick in"39 and is part ofSt. Louis Rams. 
+Akeem Ayers was written byTennessee Titans and isformer team. He is also the team ofSt. Louis Rams. 
+Akeem Dent was a member of theAtlanta Falcons and was founded on 27th July1987. 
+Akeem Priestley was a member of thebirth place ofJamaica, which isleader inPatrick Allen and was built byElizabeth II. 
+Alaa Abdul Zahra, which is a member of theAl-Khor Sports Club, is a member of theAl Shorta SC. 
+Alaa Abdul Zahra, whoseground isAl Khor, is a member of theShabab Al-Ordon Club, is a member of theAl Kharaitiyat SC. 
+TheAlan Martin was a footballer for thebirth of January 1,1989. He was a footballer for theAldershot Town FC and is a footballer for thebirth ofCrewe Alexandra FC. 
+The footballerAlan Martin was a footballer on January 1,1989. He was a footballer for theHamilton Academical FC and is a footballer of thebirth ofCrewe Alexandra FC. 
+Aleksander Barkov Jr was built by1995 andbirth place on1995. He was a member of thebirth of1995. 
+Aleksander Barkov Jr was built by1995 and is a member of theFlorida Panthers. It was a member of the1995 and wasbirth on1995. 
+Aleksander Barkov Jr was a member of theFlorida Panthers. He was a member of the country of which was created by"Tampere, Finland and was created by"Tampere. 
+Aleksandr Prudnikov, who was a member of theFC Kuban Krasnodar, is located atFC Dynamo Moscow, was built on the 1st of July,1989. 
+Aleksandr Prudnikov, who was a member of theFC Kuban Krasnodar, is located on November02-24 and is a member ofFC Spartak Moscow. 
+Aleksandre Guruli, whoseground isParc Olympique Lyonnais, is a member of theAZAL PFK. 
+Alessio Romagnoli, who was a member of theU.C. Sampdoria, is a member of themanager ofSiniša Mihajlović. 
+Alex Plante, whosebirth place isManitoba, is located in1989. 
+TheMaccabi Ashdod BC. was a member of theTurkish Basketball Super League. Thecoach isZvi Sherf. 
+Thebirth place of theAlex Plante isCanada, which washemed by theElizabeth II. 
+Aleksandr Chumakov was a member of theValery Petrakov, whoseseason is2014–15 Russian Premier League. 
+Abner, who was born in theLuis Miguel Ramis, is a member of theReal Madrid Castilla, which was founded inCoritiba Foot Ball Club. 
+TheAkeem Adams, whoseground isPalo Seco, is a member of theUnited Petrotrin F.C., was a member of theUnited Petrotrin F.C. and Tobago national under-20 football team. 
+The11 Diagonal Street is a member of theCape Towncapital and isleader ofCyril Ramaphosa. 
+The11 Diagonal Street is a crew member of theJacob Zuma, theleader of theSouth Africa is located in theColoured. 
+Theleader of11 Diagonal Street isJacob Zuma and itsethnic group isWhite South African. 
+200 Public Square is theleader of the200 Public Square, which is located in theUnited States. 
+Thelocation of250 Delaware Avenue isBuffalo, New York, which is part ofErie County, New York. 
+Thelocation of300 North LaSalle isChicago, whosecountry was theUnited States, is the location of theChicago. 
+3Arena was designed byDublin, who was born in thelocation ofDublin. He was designed by theDecember 2008. 
+3Arena was designed byDublin, who was born in thelocationDublin, is located in the city of which has ancompletion date ofDecember 2008. 
+TheLive Nation Entertainment is the Академи of3Arena which was written byDublin, whosecountry isRepublic of Ireland. 
+Thetenant ofAC Hotel Bella Sky Copenhagen isMarriott International and wasarchitect in3XN. 
+TheAdare Manor was designed by1862 and wasarchitect inJames Pain. It was a member of theJ. P. McManus. 
+TheAddis Ababa City Hall, which has a epoch date of Addis Ababa, was a crew member of the country of the country of the country is140000.0 square metres. It has ancurrent tenants of the country of the country of the country is the name of Addis Ababa. 
+TheAdisham Hall is a crew member of the1931completion date of1931. It wasarchitectural style ofTudor Revival. 
+TheAkita Museum of Art is a member of3 and wasfloor area of3746.66 square metres. It was on March 1st,V. 
+TheAkita Museum of Art is alocation ofAkita, Akita Prefecture, thecountry of theAkita, which is located in theJapan. 
+The Bollege of William and Mary is the Академи of theAlan B Miller Hall, which has thebuildings of30 March 2007, is thelocation ofVirginia. 
+The company of theAlan B Miller Hall was designed byVirginia and waschancellor ofRobert Gates. 
+TheMason School of Business, which is thecountry of theUnited, was thelocation ofVirginia. 
+The Bollege of William and Mary is the Академи of theAlan B Miller Hall, which has thebuilding start date of"30 March 2007. 
+Ampara Hospital, whoseregion isAmpara District, has abed count of476. 
+Ampara Hospital is a member of theEastern Province, Sri Lanka and was written byRanil Wickremesinghe. 
+TheAsher and Mary Isabelle Richardson House was designed by the National Register of Historic Places on the11-22 and was designed by thelocation ofU.S. Route 83. 
+TheAsilomar Conference Grounds was designed by the National Register of Historic Places on 27th27 and was designed by the reference number of87000823. It was designed by thelocation ofPacific Grove, California. 
+TheAsser Levy Public Baths was designed byAsser Levy Place and East 23rd Street and was designed by the National Register of Historic Places on 23rd April де House and reference number80002709. 
+TheAsser Levy Public Baths was written byNew York City, which is part ofManhattan. 
+Theleader ofT. S. Thakur is theAmdavad ni Gufa and is located inSumitra Mahajan. 
+(410777 2009 FD has anorbital period of39447000.0 and anperiapsis of88234300000.0. 
+The(66063 1998 RO1 has anmaximum temperature of-71.0 kelvins and anapoapsis of254989570.60815 kilometres. 
+(6391 1999 KW4 has anaverage speed of37.16 km/s and anapoapsis of162164091.8388 kms. 
+1001 Gaussia has an apoch of2015-06-27 and anformer name of1923 OAA907 XC. It has anperiapsis of419113394.55312 kilometres. 
+101 Helena was built by theMadison, Wisconsin and was thediscoverer of theJames Craig Watson, who was born inCanada. 
+1036 Ganymed was a member of theWalter Baade, who was born in theUniversity of Göttingen. 
+103 Hera has an epoch date of0482 km/s and anapoapsis of437170000.0 km. It has aescape velocity of0.0482 km per sec. 
+103 Hera has an epoch date of7.9 kilograms and anescape velocity of0.0482 km per sec. It has anapoapsis of437170000.0 km. 
+Theepoch of107 Camilla is2006-12-31 and has andiscoverer ofE. Wells. It has anperiapsis of479343000.0 kilometres. 
+The107 Camilla was published byN. R. Pogson, who was built by2006-12-31, is located inNottingham. 
+1097 Vicia has anepoch of2006-12-31 and anperiapsis of279142000000.0, anapoapsis of511592000.0 kilometres. 
+1097 Vicia has anescape velocity of0.0112 km/s and anapoapsis of511592000.0 km. 
+1099 Figneria has aescape velocity of0.0155 km/s and anapoapsis of605718000.0 km. 
+10 Hygiea has ansurface area of837080.744 square km and anapoapsis of523951582.33968 kilometres and antemperature of164.0 kelvins. 
+1101 Clematis has anorbital period of183309000.0 and anapoapsis of520906000.0 kilometres. 
+110 Lydia has anorbital period of142603000.0 and anperiapsis of377016000000.0. It wasepoch is2006-12-31. 
+Abilene, Texas has aelevation above sea level of524.0 and apopulation density of429.9 inhabitants per square kilometre. It has aarea total of286.5 square kilometres. 
+Abilene, Texas is part ofTexas, which has acapital ofWashington, D.C. and is thecountry ofUnited States. 
+Albany, Georgia, is part ofDougherty County, in the United States. Thecountry of theUnited States isethnic group ofAfrican Americans. 
+Albany, which is part ofLinn County, Oregon, is in theUnited States and is a member of theis part ofBenton County. 
+TheNew Mexico House of Representatives isleader inDon Tripp and is located in theUnited States. 
+Albuquerque City Council isleaderRichard J Berry and is located in theUnited States and is located in the city ofAlbuquerque City Council. 
+Alpharetta, Georgia, is in the state ofGeorgia, and is a member of theUnited States which isethnic group ofAfrican Americans. 
+Amarillo, part ofRandall County, Texas, is in thecountry ofUnited States. 
+Amarillo is part ofPotter County, Texas, which is located in the United States and is located in thecountry of theUnited, which isethnic group ofNative Americans. 
+Amarillo, Texas, is part ofRandall County, Texas, is located in the United States. Thecountry of theUnited States isNative Americans. 
+Anaheim is part ofOrange County, California, which is part of theGreater Los Angeles area, is thecountry of theUnited States. 
+Theleader ofAnaheim, which is part ofOrange County, in theUnited States House of Representatives, which is located in thelocation ofUnited. 
+Angola, which is part ofSteuben County, Indiana, is located in the United States and is located in theNative Americans. 
+Atlanta has anarea code of404, 678, 470 and anpopulation density of1299.0 inhabitants per square kilometre. 
+Atlanta, whoseis part ofGeorgia, is theis part of theUnited States and is a member of theethnic group ofAfrican Americans. 
+Atlanta, who was born in theUnited, is part ofDeKalb County, Georgia. 
+Auburn is in Alabama, which is part of theUnited States and is located in the Italian ofLee County, Alabama. 
+Auburn, which is a member of thecapital ofOlympia, Washington, is thecountry ofUnited States. 
+Austin, Texas is thecountry of theUnited States which is home to theAmericans and isethnic group ofAfrican Americans. 
+Thecountry of theUnited States is theUnited States ofAnderson, which is part ofMadison County, Indiana. 
+Alexandria is theis part ofMadison County, which is in the city ofAnderson, Indiana, is thecountry of theUnited States. 
+Abilene, which is part ofJones County, is in theUnited States and has acapital ofWashington, D.C. 
+Abilene, which is inTaylor County, is in theUnited States which has acapital ofWashington, D.C. 
+Albany, Oregon is a member of theUnited States which has acapital ofWashington, D.C. 
+Auburn is part ofKing County, Washington, which is in thecapital ofUnited States isWashington, D.C. 
+The company of theUnited States is the location ofAlbuquerque, New Mexico. It wasethnic group of theAfrican Americans. It is thecountry of theUnited States which is the location of theAfrican Americans. 
+TheUnited States is thecountry of theUnited States which is led byEnglish language. It is the home of theAlbany, Oregon. 
+Theleader ofUnited States isBarack Obama, which is located in the United States and is led byNative Americans. 
+TheUnited States is led byEnglish language and isethnic group ofAsian Americans. It is thecountry of theUnited States which is led by thelanguage. 
+Theleader ofAnaheim, California is the location of theUnited States House of Representatives, which is part of theUnited States Congress. 
+Auron was created byWalt Simonson and thenationality of theAmericans. 
+BBC, abroadcasted byLondon, is abroadcasted ofBBC, which is a Shuer ofTony Hall, Baron Hall of Birkenhead. 
+Banaman was abroadcasted by the United States and was founded on March Marchth,1983. 
+Baymax, who was created byDuncan Rouleau, is also known asBa Hero 6 and was created bySteven T. Seagle. 
+Bibbo Bibbowski, whose name is Bibbowski, was created byMarv Wolfman and has thefull name of Bibbowski. 
+The comic characterBlockbuster, was created byRoger Stern and is located at the name of the comic character,Roland Desmond. 
+The comic characterBolt was created byDan Mishkin andErnie Colon. It is also known asBolt and thealternative name of the characterarry Bolatinsky. 
+The comic characterBolt, whosealternative name is"Larry Bolatinsky, is located inDan Mishkin. 
+AmeriGas, whoseoperating income is380700000, is a member of theindustryEnergy industry, was thecountry ofUnited States. 
+Thefoundation place of theManila wasInsular Government of the Philippine Islands. Thelocation of theChinabank was which washilippines. 
+TheGMA New Media, whosetype isMedia company, wasproduct isWorld Wide Web. It is a member of theGMA New Mediaindustry. 
+GMA New Media, whoseindustry isMass Media, is alocation ofQuezon City. 
+GMA New Media, a member of theGMA Network, which is aparent company ofGMA Network, which istype wasFelipe Gozon. 
+Hypermarcas was born on January 1,2001 and has anet income of108600000. 
+Hypermarcas, a member of the10252, has anet income of108600000. 
+Hypermarcas, who was born on January 1st July2001, was alocation ofMantecorp. 
+Trane was born inLa Crosse, Wisconsin, has aarea total of58.38 and itstype isSubsidiary. 
+Thefoundation place ofTrane wasLa Crosse, Wisconsin and is located in thelocation ofIreland. 
+Trane was a member of the National Register of Historic Places on 11th July10264000000. It hasnet income of556300000. 
+Ajoblanco is a member of thealternative name ofAjo blanco, which is aredient ofBread. 
+Ajoblanco, who was born in the United States and was a member of theAndalusia. He was aredient ofWater. 
+Thecountry ofArem-arem isIndonesia,leader inJoko Widodo, and is located inJusuf Kalla. 
+TheArem-arem was written byJusuf Kalla and is located in Indonesia, but more specific to Java. 
+Thecountry ofArrabbiata sauce isItaly, which islanguage ofItalian. 
+Arrabbiata sauce, whosecountry isItaly, wasregion isRome. It has aredient ofChili pepper. 
+Arrabbiata sauce, whosecountry isItaly, wasregion isRome. 
+TheArròs negre is a member of theCatalonia and is aregion of theCatalonia. 
+TheArròs negre is a member of theValencian Community and is a member of theCuttlefishred. 
+TheMalaysia is thecountry ofAsam pedas which is a member of the country of which is theregion ofAsam and Malay Peninsula. The country is amain ingredient of the country of the country isish cooked in sour and hot sauce. 
+TheAyam penyet is amain ingredient of the smashed fried chicken served with sambal. Thecountry of theAyam penyet isJava. 
+TheBacon Explosion is a member of the United States and is a member of the United States and is a member of the United States and is a member of the United States. 
+Thecountry of theUnited States is thecountry ofBacon Explosion. The country'scapital isWashington, D.C. and itsethnic group isNative Americans. 
+Thecountry of theUnited States is theleader ofBacon Explosion and has acapital ofWashington, D.C. 
+Thecountry of theUnited States is thecountry of theUnited which is led byJohn Roberts. The country is home to theAfrican Americans. 
+Thedish variation ofBacon sandwich is the sandwich, whosecountry is theUnited Kingdom, is aredient ofCondiment. 
+Thecountry ofBaked Alaska, whoseregion isNew York, is aredient ofMeringue. 
+Thecountry of theUnited States isBaked Alaska, whoseregion isNew York. 
+TheDessert is thedish variation ofCookie and theingredient ofChristmas pudding. 
+TheDessert is thedish variation ofSandesh (confectionery) and was aredient ofChristmas pudding. 
+Bandeja paisa has theKidney bean and is a member of theColombian cuisine. 
+Thecountry of theGérard Larcher is theleader of theGérard Larcher andClaude Bartolone. 
+Thedish variation ofBarny cakes, which is thecarbohydrate of18.0 g and isprotein of1.8 g. 
+Beef kway teow is thecountry of the city ofSingapore which isleader ofHalimah Yacob. 
+The celestial body known asBeef kway teow, whoseregion isIndonesia, is a member of thecountry of Indonesia and is the leader of the country and Indonesia. 
+Theleader of theBeef kway teow isTony Tan and is located in theIndonesiary. 
+Thecountry ofBhajji isIndia and itsmain ingredients areGram flour and vegetables. 
+Thecountry of theIndia is thecountry of theIndian people and isleader ofT. S. Thakur. 
+Thecountry of theIndia is theleader ofT. S. Thakur and isNarendra Modi. 
+Bhajji has aregion ofKarnataka and is a member of theGram flour. He has aredient ofGram flour. 
+Binignit is a member of thecountry ofPhilipines. The main ingredients ofBinignit is the main ingredients of which is the main ingredient of the dish. 
+Thecountry ofBionico isMexico and was a member of theDessert. 
+Bionico, whosecountry isMexico, was awarded theingredient ofRaisin. 
+Thegenus ofCelery isApium and theingredient isCelery. 
+The dessert of theDessert, which is thedish variation ofCake. Theingredient isGranola. 
+Thecapital ofIndonesia isJakarta and is led byJusuf Kalla. 
+The company of theAyam penyet isJava, which is led by theJava, isethnic to theBaduy. 
+The leader of theAyam penyet isJava, which is a member of theBanyumasan people and is home to the red of the country and Singapore. 
+Thelanguage of theSpanish language is thecountry of the country isSpain which isleader ofFelipe VI of Spain. 
+1955 Dodge, whosealternative name isDodge Coronet, is part of theHardtop style. 
+Thealternative name of1955 Dodge is calledDodge Coronet and has anическийmission of"3-speed automatic. 
+Theship class ofCruise ship isA-Rosa Luna, which islength of125800.0 millimetres long. It wasship ordered on2004-01-22. 
+AIDAstella, who was made by the Bosta Crociere, was alocation ofGermany. 
+Thecylinder count of theALCO RS-3 has aMontreal Locomotive Works and alength of17068.8 millimetres. 
+Thecountry of theUnited States is thecountry of theUnited which is home to theAfrican Americans. The company is the location of theUnited States which is home to theAmericans. 
+Themodel ofAMC Matador is1974 and itsassembly isKenosha, Wisconsin. 
+Theassembly ofAMC Matador isPort Melbourne, Victoria and itsmodel of theAMC Matador is1971. 
+TheAbarth 1000 GT Coupe wassign company of theGruppo Bertone, who was born inTurin, is thecountryItaly. 
+Aleksey Chirikov, which has aArctech Helsinki Shipyardbuilder theFinland, is ademonym ofFinns. 
+TheAlfa Romeo 164, which is a member of theLancia Thema, wasassembly inItaly, has thecapitalRome. 
+TheAlfa Romeo 164, which wasassembly isArese, is located inLancia Thema. 
+Alhambra has aship beam of8.3m and alength of63800.0 millimetres and wasstatus ofWrecked. 
+ThemanufacturerAlvis Speed 25 is theAlvis Car and Engineering Company, whosesuccessor isRover Company, wasfoundation place inCoventry. 
+TheAMC Matador wasmanufacturer in theAmerican Motors, which iskey person isRoy D. Chapin Jr. 
+Themanufacturer ofAntares (rocket) wasYuzhnoye Design Office and was built by theMid-Atlantic Regional Spaceport Launch Pad 0. It wasmaiden flight on April2013-04-21. 
+ARA Veinticinco de Mayo (V-2) was an American. Thecapital of theMauricio Macri is theleader ofArgentina. 
+TheAston Martin V8, which is a member of theAston Martin RHAM/1, isassembly in"Newport Pagnell, Buckinghamshire, England, United Kingdom. It is aengine of5.3 litres. 
+TheAston Martin V8, which is a member of theAston Martin DBS, isassembly in"Newport Pagnell, Buckinghamshire, England, United Kingdom and isengine of5.3 litres. 
+Aston Martin V8, which is a member of theAston Martin RHAM/1, is a member of theAston Martin Virage which ismanufacturer. 
+Atlas II was an American from theUnited States which is led by theleader title ofPresident of the United States and is located in theNative Americans. 
+TheAudi A1 wasassembly inAudi Brussels and has theengine of1.2 litres. 
+Audi A1 wasmanufacturer. TheVolkswagen Polo is therelated mean of transportation<unk>SEAT Ibiza. 
+TheAIDAluna is thepower type ofCaterpillar Inc. wasfoundation place inCalifornia. Thelocation wasPeoria, Illinois. 
+TheAIDAluna is apower ofCaterpillar Inc. which is a member of theUnited States and iskey person wasDouglas R. Oberhelman. 
+TheGuiana Space Centre washeadquartered inKourou, French Guiana. TheELA-3 islaunch site of theELAriane 5. 
+Thesite of theGuiana Space Centre, which islaunch site of theELA-3, is theши Guiana. 
+Thecountry of theUnited States is thecountry of theUnited States which is located in the United States which is home to theWhite Americans. 
+The11th Mississippi Infantry Monument is thelocation ofAdams County, Pennsylvania, which has the westFranklin County to the southwestFrederick County, Maryland. 
+Azerbaijan isleader toArtur Rasizade and itsdedicated to the soldiers killed in the Battle of Baku. It is situated to thelocation ofAzerbaijan. 
+The city ofBaku Turkish Martyrs' Memorial, which was designed byAzerbaijan, is situated in the city of the city of Baku, is situated in the city of the city of the city of the city of which is led by theHüseyin Butuner and Hilmi Guner. 
+TheAzerbaijan isleader ofArtur Rasizade and was thelocation ofBaku Turkish Martyrs' Memorial, which wasdesigner was on Januaryyin Butuner and Hilmi Guner. 
+TheAzerbaijan is the name of theBaku Turkish Martyrs' Memorial, which isdesigner of theHüseyin Butuner and Hilmi Guner, was designed by the name ofTürk <unk>ehitleri Aniti. 
+Aaron S. Daggett was a member of theMaine and wasbattle of Fredericksburg. 
+Ab Klink was a member of the thebirth place ofNetherlands and was a member of theErasmus University Rotterdam. Hisalma mater isErasmus University Rotterdam. 
+Abdul Taib Mahmud was a member of theKingdom of Sarawak. He was a member of the"Barisan Ra'ayat Jati Sarawak. 
+Abdul Taib Mahmud was a member of the"Barisan Ra'ayat Jati Sarawak. He was a member of theSarawakparty inMiri, Malaysia. 
+Abdulsalami Abubakar was a member of theMike Akhigbe, which waspredecessor wasladipo Diya. He was a member of theMike Akhigbe. 
+Abdulsalami Abubakar, whosein office whileMike Akhigbe was created by theMike Akhigbe, which waspredecessor isladipo Diya. 
+Abdulsalami Abubakar was created byNigerian Air Force and was created by theAtiku Abubakar. He was a member of theNigerian Air Force. 
+Thebirth place ofAbel Caballero isGalicia (Spain) and wasoffice isMinister of Transport. 
+Thebirth place of theGalicia (Spain) is theGalicia (Spain. TheAbel Caballero wasin office whileJuan Carlos I of Spain waspredecessor. 
+Thecommander ofAbner W. Sibal wasChiang Kai-shek. He was in theUnited States Army and was created by theUnited States Army. 
+Thebirth place ofAbraham A Ribicoff isChicago and thespouse is theCasey Ribicoff. Theoffice of the United States Secretary of Health, Education and Welfare is the managerth place of theChicago. 
+Adam Holloway was a member of theMagdalene College in Cambridge and was a member of theConservative Party in thebirth place ofKent. 
+Adam Koc was abattle inPolish-Soviet War and was awarded theCross of Valour (Poland. 
+Adam Koc was abattle inPolish-Soviet War. Thecommander on theLeon Trotsky is theLeon Trotsky. 
+Adonis Georgiadis was a member of thebirth place ofGreece and is located in theoffice of"Minister for Health. 
+Agnes Kant was a member of theSocialist Party in the Netherlands and was a member of the United States. He was a student at the United States. 
+Agnes Kant, whosealma mater isRadboud University Nijmegen, was a member of theHouse of Representatives in footballetherlands. 
+TheNetherlands is theleader ofAgnes Kant, which was built by theHouse of Representatives in the football ofNetherlands. 
+Airey Neave, who was married to the name of the British Empire, was awarded theman of theAirey Neave, was on the1979-03-30. 
+Airey Neave, who was founded on March1974-03-30, wasbattle inBattle of France. 
+Airey Neave, whosebattle isWorld War II, was awarded theMilitary Cross and wasive by NASA. 
+Albert Jennings Fountain was built by theb Mexico Territory in the United States. He wasbirth place ofStaten Island. 
+Alfons Gorbach was built by theGraz andbirth place ofCounty of Tyrol. 
+Alfons Gorbach was built by thebirth place ofTyrol and wasGraz. 
+Allan Shivers, whoseparty isDemocratic Party, was created by the Texas State Senate District 4 (Port Arthur, is located in the United States. 
+Thebirth place ofAlvah Sabin wasGeorgia, Vermont. It was thebirth place of the State of Vermont and was1793. 
+Theparty of theWhig Party of the United States which isleader ofDaniel Webster. It wasbirth place ofGeorgia, Vermont. 
+TheAlfred Moore Scales was abattle of Fredericksburg, whoseis part of theAmerican Civil War wasne. It was part of the United States. 
+Austria, who was built byDoris Bures, is thebirth place ofAustria-Hungary. 
+Austria is theleader of theDoris Bures and was built by thebirth place ofAustria. 
+Thebattle of Cold Harbor wasne in theAmerican Civil War. Thecommander onRobert E. Lee. 
+Thelanguage ofAdam Koc was completed in theKashubiansethnic and is part of theKashubians. 
+Theground ofA.C. Cesena isCesena, who was founded in23900, was in theSerie B. 
+Theman ofA Cesena isMassimo Drago, whoseclub isS.S.D. Potenza Calcio, is the location of theMassimo Drago. 
+Thenumber of members of4150 is thenumber ofA.C. Lumezzane, whoseseason is2014. 
+A.D. Isidro Metapan, who was built by10000, has anEstadio Jorge Calero Suárez and itsfull name is"Isidro Metapan. 
+TheNikos Voutsis is theleader ofGreece which is theleader of the A.E Dimitra Efxeinoupolis which is in theProkopis Pavlopoulos. 
+The footballer ofA.F.C. Blackpool is located inDrogheda United F.C. and was designed by themanager ofStuart Parker. 
+Themanager ofA.F.C. Blackpool is the footballer of theDrogheda United F.C. and is located inStockport County FC. 
+Theman ofA.F.C. Blackpool is themanager ofStuart Parker, who was a member of theKV Mechelen. 
+A.F.C. Fylde has theground ofWarton, Fylde and is located in3180. Thefull name ofAssociation Football Club Fylde is the name ofAssociation Football Club Fylde. 
+Theman ofA.S. Livorno Calcio is in the city of the city of the city of the House House forGenoa C.F.C. and is located in theReal Madrid CF. 
+Thefull name ofA.S. Roma is the location of70634 and itsfull name isAssociazione Sportiva Roma S.p.A. It has aground ofRome and Italy. 
+AEK Athens F.C. was a member of theSuperleague Greece and wasground in theAthens. 
+AFC Ajax (amateurs) was a member of theHoofdklasse and is located in2014. 
+AZAL PFK was a member of theAZAL Arena and was a member of theQarabaò FK. 
+AZ Alkmaar, whoseason is2014, wasmber of17023 and was a member of the name ofAZ Alkmaar Zaanstreek. 
+AZ Alkmaar was amanager ofJohn van den Brom, whoseclub isVitesse Arnhem and is located inDe Graafschap. 
+TheVila Nova Futebol Clube is thechampions ofAgremiação Sportiva Arapiraquense, who play in theCampeonato Brasileiro Série C. The airport was built byEstadio Municipal Coaracy da Mata Fonseca. 
+Agremiação Sportiva Arapiraquense was a member of theCampeonato Brasileiro Série C who play in theBrazil andchampions theVila Nova Futebol Clube. 
+The book,Akron Summit Assault was a member of thechampions ofK-W United FC, was a member of the Vincent-St. Mary High School. 
+Thechampions of theK-W United FC was the location of theAkron Summit Assault, which wasumber of3000, is the location of the country of which. 
+Theleader of theSergio Mattarella isItaly which is located in the country of the country of the country isSergio Mattarella. 
+AEK Athens FC was a member of theOlympic Stadium (Athens which is alocation ofAthens. Theround of theAEK Athens FC was theground of theGiorgos Kaminis. 
+TheAccademia di Architettura di Mendrisio is located in theMario Botta, and wasued in600. 
+TheAcharya Institute of Technology is located in theNurturing Excellence and is located in thecountry of the country of which is the location of theangalore. 
+TheAcharya Institute of Technology was a member of the country of the country was founded inBangalore and is located in thecountry of"India. 
+TheAcharya Institute of Technology is located inTennis, which has theestablished of2000 and the governing body isInternational Tennis Federation. 
+TheMumbai is thelargest city ofIndia which is the location of theAWH Engineering College. Thecountry ofIndia isGanges. 
+Theleader of the1 Decembrie 1918 University is located in the state ofRomania, which is located in theKlaus Iohannis. 
+1 Decembrie 1918 University is located in thecountryRomania, has anAndrew the Apostle. It was created byUniversitas Apulensis. 
+The companySchool of Business and Social Sciences at the Aarhus University is737 and was built by16000 and has anacademic staff. It was built by theestablished1928. 
+1634: The Bavarian Crisis was created byinia DeMarce and Eric Flint and is a member of themedia type of the country of which is theisbn number"978-1-4165-4253-7. 
+Theauthor of1634: The Bavarian Crisis was built by theEric Flint, which waspreceded by1634: The Baltic War. 
+The 34: The Ram Rebellion was an American from theEric Flint. It was built byEric Flint and is located in the pages of"512. 
+1634: The Ram Rebellion was written byEric Flint and has theisbn number of"1-4165-2060-0. 
+The1634: The Ram Rebellion was built by the United States and ismedia type of theE-book. It was built by Flint, Virginia DeMarce and et al. 
+ACM Transactions on Information Systems has theabbreviation ofACM Trans. Inf. Syst. and theacademic discipline ofComputer science. It has anissn number of1046-8188. 
+ACM Transactions on Information Systems has theacademic discipline ofComputer science and theabbreviation ofACM Trans. Inf. Syst. and theissn number is"1558-2868. 
+Thecountry of theUnited Kingdom is thecountry ofAIDS. It has an orbital period ofLippincott Williams & Wilkins and is theleader ofElizabeth II. 
+AIP Advances, whoseeditor isA.T. Charlie Johnson, was built by theUnited States and has anpublisher ofAmerican Institute of Physics. 
+AIP Advances, whosebbreviation isA.T. Charlie Johnson is theeditor ofAIP Advances, which iscoden code isAAIDBI. 
+A Glastonbury Romance ismedia inHardcover and has the OCLC number76798317. It has theisbn number of"0-7156-3648-0. 
+Thelanguage ofEnglish is theEnglish language, which was written byThe Secret Scripture, is thefollowed by theEnglish. 
+A Loyal Character Dancer was written by theUnited States whoseethnic group isAfrican Americans. It was a member of theSoho Press. 
+TheA Loyal Character Dancer waspublisher of theUnited, which isleader of theUnited isBarack Obama. 
+A Severed Wasp has the OCLC number8805735 and thelibraryof congress classification is located. It was built by themedia type of which is thePrint. 
+A Severed Wasp was a member of theisbn number of0-374-26131-8 and is located in the pages of the pages. 
+A Wizard of Mars was a student of theHardcover and has the OCLC number318875313. It was created byDiane Duane. 
+A Wizard of Mars was a student of theHardcover and has theisbn number of"978-0-15-204770-2. 
+Above the Veil was written byAustralians and has thepreceded byCastle. 
+Acta Mathematica Hungarica has the LCCN number of83646315 and theissn number is"1588-2632. 
+Acta Mathematica Hungarica has theabbreviation ofActa Math. Hungar. It has theacademic disciplineMathematics and theissn number is"0236-5294. 
+TheActa Palaeontologica Polonica has an OCN number of1732-2421 and an LCCN number of60040714. 
+Adiction (journal) has anabbreviated toAdiction and anabbreviated toAdiction. It has anissn number of"0965-2140. 
+Aenir, which has the OCLC number45644811, is author ofGarth Nix. 
+Aenir, which has an elevation ofGarth Nix, is author of theGarth Nix. It has anisbn number of"0-439-17684-0. 
+Theabbreviation of theAmerican Journal of Mathematics was designed byMathematics and has theacademic discipline. It wasissn number is"1080-6377. 
+TheAmerican Journal of Mathematics was built by theabbreviation of"Am. J. Math. It was designed by theissn number"1080-6377. 
+Thefounder ofAGE Publications isSara Miller McCune and has anpublisher ofSAGE Publications. 
+Theleader of theUnited Kingdom isDavid Cameron and itscountry is theUnited Kingdom. The airport is the location of theLippincott Williams & Wilkins. 
+Theleader of theUnited States isBarack Obama and is the home of theAfrican Americans. 
+The company of theUnited States is the home to theAsian Americans and thelanguage isEnglish language. Thecountry of theUnited States is thecountry of the United States. 
+Abilene Regional Airport is located inTexas and has a length of1121.0. It is thecountry of theUnited States and is operated byAbilene, Texas. 
+Adolfo Suárez Madrid–Barajas Airport is aMadrid metres in thelocationAlcobendas, which is operated byENAIRE. He was a member of theMadrid. 
+TheAdolfo Suárez Madrid–Barajas Airport is operated byENAIRE and its name is"18R/36L. It is3500.0 and itslocation is"Madrid, Paracuellos de Jarama, San Sebastian de los Reyes and Alcobendas. It is operated byENAIRE. 
+Agra Airport is a member of theUttar Pradesh, which is part of theAwadh ofBundelkhand, is167.94 metres above sea level. 
+Agra Airport is located in theAwadh of the United States. The country'sis part of theAwadh isBundelkhand. 
+Theoperating organisation forAl Asad airbase is theUnited States Air Force. Theattack aircraft of theLockheed AC-130 and theaircraft fighter isGeneral Dynamics F-16 Fighting Falcon. Thebattle is1986 United States bombing of Libya. 
+Theoperating organisation forAl Asad airbase is theUnited States Air Force. Theattack aircraft of theLockheed AC-130 and theaircraft fighter isGeneral Dynamics F-16 Fighting Falcon. TheOperation Enduring Freedom is thebattle inUnited States Air Force. 
+Theoperating organisation forAl Asad airbase is theUnited States Air Force. The airport has theLockheed AC-130 and theaircraft fighter ofMcDonnell Douglas F-15 Eagle. TheOperation Enduring Freedom is thebattle in theOperation Enduring Freedom. 
+Theoperating organisation forAl Asad airbase is theUnited States Air Force, whosebattle isInvasion of Grenada and theLockheed AC-130. Theaircraft fighter of theUnited States Air Force isGeneral Dynamics F-16 Fighting Falcon. 
+Theoperating organisation forAllama Iqbal International Airport is theoperating organisation for thePakistan Civil Aviation Authority,headquartered inJinnah International Airport. The airport is located in the city ofPunjab, is theleader title ofProvincial Assembly of the Punjab. 
+Alpena County Regional Airport, which has alocationMaple Ridge Township, Alpena County, Michigan, is 3,0. It is operated byAlpena, Michigan and has a length of1533.0. 
+Amsterdam Airport Schiphol has a length of2014.0 and itsrunway name is06/24. It is located at-3.3528. 
+Texas, which has thelocation ofAndrews County Airport, is operated by theTexan, which is thecountry ofUnited States. 
+Texas, which is thelocation ofAndrews County Airport, is operated byTexan, which is thecountry ofUnited States. 
+Andrews County Airport is located inTexas, which is in the city ofHouston. It was written by theUnited States and is thecountry ofTexas. 
+TheAngola International Airport is located in theLuanda Province, thelocation ofcolo e Bengo, which is based in the city ofAngola. The airport has theelevation above sea level in159. 
+TheAntwerp International Airport is located at theFlemish Region and itselevation above sea level is12.0. It has arunway length of600.0. 
+Apleton International Airport is located in the city ofApleton, Wisconsin. It is part ofEllington, Wisconsin. The airport is located inLittle Chute, Wisconsin. 
+The 1st runway atArdmore Airport (New Zealand) has a surface type ofPoaceae and has a length of518.0. It is34.0. It is made of the name of07/25. 
+The 1st runway atArdmore Airport (New Zealand) has a surface of of1411.0 and anelevation above sea level of34.0. It is also known as the name of"03L/21R. 
+TheAshgabat International Airport isoperating organisation forTurkmenistan Airlines and has a length of2989.0. It is operated by theAshgabat International Airport. 
+TheAtlantic City International Airport is located in23.0 metres above sea level and is operated by theort Authority of New York and New Jersey. It is3048.0. 
+TheAdolfo Suarez Madrid-Barajas Airport is operated byENAIRE, which is led by theSan Sebastian de los Reyes and itscountry isSpain. 
+TheAtlantic City International Airport is located inNew Jersey, which is led byEgg Harbor Township, New Jersey, has a Member of3048.0 and itscountry of theUnited States. 
+The 1st runway atArdmore Airport (New Zealand) is made from the Bommelinids and is made from thedivision ofFlowering plants. 
+Aaron Bertram was a member of theKids Imagine Nation. He was a member of theKids Imagine Nation and has thegenreSka punk. 
+Aaron Deer is aorigin ofIndianapolis and is part of thebackground ofsolo singer. 
+Aaron Turner, who was born in1995, is a member of theLotus Eaters band and is located in the band of the bandLotus Eaters. 
+Aaron Turner, who was born in1995, is a member of the bandLotus Eaters and is located inTwilight. 
+Aaron Turner, who was born in1995, is a member of the bandTwilight and was a member of the band ofTwilight. He was a member of the musicalgenre of which isPost. 
+Aaron Turner, whoseassociated band forTwilight, is a musical artist ofTwilight and has amusic fusion ofDeath metal. 
+Aaron Turner, a member of theMamiffer, is a musical artist. He is a member of themusic fusion ofDeath metal. 
+Thebirth ofAce Wilder was on the1982-07-23. It was designed by thebirth of1982 and wasbackground issolo singer. 
+Agustin Barboza was abirth place of theAsunción, and is located in theGuaraniagenre. He is thebirth place of theAgustin Barboza, whosebackground issolo singer. 
+Al Anderson, who was born in1966, is located in the band NRBQ, is part of theThe Wildweeds. He was a member of the band NRBQ. He was a member of the band NRBQ and has theactive of1966. 
+Alan Frew is agenre ofRock music, which has itsstylistic origins inFolk music, is amusic fusion ofBhangra. 
+Albennie Jones was built by thebirth of theUnited States and is a solo singer. It was built by thebirth year of theAlbennie Jones, which is made fromRhythm and blues. 
+Thegenre ofAlbennie Jones isRhythm and blues, which is led by thebackground.Rhythm and blues, which isderivative inDisco. 
+Aleksandra Kovac is a solo singer who was built byBelgrade and has thegenre ofPop music. 
+Aleksandra Kovac is a solo singer who was built by thebirth place ofSocialist Republic of Serbia. It was created by thebirth place ofSocialist Republic of Serbia. 
+Aleksandra Kovac is a solo singer who was built byBelgrade and has thegenre ofRhythm and blues. 
+Electronic musicianAlex Day, who was born in2006, is theassociated band musical artist inChameleon Circuit and is located in the band of the band of the musical artist ofCharlie McDonnell. 
+Thegenre ofAlex Day isSynthpop, which is part of thebackground isHouse music. 
+The musical artist ofAlison O'Donnell isMellow Candle and was a member of theMellow Candle. He was a member of the musical artistHead South By Weaving. 
+Alison O'Donnell was a member of theDeram Record label, which is led by theLondon andFruits de Mer Records. He was a member of theDeram Records. 
+Anders Osborne is a musician in theGalactic and is a member of the bandTab Benoit. He was a member of the bandTab Benoit. 
+Anders Osborne is a musician inBilly Iuso. He was a member of theVoice of the Wetlands All-Stars and isassociated band,Tab Benoit. 
+Andrew Rayel is a musical artist of the musical artistBobina. He is a musicalgenre ofTrance music which has itsstylistic origins inPop music. 
+Andrew Rayel, who was founded in2009, is located in the musical artist,Jonathan Mendelsohn and has thegenreTrance music. 
+Andrew Rayel is a musical artist of theJwaydan Moyine, who was born in musicalJohn Digweed. He is a musicalgenre ofTrance music, which has itsstylistic origins inPop music. 
+Andrew White was a member of theMarry Banilow and its musical artist isMarry Banilow. He was founded in2003 and itsactive years start year in2003. 
+Agustin Barboza was built byJuan Afara, theleader of theGran Asunción. He was created by theGran Asunción. 
+Thegenre ofAndrew Rayel isHouse music. He is part of the band of the country of the country of which is theassociated band of the country of the country of which isHouse music. He is theassociated band of the country of the country of which is the location of theArmin Van Buuren, Bobina, Mark Sixma, Jonathan Mendelsohn, Christian Burns, Jwaydan, Alexander Popov, Jano, Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi. 
+Alfred Garth Jones was a member of theGreater Manchester. He was created by theLabour Party in the United States. 
+Alfredo Zitarrosa was designed byTabaré Vázquez and is located in theUruguayans. Theleader of theTaay is thecountry of theUruguay. 
+Alan Bean was a member of theApollo 12operator of theNASA, which wascommander onDavid Scott. 
+Alan Shepard was a member of the retirement of theAlan Shepard, who was born on 18th November 1923. He was a student at theNWC and is also known as thebirth place ofNew Hampshire. 
+TheAlan Shepard was a crew member of theCalifornia and was thebirth place ofNew Hampshire. He was thebirth of theAlan Shepard was thebirth of theCalifornia. 
+Alan Shepard was a member of theApollo 14, who was thebirth place ofNew Hampshire. He was thebirth place of theApollo 14. 
+Alan Bean was a member of theApollo 12, which wascommander onDavid Scott. He wasbackup pilotAlfred Worden. 
+Thebirth place of theGlen Ridge, New Jersey, is located in the city ofEssex County, New Jersey. He was theleader of theBuzz Aldrin, who was created by theGlen Ridge, New Jersey. 
+Thebirth place ofElliot See was on July 23rd, 1927. He was a member of theUniversity of Texas at Austin and was designed byDallas. 
+Thedeath ofElliot See was founded on 28th,1966, and was a member of theUniversity of Texas at Austin. It has an epoch date of March,Test pilot. 
+Thedeath place of theUniversity of Texas at Austin, which is the location of theUniversity of Texas System. Theis part of theKingdom of France. 
+Elliot See was built byDallas on July 27th,1927. It was created by thebirth of July 27th,1927. 
+TheApollo 8 wascommander on 1st JulyFrank Borman and was inaugurated on 1st July1969. It was a member of the United States and isbackup pilot. 
+TheAbel Hernández, who was a member of theHull City AFC, is located in thePeñarol, is a member of theCentral Español. Themanager ofHull City AFC, which isSteve Bruce. 
+TheAbel Hernandez was a member of theGiuseppe Iachini. He was a member of theU.S. Città di Palermo, who is in theleague ofSerie A. 
+Adam McQuaid was a member of theBoston Bruins, whosegeneral manager isDon Sweeney. He was a member of theColumbus, Ohio. 
+Akeem Ayers was a member of theNew England Patriots team and was thebirth date of thebirth date on 11th July1989. He was also known as theb England Patriots. 
+Akeem Dent was built by1987 and thebirth of1987 in Georgia. He wasformer team inHouston Texans. 
+Alaa Abdul Zahra, who was born inShabab Al-Ordon Club, is a member ofAl Kharaitiyat SC, which ismanager ofAmar Osim. 
+TheAlan Martin was a footballer for theAccrington Stanley F.C., which was built byBarry Ferguson. He was a member of theAccrington Stanley F.C. 
+The footballerAlan Martin was a footballer on January 1,1989. He was a member of theHamilton Academical FC and isheight185.42 centimetres. He was a footballer for theCrewe Alexandra FC. 
+TheAlan Martin was a footballer for theMotherwell FC, whoseground isFir Park. It was designed byBarry Ferguson and was a member of theMotherwell FC. 
+Aleksandre Guruli, who was born inFC Dinamo Batumi, was a member of theErosi Manjgaladze Stadium. It wasground isLevan Khomeriki. 
+Aleksandre Guruli, whoseground isParc Olympique Lyonnais, is a member of theFC Karpaty Lviv, is the location of the Battle of thechairmanean-Michel Aulas. 
+Alex Plante, whosebirth place isBrandon, Manitoba, is located at theAnyang Halla. 
+Thebirth place of theAlex Plante is thebirth place ofCanada, which washemed by the Canada. It wasethnic to theBlack Canadians. 
+Thebirth place of theAaron Boogaard was thebirth place ofCanada, which washemed by the Canada. It is theleader of theElizabeth II. 
+Themanager ofClyde F.C. was themanager of theAlan Martin, who was born inBarrow A.F.C., was a member of theBroadwood Stadium. 
+Themanager ofAleksandre Guruli isOleh Luzhny and was built by theErosi Manjgaladze Stadium. It was designed byFC Samtredia. 
+Aleksandr Chumakov was a member of theValery Petrakov, whoseseason is2014–15 Russian Premier League. Thechairman ofFC Torpedo Moscow isAleksandr Tukmanov. 
+Akeem Dent was a member of theHouston Texans who was a member of theHouston Texans. He was a member of theHouston Texans who was founded in theAtlanta Falcons, whoseformer team is theHouston Texans. 
+Aaron Hunt, a member of theBundesliga, is a member of themanager ofViktor Skrypnyk, is located in the United States. 
+The11 Diagonal Street is a member of theCape Towncapital and theleader of theCyril Ramaphosa. 
+The11 Diagonal Street was a member of theCape Towncapital and theAsian South Africans. 
+200 Public Square is thelocation ofCleveland, whosegoverning body isCleveland City Council. 
+250 Delaware Avenue was a member of thebuilding start date in"January, 2014 and wasfloor area30843.8 square metres. It wasfloor is12. 
+Thelocation of300 North LaSalle isChicago, whoseis part ofDuPage County, Illinois, is thecountry of theUnited States and isleader of theSusana Mendoza. 
+TheLive Nation Entertainment is theleader ofDublin which is the capital. Thecountry of the city of Ireland and was designed byCríona Ní Dhálaigh. 
+TheLive Nation Entertainment is theleader ofDublin which is part of theRepublic of Ireland. The country is the location of the 'Arena' which is part of the Bríona Ní Dhálaigh. 
+The Академи of theMarriott International is thelocation ofDenmark. TheAC Hotel Bella Sky Copenhagen is afloor count of23 and was thelos of the country is theMarriott International. 
+The Академи of theMarriott International is theMarriott International was thearchitect of3XN and is thefloor count of23. 
+TheAdisham Hall is a member of the1927 and is a member of the city of thelocation ofSri Lanka. It wasarchitectural style of the country is"Tudor and Jacabian. The country'scompletion date is1931. 
+Thecapital of theSri Jayawardenepura Kotte is thelanguage ofTamil language and is thecapital of theAdisham Hall, which is written in thelocation ofputale, Sri Lanka. 
+TheAdisham Hall is a crew member of the1927 and itscolingtion date is1931. It wasarchitectural style ofTudor Revival. 
+TheAkita Museum of Art is part of theAkita Prefecture in theJapan, which is home to theFilipinos in Japan. 
+TheMason School of Business was designed by theMason School of Business, which was written by theUnited States, is the crew of theAlan B Miller Hall, which is based in thelocationVirginia. Itscountry was theUnited States. 
+TheMason School of Business was designed by theMason School of Business, which was designed by theMason School of Business, was designed by the company 169-06-01. It was designed by the companyVirginia. 
+Amdavad ni Gufa is located inNarendra Modi and was designed byNarendra Modi. It is led bySumitra Mahajan. 
+Amdavad ni Gufa was written byAhmedabad, and has thelocationGujarat. He was designed by theAmdavad ni Gufa, whosecountry wasIndia and is located at theLalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road. 
+Amdavad ni Gufa is located in thelocation ofT. S. Thakur and is theleader ofAmdavad ni Gufa, which is written by theAhmedabad. 
+Ampara Hospital is a member of theEastern Province, Sri Lanka, theleader ofRanil Wickremesinghe. 
+Thebirth place of theJulia Morgan was thebirth place of theAsilomar Conference Grounds, which is the location of theLos Angeles Herald-Examiner. It was thesignificant building of theAsilomar State Beach. 
+TheJulia Morgan was built by theLos Angeles Herald-Examiner and was built by thebirth placeCalifornia. It was thebirth of theAsilomar Conference Grounds. 
+The Member ofNew York City, which is part of theNew Netherland, is the location of the Member of theUnited States and is the location ofAsser Levy Public Baths. 
+The book,John Clancy (Labour politician is theleader of theJohn Clancy (Labour politician and has thepostal code ofB postcode area. 
+TheEthiopia is theleader ofMulatu Teshome and is part of theAddis Ababa Stadium. It was written byAddis Ababa City Hall, which is written by thelocationAddis Ababa. 
+Theleader of theUnited States is inPresident of the United States which iscapital ofWashington, D.C. and was created by thePaul Ryan. 
+The(19255 1994 VK8 has an apoch of2006-12-31 and anorbital period of8788850000.0 and anperiapsis of6155910000000.0. 
+The(19255 1994 VK8 has anorbital period of8788850000.0 and anperiapsis of6155910000000.0. It has anescape velocity of0.0925 km per sec. 
+The(66063 1998 RO1 has anorbital period of360.29 days and anescape velocity of0.0999 km per sec and anapoapsis of254989570.60815 kilometres. 
+The(66063 1998 RO1 has anorbital period of360.29 days and an apoapsis of254989570.60815 kilometres and an apoapsis of254989570.60815 kilometres. 
+1001 Gaussia has andiscoverer ofSergey Belyavsky and itsepoch is2015-06-27.1001 Gaussia has anperiapsis of419113394.55312 kilometres. 
+The city of101 Helena was built by theMadison, Wisconsin and was thediscoverer of theJames Craig Watson. He was designed by2006-12-31. 
+1036 Ganymed was a member of theWalter Baade, who was born in the United States in the United States and was succeeded by theUniversity of Göttingen. He was a member of theGöttingen. 
+1036 Ganymed was a member of theWalter Baade who was born in theUniversity of Göttingen. He was a member of theHalton Arp. He was a student of theHalton Arp. 
+Thediscoverer of103 Hera was the Stanford of theJames Craig Watson, who was born inMadison, Wisconsin, was a member of thepoch of2011. 
+James Craig Watson was born inMadison, Wisconsin and was a member of the city of Banada. He was a member of the city ofJames Craig Watson. 
+Theepoch of107 Camilla is2006-12-31 and itsperiapsis is479343000.0 kilometres. 
+Thediscovered for107 Camilla was on the 22nd of March2001 and was designed by thebirth place ofN. R. Pogson, which was designed by theChennai. 
+1097 Vicia has anorbital period of135589000.0 and an apoch of2006-12-31. It has an apoch of2006.0. 
+1099 Figneria has an apoch of2006-12-31 and anorbital period of179942000.0. It has anperiapsis of349206000000.0. 
+Abilene, Texas, is inTexas, has acapital ofWashington, D.C. and itslanguage isEnglish language. 
+Albany, Georgia, is in theGeorgia state of theUnited States which is home to the inhabitants of theUnited, which isethnic group ofAfrican Americans. 
+Albany, Georgia, is in theGeorgia state of the United States. The headquarters of theUnited States is the home of theAsian Americans. It is led byEnglish language. 
+Albany, Oregon is a member of theUnited, which is home to theethnic group ofAfrican Americans. 
+Albuquerque, New Mexico has aarea code of505, 575, and apopulation density of1142.3 inhabitants per square kilometre. It has aarea of land of486.2 square kilometres. 
+Amarillo is part ofPotter County, which is in the city ofTexas, is located in the city ofUnited which has acapital ofWashington, D.C. 
+Theleader of theAnaheim, California is located in theGreater Los Angeles area, theis part of theGreater Los Angeles area. Thecountry of theUnited States is the location of the city ofOrange County. 
+Angola, which is part ofPleasant Township, Steuben County, Indiana, is located in theUnited States and has anarea total of16.55 square kilometres. 
+Theis of theUnited States isSteuben County, Indiana, which is home to theNative Americans and is the location of the languages of the United States. 
+Antioch, California has autc offset of"-7 and apopulation total of102372, is located in925, and aarea total of75.324 square kilometres. 
+Attica, which has aarea total of4.14 square kilometres and is part ofLogan Township, Fountain County, Indiana. It has anpopulation density of783.1 inhabitants per square kilometre. 
+Attica, Indiana, is part ofLogan Township, Fountain County, Indiana, has aarea total of4.14 square kilometres and apopulation density of783.1 inhabitants per square kilometre. 
+Attica, Indiana, is part of theUnited States and has apopulation density of783.1 inhabitants per square kilometre. It has anarea total of4.14 square kilometres. 
+Auburn is theis part ofLee County, Alabama, which is located in the United States. TheAsian Americans are theethnic group of theUnited. 
+Auburn, which is part ofPierce County, is located in theUnited States and has aarea total of77.41 square kilometres. 
+Auburn is part ofPierce County, Washington, and is located in theUnited Statescapital isWashington, D.C. 
+Auburn is part of theKing County, Washington, which is in the city of thecapital ofWashington, D.C. and is part of theUnited of the United States. 
+Austin, Texas has anarea code of512, has apopulation density of1296.65 inhabitants per square kilometre and anarea of land of686.0 square kilometres. 
+Theis of thean Francisco Bay Area is theis part ofContra Costa County, California, which is home to theis of theSan Francisco Bay Area. Thelanguage isSpanish language. 
+Thecapital ofAnderson, which is part ofAdams Township, Madison County, Indiana, is the location of theUnited States and is the location of the city ofAnderson. 
+Thecapital of theIndianapolis is thecountry of theUnited States and is theis part ofLafayette Township, Madison County, Indiana. 
+Albany,Linn County, Oregon, is in the United States and has acapital ofWashington, D.C. and itsethnic group isNative Americans. 
+TheUnited States has acapital ofWashington D.C. and itscountry is theUnited States and is home toNative Americans. 
+Albany, Georgia, is inDougherty County, Georgia, and is located in the United States and itsethnic group isNative Americans. 
+TheUnited States is a member of theAsian Americans and is the home of theAkron, which is part ofSummit County, Ohio. 
+TheUnited States is led byEnglish language and is part of theUnited, which is home to theethnic group ofAsian Americans. It is based in the city ofUnited. 
+The headquarters ofUnited States House of Representatives, which is led by theUnited States Congress, is the location ofAnaheim, California. It was designed by theUnited States House of Representatives, which is part of thelocation ofUnited States Congress. 
+The comic book characterBanaman was created bySteve Bright and was created bySteve Bright. It was created bySteve Bright and wasbroadcasted by the United States and was on 3 October October,1983. 
+The comic characterBolt was created byDan Mishkin and was created by theErnie Colon, which was created by the editor of the comic character, was created by the Re Art, and was created by the Re Artarry Bolatinsky. 
+The seconduncan Rouleau is the location of theBa Hero 6, which is made from theDamon Wayans Jr. His Januaryries isBig Hero 6. 
+The seconduncan Rouleau is the location of theBig Hero 6 which is made byJamie Chung. His His Januaryries isBig Hero 6. 
+The seconduncan Rouleau is the location of theBig Hero 6 which is a main main JacoMaya Rudolph. His His Januaryries isBig Hero 6. 
+TheKing of Prussia, Pennsylvania, which is a member of theNorth American Eastern Time Zone. It was founded in theUnited which has anarea total of9833516.63 square kilometres. 
+Thefounding of Prussia, Pennsylvania, theUnited States was founded on July 1,1776. It has anarea total of9833516.63 square kilometres. 
+Thefounding date on the 1st of September,1920, is located in the National Register of Historic Places on the 1st of July,5594. The location of the location of the295 is15100000000. 
+TheGMA New Media, whoseindustry isEntertainment, was designed by theindustry, which wasproduct,, was on the Institute of theund of theQuezon City. It was on theubsidiary ofPhilippine Entertainment Portal. 
+TheGMA New Media, which is a member of theGMA Network Center, is thelocation of theGMA New Media, which is the location of theFelipe Gozon. 
+Hypermarcas was a member of theCEOs and was a member of thefounding date on July 1,2001. He was a member of the Austry. 
+Hypermarcas, a member of theDrugs, was aproduct ofHypermarcas, which isleader title in the city of the Supreme Federal Court. 
+Hypermarcas, aproduct ofHealthcare, was a member of the10252. He was a member of therevenue1800000000. 
+Ajoblanco is a member of theAndalusia, which is a member of thecountry ofSpain. It has an ingredient of almonds, garlic, water and olive oil. 
+Ajoblanco, who was born in the United States and is located in the United States and is operated by thendalusia. He was a member of theAjo blanco, which is aredient ofWater. 
+Arem-arem, whoseregion isJavanese cuisine, was a member of theLemper. He is a member of thedish variation of theArem-arem which has an ingredient ofBana leaf and is a member of the banana leaf with vegetables or minced meat fillings. 
+Arem-arem is a dish fromBana leaf and is a member of the United States and is a member of the country of the country of which is home to the red red redBana leaf. The country'scourse is"Main course and is a member of the banana leaf with vegetables or minced meat fillings. 
+Arrabbiata sauce, which has thecountryItaly, is located in the novelChili pepper. He is a member of the country'smain ingredients of theArrabbiata sauce which is located at theItaly. 
+TheArròs negre is a member of theCatalonia and is a member of the country of the country of the country of which is led by theSpain. The country is the location of theWhite rice, cuttlefish or squid, cephalopod ink, cubanelle peppers. 
+TheArròs negre is a member of theCatalonia and is a member of the country of the country of the country of which is thecountry ofSpain. The country is the location of theWhite rice, cuttlefish or squid, cephalopod ink, cubanelle peppers. 
+TheArròs negre is a member of theValencian Community and is a member of the Ohite rice, cuttlefish or squid, cephalopod ink, cubanelle peppers. 
+TheMalaysia is thecountry ofAsam pedas, which is a member of the country of which is theregion ofAsam pedas. Thealternative name of theAsam padeh is the padeh. The country is the home of the country and Malay Peninsula. 
+TheMalaysian Malay,Minangkabau people are theMalaysian Malay and theMalaysian Malay. 
+TheBacon Explosion, whosecountry is theUnited States, is a member of theKansas City metropolitan area. 
+Thecountry of theUnited States is thecountry of theUnited which is led by theAsian Americans. The country'scapital isWashington, D.C. 
+TheBacon sandwich, which has thedish variation ofBLT, is the location of the sandwich, whosealternative name is"Bacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm, and bacon muffin. 
+TheBacon sandwich, whoseingredient isBrown sauce, was written by theUnited Kingdom. It has thealternative name ofBacon butty, bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin. 
+Thealternative name ofBacon sandwich is theBread and bacon, with a condiment, often ketchup or brown sauce. It has anmain ingredient of sandwich, which is operated by the United States Air Force and bacon sarnie, rasher sandwich, bacon sanger, piece 'n bacon, bacon cob, bacon barm and bacon muffin. 
+TheMeringue, ice cream, sponge cake or Christmas pudding, is the leader ofBaked Alaska, which is a member of theMeringue, New York, Hong Kong. 
+The seanited StatesBaked Alaska, which has themain ingredients ofMeringue, ice cream, sponge cake or Christmas pudding, is a member of the United States and is located in the U.S. 
+TheBakewell pudding is a member of theDerbyshire Dales, whoseis part ofDerbyshire. It was built byFrangipane and is aredient ofBakewell tart. 
+Bakewell pudding is a dessert and is a dessert. The country'sregion isDerbyshire Dales. It has ground almond, jam, butter and eggs. 
+TheDerbyshire Dales, theis part ofDerbyshire, isBakewell tart, which is aredient ofShortcrust pastry. 
+The Bolombian cuisine is the leader ofBandeja paisa which has a dessert ofRice. The main ingredients ofBandeja paisa is located in the United States, which has a red beans, pork belly, white rice, ground meat, chicharon, fried egg, plantain (patacones), chorizo, arepa, hogao sauce, black pudding (morcilla), avocado and lemon. 
+Thecountry ofBatagor, which is led by theIndonesia, is a member of the peanut sauce. The main ingredients ofBatagor is fish dumpling with tofu and vegetables in peanut sauce. 
+Thecountry of theIndonesia is theIndonesia. The country is thedish variation ofBatagor, which is in theingredient ofShiitake. 
+The main ingredients ofBeef kway teow is a dish from the country of Indonesia and is a member of theIndonesia. The main ingredients ofBeef kway teow is also known as the main ingredients of the country is gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce and chilli and sesame oil. 
+Beef kway teow is a dish fromIndonesia and is a member of the main ingredients of the dish ofBeef kway teow, beef tender loin, gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil. 
+Beef kway teow is a dish from the United States, and is operated by the United States and Indonesia. The main ingredients ofBeef kway teow is located in the city of Aa and Indonesia. The country's main ingredients are gula Melaka, sliced, dried black beans, garlic, dark soy sauce, lengkuas, oyster sauce, soya sauce, chilli and sesame oil. 
+Thealternative name ofBhajji, bajji, is theGram flour and has thecountryIndia. Thealternative name ofBhaji, bajji. 
+Theleader ofBhajji isNarendra Modi and theVajubhai Vala are theleader of theKarnataka which is located in theVajubhai Vala. 
+Bhajji was written by theVajubhai Vala and is located in theleader of theVajubhairy and is thecountryIndia. 
+Theleader ofBhajji isT. S. Thakur and is located inNarendra Modi. Theregion ofBhajji isKarnataka. 
+TheVisayas are theregion ofBinignit which is a member of thecountry ofPhilipines. The dish is a dish from theleague of the dish. 
+Thecountry ofBionico isMexico. It has the ingredients of the dish of the dish of the dish ofBionico, which is a member of theGuadalajara. It is a dish from theMexico. 
+Thecountry of theMexico is theleader of theEnrique Peña Nieto. The country is the location of theDessert, thedish variation ofSandesh. 
+Thelanguage ofIndonesian is theleader ofJusuf Kalla and is thecountry of theChinese cuisine. 
+Theleader of theLaura Boldrini and is the location of theItaly, which is incapitalRome. The company is led by theLaura Boldrini. 
+Theleader of theSergio Mattarella of the city ofItaly is in thecapital ofRome and was written by theAmatriciana sauce. 
+The company of theAyam penyet isJava, the red red redanyumasan people and thelanguage isEnglish language. 
+Theleader of theHalimah Yacob is theHalimah Yacob and the red of the country is the leader of the country of the country which is led by theJava. 
+Thecountry of the historiclippines was the company of the ship, which is led by thelanguage,Philippine Spanish. The company is the location of theZamboangans. 
+The company of the country is the home of the country of the country is the location of the country of the country was built byFelipe VI of Spain. It is the home of the country of the country which is home to the country of the country which is home to the country of the country of which is the home of the country of whichArros negre. 
+Themanufacturer of1955 Dodge, which has anmanufacturer ofDodge, was anman-speed automatic and anwheelbase of120.0 (inches. 
+Themanufacturer of theDeSoto (automobile) is theDeSoto Custom, which is part of theChrysler Newport. Themanufacturer of theDeSoto isDeSoto. 
+AIDAluna, which was a member of theCaterpillar Inc, was a member of the voyage on2009-03-22. It has aship beam of32.2.2. It was designed by the sea level. 
+AIDAstella has aMeyer Werft and a total ofCosta Crociere. It has alength of253260.0 millimetres long. 
+AIDAstella isoperator ofAIDA Cruises. TheMeyer Werft is theowner ofCosta Crociere and has abuilder of253260.0 millimetres. 
+AIDAstella, whoseoperator isAIDA Cruises. TheMeyer Werft is abuilder on theMeyer Werft and has alength of253260.0 millimetres. 
+Thelength of theALCO RS-3 has aMay 1950 and August 1956 and alength ofV12 engine. It was a member of theAmerican Locomotive Company. 
+Thealternative name of theAMC Matador is"American Motors Matador, which has theengine ofAMC V8 engine. 
+Thealternative name of theAMC Matador is the name of theMid-size car and is located at theassembly for theMid-size car. 
+Thealternative name ofAMC Matador is"VAM Classic and is located in theFull-size car. Theengine of theAMC straight-6 engine. 
+Thealternative name ofAMC Matador is"VAM Classic and is located inThames, New Zealand. Theengine is V8 engine. 
+TheAbarth 1000 GT Coupe was written by the United States and was designed by theengineStraight-four engine. It has anwheelbase of2160 millimetres and wasproduction end year of1958. 
+TheAcura TLX is a member of theLuxury vehicle and has thelayoutFront-engine design. The airport is located in theLuxury vehicle. 
+Aleksey Chirikov (icebreaker) has aship beam of21.2 and aArctech Helsinki Shipyard. It has abuilder ofFinland and alength of99.83. 
+Aleksey Chirikov (icebreaker) has aship beam of21.2 and was astatus ofArctech Helsinki Shipyard. It is a leader in service and has aArctech Helsinki Shipyard. 
+Aleksey Chirikov (icebreaker) has aship beam of21.2 and was astatus ofHelsinki. It is a city in the city ofHelsinki and has abuilder ofFinland. 
+Aleksey Chirikov (icebreaker) was a member of theJuha Sipilä and is located in theHelsinki. Theleader of theSauli Niinisö isSauli Niinis. 
+TheAlfa Romeo 164, which is a member of theLancia Thema, wasassembly inItaly, is the location of theSaab 9000. 
+TheAlfa Romeo 164, which is a member of theLancia Thema, wasassembly inItaly, is theengine ofStraight. 
+TheAMC Matador wasmanufacturer in theAmerican Motors, which was built byEagle, is located in theChrysler. It has thekey person ofRoy D. Chapin Jr. 
+The celestial body known as theAmerican submarine NR-1 has antop speed of8.334 and anlength of45000.0 millimetres and an beam of3.8m. It wasship launch on1969-01-25. 
+Themanufacturer ofAntares (rocket) was on the 22nd of July,2014-10-28. It was built by theYuzhnoye Design Office and was built byMid-Atlantic Regional Spaceport. 
+TheAston Martin V8, which is assembled in theUnited Kingdom, is a member of theAston Martin RHAM/1. It has anengine of5.3 litres and wasassembly ofUnited Kingdom. 
+TheAudi A1, which has theengine of1.2 litres, wasassembly inAudi Brussels. The company is part of theHatchback. 
+Audi A1 ismanufacturer. TheAudi wasfounded byAugust Horch and thedivision isAudi e-tron. 
+AIDA Cruises was thelocationRostock. He was the sea of the country of the country of theAIDAluna. He was the company Inc. He is also the Академи ofAIDA Cruises. 
+Thefoundation place of theUnited States is theUnited States and has akey person ofDouglas R. Oberhelman. The airport is the location of theAIDAluna. 
+Thecomparable ofDelta II is thecountry of theUnited States andlaunch site isVandenberg AFB Space Launch Complex 2. TheDelta II was built by theCape Canaveral Air Force Station. 
+TheGeneral Dynamics Electric Boat is a member of theGroton, Connecticut. TheAmerican submarine NR-1 has abuilder ofGeneral Dynamics Electric Boat, a member of theGeneral Dynamics. 
+Theleader of theAndreas Vo<unk>kuhle is located in the city ofGermany, which is based in theNeptun Werft. Thebuilder isNeptun Werft isNeptun Werft. 
+Theanthem ofUnited States wasThe Star Spangled Banner and wasethnic to theWhite Americans. It is thecountry of theUnited States which iscapital,Washington, D.C. 
+The11th Mississippi Infantry Monument ismunicipality ofGettysburg and is located in the north of theAdams County, Pennsylvania. Thehas to the southeast isCarroll County, Maryland. 
+The11th Mississippi Infantry Monument is located in thelocation ofAdams County, Pennsylvania, which is led byFranklin County, Pennsylvania. Thehas to the west of the country ofAdams County, Pennsylvania is southeast ofCarroll County, Maryland. 
+Thecapital ofAzerbaijan is thecapital ofBaku and was created by the created by the created by the created by the created by the created by the created by the created by the created created by the created created by theHüseyin Butuner and Hilmi Guner. It was thededicated to the soldiers of the Baku. 
+Azerbaijan is located in theArtur Rasizade and is led byNational Assembly. It wascapital in thelocationAzerbaijan which is led by theNational Assembly. 
+Azerbaijan isleader toArtur Rasizade and is situated in the city of granite and white marble. It is situated to the soldiers killed in the Battle of Baku and is situated to thelocation ofAzerbaijan. 
+Azerbaijan isleader toArtur Rasizade and is led by thePrime Minister of Azerbaijan. It was created by the created by the created by the created by the created by the created by the created by the created by the Battle of Baku. 
+Aaron S. Daggett, who was born inMaine, was a member of theWest Roxbury and was a member of theAmerican Civil War. 
+Aaron S. Daggett, who was born inMaine, was a member of theWest Roxbury and was a member of the Wilderness. 
+Ab Klink was abirth place ofStellendam and was a member of theLeiden University. Hisoffice is the"Member of the House of Representatives and wasparty wasChristian Democratic Appeal. 
+Abdul Taib Mahmud was a member of theKuching, who was born inMiri, Malaysia and was a member of theAsajaya. He was a member of theAbdul Taib Mahmud, who was a member of theparty ofParti Pesaka Bumiputera Bersatu. 
+Abdul Taib Mahmud was a member of theKingdom of Sarawak. He was a member of theKota Samarahan. He was a member of theKingdom of Sarawak. He was thebirth place of theKingdom of Sarawak. He was thebirth place of theKingdom of Sarawak. 
+Abdul Taib Mahmud was a member of theKuchingresidence of theKuching. He was a member of theAdenan Satem, who was created byJapanese occupation of British Borneo. He wasparty was wasarti Pesaka Bumiputera Bersatu. 
+Abdul Taib Mahmud was a member of the"Barisan Ra'ayat Jati Sarawak. He was a member of theAdenan Satem, who was created byJapanese occupation of British Borneo. 
+Abel Caballero was a member of theJuan Carlos I of Spain, which waspredecessor,Francisco Franco and was thebirth place ofSpain. He was the name of theAbel Caballero was represented theFelipe González. 
+Thebirth place of theGalicia (Spain) isSpanish Socialist Workers' Party and was theoffice of the Congress of Deputies. 
+TheAbel Caballero was an American who was born inPonteareas and was a member of theSpanish Socialist Workers' Party. He was a member of theoffice of theMinister of Transport. 
+Abner W. Sibal, who was a member of the Connecticut Senate from the 26th District, was a member of theDonald J. Irwin, was thebirth place ofRidgewood, Queens. He was a member of the Connecticut Senate from the 26th District. 
+Thebirth place ofAbraham A Ribicoff, who was thebirth place ofUnited States Secretary of Health, Education, and Welfare. It was theuccessor ofJohn N. Dempsey and was thebirth of theUnited States Secretary of Health, Education. 
+The name of theGrenadier Guards was thebirth place of theGulf War, which is the name of theGulf War. TheAdam Holloway was created by theGulf War, which is located in the name of theColin Powell. 
+Adam Koc was abattle inPolish-Soviet War. Thecommander on theJoseph Stalin and thelanguage isKashubian. 
+Adam Koc was abattle inPolish-Soviet War. It wascommander onJoseph Stalin and was designed by thesideguage. 
+Adam Koc was abattle inPolish-Soviet War. It wascommander onLeon Trotsky and thelanguage isPolish language. 
+Thebirth place ofAdam Koc wasCongress Poland and was thebattle is the red red red red the Civil War. Thecommander on theJoseph Stalin. 
+Adonis Georgiadis was a member of theMinistry of Economy, Development and Tourism (Greece. It was a member of theMakis Voridis. 
+Adonis Georgiadis, who was born inNew Democracy (Greece, is acolour ofBlue, wasin office whileAntonis Samaras was on theKonstantinos Mitsotakis. 
+Airey Neave, who was abattle ofBattle of France, was on the 3rth place of theKnightsbridge and hisactive years end date was1974-03-30. 
+Airey Neave, who was born on the1979-03-30, was abattle inic War II andbirth place of theKnightsbridge. He was published by theKnightsbridge and was on the1979-03-30. 
+Albert B White was built by1856 on 22nd September,1856 and was created byarkersburg, West Virginia. It was founded on July 1,1941. 
+Albert Jennings Fountain was built by theUnited States and was founded inDoña Ana County, New Mexico. He was a member of theStaten Island. 
+Alberto Teisaire was built byMendoza in Argentina and was built by1891-05-20. He wasprofessionRear admiral and was created byMendoza in Argentina. 
+Alfons Gorbach was built by theAustria-Hungary and was created byImst. 
+Alfons Gorbach was built by thebirth place ofTyrol and wasGraz. It was built by theAustria-Hungary. 
+Alfred N. Phillips was a member of theUnited States Army, which was previouslybattle isWhiskey Rebellion. He was a member of the U.S. House of Representatives from Connecticut's 4th district. 
+Allan Shivers was a member of theDemocratic Party in the United States and was previouslyparty wasbirth placeLufkin, Texas. Theoffice ofAllan Shivers is theGovernor of Texas. 
+Alvah Sabin was an American who was born in the United States and is located in the United States and is operated by theDaniel Webster. It was built byVermont, thelargest city ofBurlington, Vermont. 
+TheVermont's 3rd Congressional District, which is located inBurlington, Vermont. It was built by theVermont's 3rd Congressional District. 
+Thebirth place ofAbraham A Ribicoff isNew Britain, Connecticut and was the architect of theUnited States, which isethnic to theNative Americans. Thespouse is theRuth Ribicoff. 
+The country of theA.C. Chievo Verona is39371 and thefull name isAssociazione Calcio ChievoVerona S.r.l. It was theground of the country of which is2014–15 Serie A. It is located in the country'sseason is2014–15. 
+Themanager ofA.C. Chievo Verona is in theUnione Triestina 2012 S.S.D. and is located in theCarrarese Calcio. He was thebirth place ofRolando Maran. 
+Theman ofA.C. Lumezzane was themanager ofMichele Marcolini, who was born inItaly, is located inTorino F.C. and is a member of theF.C. Bari 1908. 
+Greece is theleader ofA.E Dimitra Efxeinoupolis which is located in theNikos Voutsis.Greece was designed by theGreek language. 
+Thefull name ofA.S. Gubbio 1910 is the name of theAssociazione Sportiva Gubbio 1910 Srl and has theseason of2014. It was built in theground ofItaly. 
+Thefull name ofA.S. Gubbio 1910 is the name of theAssociazione Sportiva Gubbio 1910 Srl. It has anseason of2014 and itsground isStadio Pietro Barbetti. 
+The name of thefull name of the city of Livorno Calcio S.p.A., is theLivorno Calcio S.p.A., and was thene of the A.S. Livorno Calcio, whoseseson is2014–15 Serie B. 
+Thefull name ofA.S. Roma is70634 and the country is the location of2014–15 Serie A. The country'sseason is2014–15. The country's ground is in2014.15. 
+AZAL PFK was a member of theAZAL PFK, who was a member of theQarabaò FK. He was a member of theAZAL Arena, which was written by thelocation ofAzerbaijan. 
+AZAL PFK was a member of theAZAL Arena and was a member of theQarabaò FK. He was a member of theAZAL PFK, who was a member of theAZAL PFK. 
+AZ Alkmaar, who was amanager of theJohn van den Brom, whoseclub isstanbulspor A.<unk>., was a member of theAZ Alkmaar, who was born in theAFC Ajax. 
+Agremiação Sportiva Arapiraquense was a member of theCampeonato Brasileiro Série C, whosecountry isBrazil. TheVila Nova Futebol Clube is thechampions of theVila Nova Futebol Clube. 
+The Arapiraquense was a member of theCampeonato Brasileiro Série C, whosechampions isVila Nova Futebol Clube. Hiscountry isBrazil. 
+Themanager of theAkron Summit Assault isDenzil Antonio and itsfull name is theAkron Metro Futbol Club Summit Assault. The country is located in3000. The country'sseason is2011 PDL season. 
+TheAkron Summit Assault was a member of the United States and is a member of the thechampions ofK-W United FC. It was a member of theAkron, Ohio, who was thecountry of theUnited. 
+Thelanguage ofItaly isItaly, which is incapitalRome. Theleader of theSergio Mattarella isItaly, which is led by theItalian language. 
+Theleader of theItaly is located in the city ofItalian and has thecapital ofRome. Theground ofA.S. Gubbio 1910. 
+Thechampions of theJuventus F.C. and is thefull name ofAssociazione Sportiva Roma S.p.A. It was founded inSerie A, which has theground ofStadio Olimpico. 
+TheAccademia di Architettura di Mendrisio is located inMendrisio, whosecountry isSwitzerland. It was founded in theMario Botta. 
+Theleader of theFederal Chancellor of Switzerland is the location of theAccademia di Architettura di Mendrisio, which was created in the country of the country of the country of the country of the country is1996. It was theestablished of the country is1996. 
+TheAccademia di Architettura di Mendrisio is located inMendrisio, which has anacademic staff of100. It was created by theMario Botta and has anestablished of1996. 
+The company of theAcharya Institute of Technology, which was designed by theVisvesvaraya Technological University, was designed by theVisvesvaraya Technological University, was designed by thewas given the technical campus status byAll India Council for Technical Education, which was writtenlocationMumbai. 
+TheAcharya Institute of Technology is located in the United States and was founded inBangalore. It has thecountry of the postgraduate students of700. It is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. 
+The company of theAcharya Institute of Technology was designed byVisvesvaraya Technological University and was designed by the company ofDr. G. P. Prabhukumar. It was designed by the company company of2000. 
+The company1 Decembrie 1918 University is located inRomania, which is led by theGermans of Romania. The country is located in the country of the country'sethnic group of theGermans. 
+Theaffiliation of Aarhus University wasспользование University Association in1928. It was theablished in1928 and has anacademic staff of737. 
+The companySchool of Business and Social Sciences at the Aarhus University is located in16000, which has anacademic staff of737 and was written byDenmark and has anestablished1928. 
+1634: The Bavarian Crisis waspreceded by1634: The Baltic War<unk> theauthor ofDavid Weber. It was created byRing of Fire II, which waslanguage ofEnglish. 
+The book1634: The Ram Rebellion was written byVirginia DeMarce and itsmedia type isE. Itsisbn number is"1-4165-2060-0. 
+Thecountry of theUnited Kingdom is thecountry ofAIDS, which has an orbital period ofLippincott Williams & Wilkins. It is theleader ofElizabeth II. 
+A Fortress of Grey Ice, which has the OCLC number51969173, is located on the0-7653-0633-6 and has the LC number of51969173. 
+A Long Long Way, who was written byThe Secret Scripture, waspreceded byAnnie Dunne, is a member of theViking Press. 
+A Severed Wasp has the OCLC number8805735 and thelibraryof congress classification is located. It has an OC number of8805735. It was built by theisbn number of"0-374-26131-8. 
+A Severed Wasp was an American who was written by theUnited States whoseethnic group isAfrican Americans. It was designed by theEnglish language, which was completed inGreat Britain. 
+A Severed Wasp was a student of the manufactured of the OCLC number of8805735 and has theisbn number of"0-374-26131-8. 
+A Wizard of Mars was a studented incover and has the OCLC number318875313. It has an OC number of"978-0-15-204770-2. 
+Adiction (journal) has theabbreviation ofAdiction and has the LCCN number93645978. It has anissn number of"1360-0443. 
+TheAdministrative Science Quarterly was designed by theaffilisher ofCornell University, which is located in theNew York, and is located in the country of the country. 
+Alcatraz Versus the Evil Librarians was written byEnglish language and was written by theUnited States which isethnic group ofAfrican Americans. It has acapital ofWashington D.C. 
+TheAmerican Journal of Mathematics was built byMathematics, has theabbreviation of"Am. J. Math. and is located at theissn number"1080-6377. 
+TheAmerican Journal of Mathematics was built byMathematics and has theabbreviated to the United States and was designed by theissn number"1080-6377. It was designed by the United Statess. 
+The company of theUnited States is the location of theEnglish language, which is the location of theA Loyal Character Dancer. It was written inGreat Britain. It is the location of the city ofUnited which islanguage. 
+The company of theUnited States is the location of theA Severed Wasp. It wasethnic to theAsian Americans and is the location of the company of theGreat Britain. 
+The company of theUnited States was completed inGreat Britain and is the location of the Evil Librarians. It was designed by the company company company the company company which is home to theNative Americans in the United States. 
+Theleader for theDavid Cameron ofUnited Kingdom is thecountry of theUnited Kingdom which is the location of theLippincott Williams & Wilkins. It is the location of theElizabeth II. 
+TheA Fortress of Grey Ice was written by theUnited States which isethnic by theAfrican Americans. It was completed inGreat Britain. 
+TheA Fortress of Grey Ice was written by theUnited States which isethnic by theAsian Americans. It was completed inGreat Britain. 
+Theleader of theUnited States isBarack Obama and itslanguage isEnglish language. The company is the location ofA Severed Wasp. 
+Abilene Regional Airport is located inTexas and has a length of2194.0. It is part of theJones County in Texas. It is also the location of theUnited States. 
+Abilene Regional Airport is located at theAbilene, Texas and has a length of2194.0. It is operated by theAbilene, which is 3,546. It has an Америкаway name of17R/35L. 
+TheAdolfo Suárez Madrid–Barajas Airport has alocationMadrid and itselevation above sea level, is4349.0. It has a name of"14L/32R and itsrunway length is4349.0. 
+TheAgra Airport is located within the ICAO Location ofUttar Pradesh, which is part of theAwadh, is part of theBundelkhandRam Naik. 
+TheAgra Airport is located in the city ofUttar Pradesh, which is part of theAwadh, is part of theBundelkhand, and is led by theKheria Air Force Station. 
+Theoperating organisation forAl Asad airbase is the location of theUnited States Air Force, whoseattack aircraftLockheed AC-130. Theическийport aircraft isBoeing C-17 Globemaster III and theaircraft fighter isGeneral Dynamics F-16 Fighting Falcon. 
+Theoperating organisation forAl Asad airbase is the location of theUnited States Air Force, which has theическийport aircraft ofBoeing C-17 Globemaster III and theaircraft fighter ofMcDonnell Douglas F-15 Eagle. The United States Air Force is located in the Li War. 
+Theoperating organisation forAl Asad airbase is the location of theUnited States Air Force, which is part of theInvasion of Grenada, is located in the United States Air Force. The currency. of theUnited States Air Force isLockheed C-130 Hercules. 
+Theoperating ofAl Asad airbase is thealso known asUnited States Air Force, whosebattle isInvasion of Grenada andLockheed AC-130. Theическийport aircraft isBoeing C-17 Globemaster III. 
+TheAllama Iqbal International Airport is operated by thePakistan Civil Aviation Authority. The airport is located in the city ofAnwar Zaheer Jamali and itscountry of the country is the leader of the country is the leader of the country. 
+TheAllama Iqbal International Airport is located inLahore, which is operated by thePakistan Civil Aviation Authority. The airport is located in thelocation of the country of which is led by the theleader of theShehbaz Sharif. 
+Andrews County Airport is located inTexas and has alocation ofTexas. It is a company that is896.0. It is a leader of the name of11/29. 
+Andrews County Airport is inTexas, which is led by theUnited States and has thecapital city ofHouston. It was completed in the city ofHouston. 
+Andrews County Airport is inTexas, which has thelocation ofTexas, a company in theHouston city inHouston. It was completed in Texas and is thedemonym ofTexan. 
+Angola International Airport, which is located in theLuanda Province, is the location of the country of the country of the country of the country of the country is the leader of159. It is the location of the country of the country is the leader ofcolo e Bengo. 
+TheAngola International Airport is located in159 metres above sea level and has a Member of4000.0. It is part of theLuanda Province. 
+Antwerp International Airport is the operating organisation forFlemish Region. The airport has a length of600.0 and itselevation above sea level and is theel of Mobility and Public Works. 
+Apleton International Airport, which has alocation ofGreenville, Wisconsin, iselevation above sea level and is 380. It has arunway name of3/21. 
+Apleton International Airport is located in theUnited States and is the location of theGreenville, Wisconsin. Thecountry of theUnited States is theUnited. 
+The 1st runway atArdmore Airport (New Zealand) has a surface of the Bivil Aviation Authority of New Zealand and has a length of1411.0. It is34.0. It has an name of03R/21L. 
+TheAshgabat International Airport isoperating organisation forTurkmenistan Airlines. It has a length of2989.0 and itsrunway name is"12R/30L. 
+TheAtlantic City International Airport is located in New York and New Jersey. It has a length of1873.0 and its Jo is located in23.0. It is operated by the United States Airport which is located at the name of4/22. 
+Theleader of theCharles Michel is thehilippe of Belgium and is the location of theAntwerp International Airport. The airport is located in the city of the country and is led by thelanguage ofGerman. 
+TheAtlantic City International Airport is located23.0 metres above sea level,Egg Harbor Township, New Jersey, which is part of theUnited States and is located in thelocation ofEgg Harbor Township, New Jersey. 
+TheMadrid is theis part ofCommunity of Madrid. It has a Member of610.0 and itscountry ofSpain. It is the location of theAdolfo Suarez Madrid-Barajas Airport. It has a Member of3500.0. 
+Aaron Bertram was a member of theKids Imagine Nation. He was a member of theKids Imagine Nation. He was a member of the band of the band of the band of the band of the band of the band of the band of the band of the band of the band of thegenre of which is rock rock. It has thestylistic originated fromPunk rock. 
+Aaron Deer is a solo singer, who was born in the United States and is part of theUnited Bres in rock. He was a member of theWee Giant. 
+The musical genre ofAaron Turner, a member of theHouse of Low Culture, is theassociated band of theMamiffer. He has amusic fusion ofDeath metal. 
+Aaron Turner, whosemusic fusion isDeath metal, is a member of the bandTwilight andGreymachine. He is a musical artist of theGreymachine and is a member of the band of the band of the band of the band ofTwilight. 
+Aaron Turner, who was born in1995, is a member of theLotus Eaters and is aoriginMassachusetts. He was a member of the bandTwilight and started performing inTwilight. 
+Abradab, who was born in the United States on1994, is a member of theorigin ofMagik, which is located inPoland. He was a member of theorigin ofKatowice. 
+Thebirth ofAce Wilder was on the1982-07-23. It was on the 1st of July,1982. It has thebackground ofsolo singer. 
+Agustin Barboza was a member of theMestizo. It was completed in theJuan Afara, which is led by theleader of theAgustin Barboza. It was completed inish language. 
+African Americans are theethnic group ofUnited States which is the location of theAhmet Ertegun, who was built by theUnited States was built by thegenreRhythm and blues.Rhythm and blues is also known asBlues. 
+Ahmet Ertegun is abirth ofRhythm and blues musician, which is part of theUnited States and is thebackground of"non performing personnel. 
+Alan Frew is a solo singer. He is a solo singer in the genre ofRock music which has itsstylistic origins inCountry music. Themusic fusion ofRock music isBhangra. 
+Thebirth place ofAlan Frew isCoatbridge, theMusician. It was aorigin of theNewmarket, Ontario and was thebackground ofsolo singer. 
+Electronic musicianAlex Day was anbirth place ofLondon Borough of Havering and has the musical artist ofChameleon Circuit. It was published by2006 and has theactive of2006. 
+Alfred Garth Jones was created byManchester in theLabour Party in the country of which which is theleader of theEuropean Parliament. 
+Alfredo Zitarrosa, who was a member of theZambagenre isZamba, is agenre of the musical artist ofCiro Pérez. He was a member of theHéctor Numa Moraes and is located in the city of Biro Pérez. 
+The musical 'Alison O'Donnell was a member of theMellow Candle and started his career in1963. He was a member of theFolk music of Ireland. He was a member of theMellow Candle. 
+Anders Osborne, who was born in1989, is located in the bandTab Benoit and is a member of theVoice of the Wetlands All-Stars. He is also known as theactive of1989. 
+Anders Osborne, whoseassociated bands,Johnny Sansone, is a musical genre ofRock music, has anmusic fusion ofBhangra. 
+Thegenre ofAndra isRhythm and blues and is thebirth year of theAndra (singer) was represented by1986. It has anbackground ofsolo singer. 
+Thegenre ofAndra isRhythm and blues and isbirth place ofCâmpia Turzii. It has thebackground ofsolo singer. 
+Andrew Rayel is abirth place ofTrance music, sauce in the country of which is located in2009. He is also known as the musical artistArmin van Buuren and is thebirth place ofAndrew Rayel. 
+Andrew White was a member of theMarry Banilowassociated band,Marry Banilow. He is located in the band of the band of the band of the band of the band of the band of the band of the band of the band of theman. It wasolydor Records. It is located in2003 and was theactive of theAndrew White. 
+Thegenre ofAndrew Rayel isHouse music. He is located in the band of the country of the country of which isHouse music. He is theassociated band of the country of the country of which is the location of the Alexandre Bergheau, Jonny Rose, Sylvia Tosun, Lira Yin and Alexandra Badoi. He is the name of the band of the country of of the country of of the Mark Sixma, Jonathan Mendelsohn, Christian Burns, regionstrument of the musical. 
+Thebirth ofHip hop music was on1981-02-04. It was a member of theHip hop music which has its origins inFunk and is operated byDrum and bass. 
+Agustin Barboza was a member of theMestizo and was completed in thebirth place ofAsunción. It was completed in the country of which is led by theJuan Afara. It was completed inish language. 
+Agustin Barboza was a member of theGran Asunción and theleader of theJuan Afara. It was a member of theMestizo. It is located in the airport of the airport. 
+Al Anderson is a member of the band NRock music, whose fusion isBhangra. He is a member of the Bountry music, which has itsstylistic origins inBlues. 
+The musical genre ofTwilight is the musical artist ofTwilight and the band of the band of the band of the band of the band of the 28 of Low Culture. He has amusic fusion ofDeath metal. 
+Theleader of theMontevideo, which was designed by theDaniel Martínez, was designed by the United States and is led bySpanish language. It was designed by theUruguaa, which was designed by theleader of theRaúl Fernando Sendic Rodriguez. 
+Theleader of theTabaré Vázquez of theUruguay, which is theleader of theDaniel Martínez, is theleleleletevideo, which is based in theUruguayans. 
+Alan Bean was a member of theApollo 12operator ofNASA, thebirth place ofWheeler, Texas. He was a member of theApollo 12. 
+Alan Shepard was a member of the Alan Shepard was originally from theb Hampshire and was designed by the architect of the1923-11-18. He was a member of the country of theNWC, M.A. in 1957. He was designed by thebirth place ofCalifornia. 
+TheAlan Shepard was a crew member of theb Hampshire and was a member of the United States and was a student of the city of theDeceased. He was a member of the country of the country of 1957. He was a member of the country of the country of the country of the country was later city of the country of the country of which was thebirth of theb Hampshire. 
+Alan Shepard was a member of theApollo 14, who was created byNASA, was thebirth place ofNew Hampshire. He was a member of theApollo 14. He was a member of the country of the country was on the 1st of July,Deceased. 
+Alan Bean was a member of theDavid Scott,commander on theDavid Scott. He wasbackup pilotAlfred Worden. He was a member of theApollo 12operator ofNASA. He was a member of the space of100305.0 minutes. 
+Thebirth place of theDistinguished Service Medal, the country of Navy, which was thebirth of theDistinguished Service Medal, was thebirth of theb Hampshire of the Commerce Gold Medal, was the company of which was the company of the city of the city of the city of the city of which was the country of Navy. He was the company on the1923-11-18. 
+Thebirth place of theUniversity of Texas at Austin, which is located at theUniversity of Texas System, isGregory L. Fenves. It is the location of theUniversity of Texas at Austin. Thecompete in Austin isBig 12 Conference. 
+Thebirth place ofElliot See wasDallas on 28th of March1966. He was a member of theUniversity of Texas at Austin and was designed by the United States Air Force. 
+Thebirth place of theUniversity of Texas at Austin, which is located in theList of counties in Texas, isDallas. The country'salma mater is theUniversity of Texas at Austin. Theparts type is theList of counties in Texas. 
+Thebirth place ofElliot See isDallas and was thebirth of theUniversity of Texas at Austin. The country'sstatus isDeceased. 
+TheApollo 8 wascommander on 1st JulyFrank Borman and was built byNASA. He was a member of the National Register of Historic Places on 1st,1969. 
+Akeem Dent'sdebut team isHouston Texans, who was born inHouston. He was a member of theArthur Blank. He was a member of theHouston Texans. 
+Alaa Abdul Zahra, who was a member of theQatar Stars League, is a member of theAl Kharaitiyat SC, which wasmanager ofAmar Osim, is theman of which, is theman ofAmar Osim. 
+Aleksandr Chumakov, who was born inRussia, is a member of theValentina Matviyenko, was a member of theSoviet Union national football team. Itsmanager isValery Petrakov. 
+Aleksandr Prudnikov, whoseground isGrozny, is located in theFC Spartak Moscowouthclub. It was built byRashid Rakhimov and is located in theFC Terek Grozny. 
+Alessio Romagnoli, who was born in theU.C. Sampdoria, was a member of themanager ofSiniša Mihajlović. He waschairman inSilvio Berlusconi. 
+Alessio Romagnoli, who was a member of theItaly national under 17 football team, is a member of themanager ofSiniša Mihajlović. He was a member of theU.C. Sampdoria and is now retired. 
+Aleksandr Prudnikov, whoseground isGrozny, is located inFC Spartak Moscow, was a member of theFC Terek Grozny, which wasmanagerRashid Rakhimov. It was a member of theFC Dynamo Moscow. 
+Theman of the country of the country of the country of the country of the country isThomas Doll. It was built by theUnited Petrotrin F.C., which is the location of theGábor Kubatov. It is the location of theAkeem Adams. 
+Akeem Ayers was aformer team inLos Angeles Rams, whosecoach isMike Mularkey and was built byLos Angeles Memorial Coliseum. 
+The city of the city of the city is20 Fenchurch Street, is located in theLondon, which isleader inElizabeth II. It was written by thePound sterling. 
+250 Delaware Avenue was written byBuffalo, New York and has a redst of110 million (dollars). It was a member of the country of the country of which250 Delaware Avenue, whosefloor area is30843.8 square metres. 
+Thelocation of300 North LaSalle isChicago, whoseis part ofDuPage County, Illinois, was thecountry ofUnited States and was written byRahm Emanuel. 
+TheLive Nation Entertainment is theleader ofDublin which is located in the city of Ireland. The country'scountry wasRepublic of Ireland.Dublin is theis part ofLeinster. 
+TheAdisham Hall is acompletion date of1931 and is located in Haputhale, Sri Lanka. The country'sbuilding start date is 1927 and thelocation of the country isSri Lanka. The country's Monastery, Adisham, Haputhale, Sri Lanka. 
+Thecapital of theSri Lankan rupee is theSri Jayawardenepura Kotte. It was written in thelocation ofAdisham Hall, which is led by the city ofTamil language. 
+Theleader of theRanil Wickremesinghe is theSri Lankan rupee,capital of theSri Lankan rupee, is theleader of theAdisham Hall, which is written in thelocation ofHaputale. 
+Theleader of theAkita Museum of Art is in theTarò Asò, the company of theAkita Prefecture. The company is located in thelocation ofAkita, Akita, and is home to the учатся of the country of the country. 
+Amdavad ni Gufa is located in theNarendra Modi and is theleader of theGujarat Legislative Assembly. It was designed by theNarendra Modi. 
+Amdavad ni Gufa is located inT. S. Thakur and is theleader of theGujarat Legislative Assembly. It was written by theGujaratt and is located in thelocation of the country. 
+Ampara Hospital is a member of theEastern Province, Sri Lanka, which isleader ofAustin Fernando, is thecountry of theAmpara Hospital. It has abed count of476. 
+TheJulia Morgan was built by thebirth place ofCalifornia and was thebirth of theman of theLos Angeles Herald-Examiner. Thesignificant government wasHearst Castle and was on the Stth of of theHearst Castle. 
+TheJulia Morgan was built byCalifornia, which was built by the novelCalifornia, is thebirth place of theAsilomar Conference Grounds. Thesignificant government wasHearst Castle and was on theHearst Castle. 
+Asilomar Conference Grounds was designed by thelocation ofPacific Grove, California and Crafts movement. It was designed by the National Register of Historic Places on 27th July27. It was designed by the National Register of Historic Places on 27th July27 and has the reference number 87000823. 
+TheAsser Levy Public Baths was built by23rd Street (Manhattan and was designed by23rd Street (Manhattan. It was designed by the National Register of Historic Places on 28th ноября,Romanesque Revival, and was designed by the National Register of Historic Places on 23rd April1904. 
+Theleader of theGale Brewer isNew York City, which is located in theUnited States is theleader of theManhattan, which is based in thelocation ofNew York City. Theis city is located in the country was part of theManhattan. 
+Thebirth place of theBirmingham is thebirth of theBirmingham, which has thepostal code ofB postcode area. The103 Colmore Row was completed in theAndrew Mitchell and is located in thepostalirmingham City Council. 
+TheEthiopia is theleader ofMulatu Teshome and is part of theHailemariam DesalegnAddis Ababa Stadium. It was written byAddis Ababa, which is led by theEthiopiary. 
+Theleader of theJohn Roberts is thelocation ofUnited States which is led by theAfrican Americans. It was completed in the United States which is home to thelanguage ofEnglish. 
+Theleader of theUnited States is located in the United States which is led by theEnglish language. It was completed in the city of the United States which is led by theJoe Biden. It wasethnic group in theWhite Americans. 
+(66063 1998 RO1 has an epoch date of2013-11-04. It has anorbital period of360.29 days and anapoapsis of254989570.60815 kilometres. It has anescape velocity of0.0999 km per sec. 
+(6391 1999 KW4 has anorbital period of16244700.0 and an apoch of2004. It has anapoapsis of162164091.8388 kilometres and an a member of theubic centimetres. 
+The city of101 Helena was part of theUniversity of Michigan and was completed on1868. He was born inMadison, Wisconsin. He was the National Register of Historic Places. 
+Thediscoverer of101 Helena isJames Craig Watson, who was born inMadison, Wisconsin, was the location of theUniversity of Michigan. He was a member of the city of Watson. 
+The1036 Ganymed was a member of theWalter Baade, who was born inGerman Empire and was a member of theUniversity of Göttingen. He was adoctoral student inAllan Sandage. 
+The1036 Ganymed was a member of theWalter Baade, who was born inGerman Empire, was a member of theUniversity of Göttingen. He was a member of theHalton Arp. 
+107 Camilla has anorbital period of2368.05 days and an apoch of2006-12-31. It has anapoapsis of479343000.0 kilometres. 
+TheN. R. Pogson, who was completed inEngland, was designed by the architects of107 Camilla, was designed by the architects of1868. 
+1089 Tama has an epoch date of2005-11-26 and anformer name of"A919 HA; 1927 WB; and anorbital period of1202.846 days. Itsapoapsis is373513000.0 kilometres. 
+1097 Vicia has an epoch date of2006-12-31 and anorbital period of135589000.0. It has an a celestial body.0112 km per sec. 
+The red area of10 Hygiea is2015-06-27. It has asurface area of837080.744 square km/s and anapoapsis of523951582.33968 kilometres. 
+Abilene, Texas has aarea code of325, has aarea of water14.2 square kilometres and apopulation density of429.9 inhabitants per square kilometre. It has aarea total of286.5 square kilometres. 
+Abilene, which is in the city ofHouston, is in the city ofTexas, which was completed in theUnited States andlanguage isSpanish language. 
+Albany, Georgia, is in theGeorgia state of the United States which is home to theAmericansian Americans. It wasethnic group of theUnited States whichlanguage isEnglish language. 
+Albuquerque, New Mexico is located inNew Mexico and has aarea code of505, 575. It has apopulation density of1142.3 inhabitants per square kilometre and aarea total of490.9 square kilometres. 
+Theleader ofAnaheim, California is located inTom Tait and is part of theUnited States House of Representatives, which is led by theUnited States Capitol. Thelanguage isSpanish language. 
+Theleader ofAnderson, Indiana is theDemocratic Party in the city of the city ofIndianapolis. Thecountry of theDemocratic Party isUnited States which isheadquartered inWashington, D.C. 
+Anderson, Indiana has aelevation above sea level, has aarea code of765, a total of107.43 square kilometres and apopulation density of523.9 inhabitants per square kilometre. It wasis part ofIndiana. 
+Antioch, which is part ofCtra Costa County, is part of theSan Francisco Bay Area, is located in the United States. Thelanguage isChinese and has aarea total of75.324 square kilometres. 
+Attica is part ofFountain County, Indiana, which is part of thecapital ofWashington, D.C. and is also known as theCovington. 
+Auburn is part ofLee County, Alabama, whosecountry is theUnited of the country of which is led byAsian Americans.United States has acapital ofWashington, D.C. 
+Auburn is part ofLee County, Alabama, which is in the United States. Thecountry of theUnited States is thecountry of theAfrican Americans. 
+Austin is inTexas, thelanguage ofSpanish language. It is part of theWilliamson County, which is located in theGeorgetown seat of theGeorgetown. 
+Austin is inTexas, which is led by the city ofHouston. It is part of theWilliamson County, which is operated by theGeorgetown. 
+Alexandria is a city inAnderson, Indiana, whosecapital isIndianapolis. TheMadison County is in the city ofUnited. 
+Tarrant County, which is a city inHouston, is the location of thelanguage ofEnglish language. It is part ofTexas, which is located in the city ofTexas. 
+Tarrant County, thecapital ofAustin, is located inTexas, which has the city ofHouston. 
+Arlington is a city inTexas, which is located inTarrant County, in the city ofHouston. Thecapital ofTexas is thecapital ofAustin and was theis part ofTexas. 
+Albany, Georgia, is located inDougherty County, Georgia, itsleader title isMayor. It is located in the United States. 
+Albany,Linn County, Oregon, is theis part of theUnited States which has thecapital ofWashington, D.C. and is located in the city of the United States. The company is the location of theUnited States which is home to theAfrican Americans. 
+TheUnited States is located in the United States which has thecapital ofWashington, D.C. and itscountry is theUnited States and itsethnic group isNative Americans. 
+Theleader of theUnited States is in the United States which is led by theAfrican Americans. The country is home to the location of the country which is home to the inhabitants of the United States which is home to theAfrican Americans. 
+TheUnited States has acapital ofWashington D.C. and is the location of theAsian Americans. It was completed in the United States. It is the location of theAlbany, Oregon, which is based in thecountry ofUnited States and has thelanguage ofEnglish language. 
+TheUnited States has acapital ofWashington D.C. and is the location of theAlbany, Oregon, which is the home of theAsian Americans. It is the location of theUnited States which is led byEnglish language. 
+Auburn, Alabama is part of the United States of the country of the country of the country which is home toNative Americans. The leader of the country is the home of the above sea level. The leader of the country is the leader of the country. 
+Theleader of theUnited States isBarack Obama, which is led by thele Indianquerque City Council, is located in the United States and itsethnic group isNative Americans. It is the location of thelanguage ofEnglish language. 
+Thelanguage ofEnglish language is the location of theUnited States which is home to theNative Americans in the United States. The country is the location of theUnited States which is home to the inhabitants of the United States. 
+Theleader title ofUnited States is located in the United States which is led by theleader of the United States which is operated by theAsian Americans. It is located in the United States. 
+The city ofAuburn is the location of the city of the city ofUnited and is located in thecapital of the city of the city of the U.S. The country is the location of the city of the city of the city of the U.S. 
+Banaman was created byJohn Geering and was part of the Bu ofTim Brooke-Taylor. It was discovered byJohn Geering and waslast aired on March 3 October,1983. 
+The seconduncan Rouleau is the location of theBaymax, whoseseries isBig Hero 6, which isstarringScott Adsit. His Hisnational Bar isAmericans. 
+Thefounding date for theManila was thefounding date of theManila. The university was theumber of location of the295. The location of the location of the city is15100000000. It wastype wasPublic company. 
+GMA New Media, whosefounding date is on January 1,2000. He was a member of theGMA Network Center. He was a member of theGMA New Media, which is a member of theFelipe Gozon. 
+Hypermarcas was a member of the United States Air Force, whosefounding date was2001-01-01. He was a member of theCosmetics. He was a member of thepopulation density of23.8. 
+Thefoundation place ofLa Crosse, Wisconsin is the leader ofTrane, which wastype in the country of the country isSubsidiary. It was founded inLa Crosse, Wisconsin. 
+Thetype ofTrane was theSubsidiary, which has anet income of556300000. It wasproduct ofBuilding Management System. It was created by10264000000 and has thetype ofSubsidiary. 
+Ajoblanco is a member of theAjo blanco, whosealternative name isAjo blanco, which is located inBread. It is a member of the almonds, garlic, water and olive oil. 
+Amatriciana sauce, whosecourseItalian meal structure is the leader of the country of which is theLazio. It has amain ingredient ofTomatoes, guanciale, cheese and olive oil. 
+The company of theIndonesia is theleader of theArem-arem, which is led by theJavanese cuisine and is located in the city of the rupiah. It was created by theJoko Widodo and is theregion of the inhabitants of the inhabitants of the country. 
+Thelanguage ofItaly isSergio Mattarella and is theleader of theSergio Mattarella. It is fromItaly, which has thecapital ofRome. 
+TheValencian Community, which is led by theXimo Puig, is theleader of theValencian Community, which is located in the country of Spain. The country is the location of theFelipe VI of Spain. 
+TheMalaysianee is the home to theMalaysian Indian and is the home to theMalaysian Indian. TheMalaysia is a member of theKuala Lumpur. 
+TheMalaysian Indian is the home toMalaysiane and theleader ofAsam pedas, which is led byMalaysian Chinese. TheMalaysian Indian isethnic toMalaysian Indian. 
+TheAyam penyet is a dish from the country of the country of Malaysia and Singapore and is a dessert. The dish is served with smashed and fried chicken served with sambal. 
+TheAyam penyet is amain ingredient of the fried chicken served with sambal. Thecountry of theMalaysian Chinese is the Two of theMalaysian. The leader of the country isFried chicken. 
+TheMalaysian Chinese is a leader in the country of theMalaysian Chinese and is the home to theMalaysian. The country is the location of theAyam penyet which is a member of theIndonesia. 
+Theleader ofBacon Explosion was on theUnited States which is located in the United States which has acapital ofWashington D.C. and itslanguage isEnglish language. The country is the location of theBarack Obama. 
+The headquarters ofUnited is thecountry of theUnited States which is led by theAsian Americans. The country'scapital isWashington, D.C. and was completed in the city of the country isEnglish language. 
+Theleader of theGérard Larcher is the operating organisation for theleader of theHong Kong, which is the location of the A staff of the doctor of Barrie Lam. It is the location of theши language. 
+The Bolombian cuisine is theregion ofBandeja paisa which has the Bolombian cuisine and is a member of theLemon. The country's latter is the location of theLemon, whosefamily isRutaceae. 
+Theleader of theGérard Larcher is the operating organisation for theleader ofBarny cake which is located in theClaude Bartolone and was aredient ofSponge cake. 
+Theleader of theGérard Larcher is the operating organisation for theMondelez International which is led by theMondelez International. He was born inChicago and was created by theMondelez International. 
+Theleader ofBhajji isT. S. Thakur and itsregion isKarnataka. The airport is theleader of theIndian and itscountry isIndian. 
+TheBinignit is a member of theVisayas. The main ingredients ofBinignit is located in the U.S. which is led by theDessert. The latter is a member of thecountry ofPhilippines. 
+TheMexico is thecountry of theMexico, which islanguage of the country is the location of theHoney. The country is thedish variation of theMexico which is the location of theHoney. 
+TheMexico is theleader of theSilvano Aureoles Conejo. It was designed by theMexico, which is led by theDessert. The country is thedish variation ofCookie. 
+Thecountry of theMexico is theleader of theHoney and itsdish variation isHoney. Theregion of theBionico isGuadalajara. 
+Thelanguage ofIndonesian is the leader ofJakarta, which is led by theJoko Widodo. The country'scapital is theJakarta. The country is led by the city of Indonesia and popular in Southeast Asian countries. 
+Theleader ofJusuf Kalla isJakarta, the city ofIndonesia, which is located inJoko Widodo. 
+Thecountry of theItaly is thecountry ofItaly, which isleader inLaura Boldrini.Italy is located in thecapitalRome and was written by theLaura Boldrini. 
+Theleader of theHalimah Yacob is the home of the city ofAyam penyet which is located inJava. The company is led by theHalimah Yacob. 
+Theleader of theHalimah Yacob is theHalimah Yacob. The company is the location of theAyam penyet which is led by theJava. 
+Thecountry of the leader ofPhilippines, which is led byArabic. It wasethnic toIgorot and the leader of the country is the leader of the country. Thehilippines was theofficial language of the country is the university of the country. 
+Theleader ofTony Tan isHalimah Yacob and is the location of thelanguage ofEnglish language. Theregion ofBeef kway teow isregion isNationwide in Singapore and Indonesia. 
+Theleader ofAjoblanco isSusana Díaz. It was designed by theleader ofSusana, which is located in the city of Spain. Thecountry of the country isSpaniards. 
+Theleader of theFelipe VI of Spain is the operating organisation for theSpanish language, which is led by theEuro. 
+AIDAstella has a red red of38.892 and aMeyer Werft, alength of253260.0 millimetres long. It wasoperator ofAIDA Cruises. 
+Thecylinder count of theALCO RS-3 has anlength of17068.8 millimetres and anlength ofV12 engine. It was a member of theMay 1950 and August 1956. 
+The bookAMC Matador, which has theMid-size car, is aengine ofAMC V8 engine, is thealternative name of"American Motors Matador. The book is located in the city ofThames, New Zealand. 
+TheAlhambra, a member of theSamuda Brothers, is the Академи of theHumphrys, Tennant and Dykes, which is also known asDeptford. It was a member of thelength of63800.0 millimetres long. 
+Themanufacturer of theAntares rocket, which was on the 22nd of July,2014, was on the 22nd of July,2014. It has an orbital period of3.9 metres and an orbital period of2013. It was on the 22nd of July,20, 16. 
+Themanufacturer of theAntares rocket, which ismanufacturer wasYuzhnoye Design Office, wascomparable wasVandenberg Air Force Base. It was awarded theMid-Atlantic Regional Spaceport. 
+Ariane 5 was a member of theGuiana Space Centre and is operated by theAirbus Defence and Space. It wasmanufacturerAriane 5, which was on 11th July2005-08-11. It was on the 1st of September5.4 metres. 
+Ariane 5 was built by thelaunch site ofELA-3 and was on 27th July2004. It wasmanufacturer wasEuropean Space Agency and it has andiameter of5.4 metres. 
+TheAston Martin V8 wasassembly inUnited Kingdom, which is located in theAston Martin Virage. It wasmanufacturer is theAston Martin DBS. It is a member of theAston Martin V8. 
+TheAtlas II was written by theUnited States and was on the 22nd of November1998. It was France on the 22nd of November,Vandenberg Air Force Base and it has andiameter of3.04m. 
+TheAudi A1 is a member of theHatchback style of the United States and is the location of themaront-engine, front-wheel-drive layout. Theassembly is"Brussels, Belgium. 
+TheAIDAluna is the sea of theAIDA Cruises. The inhabitants of the city of the city of the city of the city of the country isDouglas R. Oberhelman. The inhabitants of the airport is theAIDA Cruises. 
+AIDAstella, whoseparent company isCarnival Corporation & plc, was a member of theMeyer Werft. It was a member of theCosta Crociere, which is thelocation ofGenoa. 
+TheMid-Atlantic Regional Spaceport Launch Pad 0, which is theassociated rocket ofMinotaur IV, is thecomparable ofDelta II. Thecountry of the country is theUnited States and thecomparable ofDelta II. TheMid-Atlantic Regional Spaceport Launch Pad 0. 
+TheMid-Atlantic Regional Spaceport Launch Pad 0, which is situated in theUnited States and is thecomparable ofDelta II. It wascomparable ofVandenberg Air Force Base. It was built by theMid-Atlantic Regional Spaceport Launch Pad 0. It wasassociated rocket inMinotaur IV. 
+TheNeptun Werft is a member of theNeptun Werftcapital is located in the city of the city of the city. Theleader of theJoachim Gauck is theGermany. The country is located in the city of the country is theNeptun Werft. 
+Theleader of theStanislaw Tillich is theleader of theNeptun Werft, which is located in the city ofGermany. TheNeptun Werft is located in the city of rock. The country is the location of theNeptun Werft. 
+TheMid-Atlantic Regional Spaceport Launch Pad 0, which is situated to theMinotaur V. It wascomparable ofDelta II, which is thecountry of theMid-Atlantic Regional Spaceport Launch Pad 0. It was written by theUnited States and is thecount of theMid-Atlantic Regional Spaceport Launch Pad 0. 
+Theanthem ofUnited States wasThe Star Spangled Banner and was the company of theUnited States which is led by theWhite Americans. The company is located in the city of the country which is home to the inhabitants of the country isWashington, D.C. 
+The11th Mississippi Infantry Monument ismunicipality ofGettysburg, Pennsylvania. It has the west ofFranklin County to the southeast ofCarroll County, Maryland to the southeast ofCumberland County to the north of Pennsylvania. 
+Azerbaijan is located in the state of Azerbaijan and was created by theNational Assembly. He was a member of theArtur Rasizade and is led by thelocation ofAzerbaijan. 
+TheAzerbaijan is theleader of theArtur Rasizade and is situated in the city of the city of Baku. It is also known asAzerbaijan who was created by the created by the created by the created by the createdur Rasizade and Hilmi Guner. It is also known as theHüseyin Butuner and Hilmi Guner. 
+TheBaku Turkish Martyrs' Memorial, which is situated in the city of Baku, was designed byAzerbaijan and is situated in the city of red granite and white marble, is located in thelocationAzerbaijan. The city is situated in the city of the city of the city of which is operated by theHüseyin Butuner and Hilmi Guner. 
+TheAzerbaijan isleader to the belongs to the staff of the created by the created by the created by the created by the created by the created by the created by the created by the created by the created by the created by the created by the created by the created by the created by the created by the created by the created by the created by the created created by the created created by the createdseyin Butuner and Hilmi Guner. 
+Abdul Taib Mahmud was a member of theUniversity of Adelaide and was created by theKingdom of Sarawak. He was a member of the United Statesbirth place ofAdenan Satem. He was a member of the United States Air Force and was created by theKingdom of Sarawak. He was a member of the United States Air Force. He was a member of the United States Air Force. He was thebirth place of Jalan Bako, Kuching. 
+Abdulsalami Abubakar, who was born in theNigerian Army, was a member of theMike Akhigbe, was a member of theladipo Diya. He was a member of theNigerian Army and was on the1999-05-29. 
+Thebirth place ofAbraham A Ribicoff, who wasConnecticut, wasNew York City, is located in theDemocratic Party of the United States.Abraham A. Ribicoff was thebirth place ofConnecticut and was the architect of theAbraham A. Ribicoff. Theparty of the United States Secretary of Health, Education and Welfare. 
+Thebirth place ofAbraham A Ribicoff wasChicago and was thebirth of theUnited States of the United States which isethnic group ofNative Americans. 
+Adam Holloway was a member of theGrenadier Guards and was built by thebirth place of theGrenadier Guards. He was a member of theMember of Parliament for Gravesham and was thealma mater ofMagdalene College Cambridge. 
+Agnes Kant was a member of theMark Rutte. He wasparty in theSocialist Party in the Netherlands and was created byHouse of Representatives. 
+Agnes Kant was an American. It was created by theMark Rutte and itsparty isSocialist Party in the Netherlands and was created by theMark Rutte. 
+Agnes Kant was aNetherlands, whoseleader isMark Rutte, was acolourRed. He is located in the Netherlands and wasparty of theSocialist Party in the Netherlands. 
+Albert B. White was built byMarietta, Ohio and was created byMarietta, Ohio. It was created by thebirth place ofMarietta, Ohio and was created by theWilliam M. O. Dawson. Thebirth place ofAgnes Ward White was wasarkersburg, West Virginia. 
+Alberto Teisaire was an American who was built by theGabriela Michetti and was a member of theBuenos Aires, which wasgoverning body. It was designed by theGabriela Michetti. 
+Theleader ofAlberto Teisaire was on theHoracio Rodríguez Larreta and was built by theHoracio Rodríguez Larreta. It was completed in the United States andlanguage inSpanish. 
+Alberto Teisaire was a member of theMendoza in Argentina and was created byMendoza in Argentina. He was a member of the Argentine Senate and was on the 1st of July,1891. He was a member of the Argentine Navy. He was a member of theice of the Argentine Senate. He was a member of theice of theolsaac Rojas. 
+TheVermont's 3rd Congressional District, which was built by theVermont's 3rd Congressional District, is located inSycamore, Illinois. It was built by theVermont's 3rd Congressional District. 
+TheVermont's 3rd Congressional District, which is located in theBurlington, Vermont. It was thebirth place of theVermont's 3rd Congressional District. It is located in theVermont's 3rd Congressional District. 
+Alvah Sabin was born in the United States and was built by theHenry Clay. He was a member of theVermont, which is located in the United States and was built by theleader ofHenry Clay. 
+TheVermont was built by theDaniel Webster and is theleader of theWhig Party in the United States and is located in the city ofBurlington. It is located in the city ofVermont. 
+Adonis Georgiadis, whosebirth place isAthens, is a member of theKonstantinos Mitsotakis. He was a member of theEvangelos Venizelos. He was a member of theMakis Voridis. 
+Austria, who was built byDoris Bures is theleader ofAustria, which was built by thebirth place ofGraz. It was completed inImst. 
+TheNetherlands, who was originally from theMark Rutte, was a member of theNetherlands, who was originally from theEuro, is a member of the Appealparty. 
+Theman ofA.F.C. Blackpool, who was built byGordon Marsden, is theleader of theBlackpool, which is located in theChesterfield F.C. 
+Theman ofAEK Athens FC was a member of theGus Poyet, who is a member of theChelsea FC, is a member of the AEK Athens FC. He was a member of theOlympiacos FC. He is a member of theGus Poyet, which is a member of the city ofCchampions. 
+TheAgremiação Sportiva Arapiraquense was a member of theCampeonato Brasileiro Série C, whosecountry isBrazil. It was built by theVila Nova Futebol Clube. 
+TheAgremiação Sportiva Arapiraquense was a member of theCampeonato Brasileiro Série C, which is operated by theVila Nova Futebol Clube. It was designed by theEstadio Municipal Coaracy da Mata Fonseca, whosecountry isBrazil. 
+Agremiação Sportiva Arapiraquense, who was founded inVica, was a member of theVila Nova Futebol Clube, was a member of theVila Nova Futebol Clube. He was a member of theCampeonato Brasileiro Série C, whosecountry isBrazil. 
+TheAccademia di Architettura di Mendrisio is located inMendrisio, whosecountry isSwitzerland. It was created by theMario Botta and wasued in600. It has anacademic staff of100. 
+TheAccademia di Architettura di Mendrisio was written by theJohann Schneider-Ammann and was written by the companySwitzerland. It was written by the company of the country of the country of the country is1996. 
+TheAcharya Institute of Technology is located in the United States Air Force, theaffiliation ofVisvesvaraya Technological University. It was founded inBangalore and its west isArabian Sea. 
+TheAcharya Institute of Technology is located in the United States and was founded inBangalore. It has theestablished of700 and itscountry is the November of the postgraduate students. It was designed by the Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. 
+TheAcharya Institute of Technology was built by theVisvesvaraya Technological University in theKarnataka which is led by theKempe Gowda I. It was founded inBangalore, and was built by theArabian Sea. 
+The1 Decembrie 1918 University is located in theAlba Iulia, theleader ofRomania, which is located in theKlaus Iohannis. Thecountry ofRomania isBucharest and was created by the United States. 
+The company companySchool of Business and Social Sciences at the Aarhus University is located in the city of Aarhus University, which has anaffiliation of разговор University Association. Itscountry ofDenmark and was designed by the National Register of Historic Places on737. 
+TheThe Secret Scripture, whosefollowed byThe Secret Scripture, was written by theWhite, is a member of thelocation ofEurope. The leader of the country is theThe Secret Scripture, which is home toFaber and Faber. 
+A Long Long Way was written byThe Secret Scripture, whosepreceded byAnnie Dunne. It was written by theThe Secret Scripture, which has an orbital period ofFaber and Faber. 
+Above the Veil, whosecountry isAustralians, was created byThe Violet Keystone and the Bastle. It waspreceded by theAenir. 
+TheAdministrative Science Quarterly was a member of the the National Register of Historic Places on thebation of theAssociation of American Universities. The country is located in the National Register of Historic Places. 
+TheAdministrative Science Quarterly was a member of the the National Register of Historic Places on thebation of Public and Land-grant Universities. Theaffiliation of theAssociation of Public in the country of the country is located in New York. 
+Theleader ofAlcatraz Versus the Evil Librarians was written by theBarack Obama and was designed by theleader of theUnited which is located in theGreat Britain. It was written by theUnited States which isethnic group ofAfrican Americans. 
+The company of theUnited States has thecapital ofWashington D.C. and the company is the location ofA Severed Wasp. It was written by theGreat Britain and is the location of theUnited States which is led by theUnited States which isethnic group ofAfrican Americans. 
+Theleader ofAlcatraz Versus the Evil Librarians is thecountry ofUnited which is located inGreat Britain. It was designed by the company company company the company of the country is theJoe Biden and theethnic group ofAfrican Americans. 
+The headquarters ofUnited Kingdom was theleader of theDavid Cameron and is thecountry of theUnited Kingdom which is the location of theElizabeth II. It is the location of the AIDS. It was designed by theEnglish language. 
+Theleader of theElizabeth II is theleader of theDavid Cameron and has an orbital period ofLippincott Williams & Wilkins, which has theparent companyWolters Kluwer. 
+Theleader of theUnited States isBarack Obama and its operating organization is the location of theEnglish, which is led by theGreat Britain. It was designed by theleader ofA Severed Wasp, which is written in theUnited States which isethnic group inNative Americans. 
+Theleader of theUnited States isBarack Obama and its operating organization was the location of theA Severed Wasp. It was designed by theUnited States which is located in theGreat Britain. The company is located in the United States which isethnic group ofNative Americans. 
+Alan Bean was a member of theApollo 12, who was born in the United States on theDavid Scott. He was a member of theApollo 12 was thebirth place of theWheeler, Texas. He was a member of thestatus ofRetired. 
+Alan Shepard was a member of the Alan Shepard, who was born in theb Hampshire and was a member of the United States and was a member of the Alan Shepard. He was a member of the Alan Shepard was thebirth of the managerth of theUnited on November 18th, 1923. He was a student at theNWC. in 1957. 
+Alan Shepard was originally from theb Hampshire of thebirth of thebirth of theb Hampshire, and was the architect of the country of which was the company of the country of which was the country of the country of which was the country of the country of which was the country of the country of which was the country of the country of which was the country of the country of which was the country of theNWC. He was designed by NASA in 1957. He was a member of the Alan Shepard was a by the Alanpard was a 1923-11-11-manman. 
+Alan Shepard was a member of the Apollo 14, who was born on the 1st of July, 1923 inNew Hampshire. He was a member of the Apollo 14, which was founded on the 1st of July,1974-08-01. 
+Thebirth place of theDistinguished Service Medal, the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city ofb Hampshire. He was thebir of theAlan Shepard was thebir of theDistinguished Service Medal. He was the city of the city of the city of the ribbon. 
+TheBuzz Aldrin was a member of the United States Air Force. He was a member of the United StatesFighter pilot and was originally published inGlen Ridge, New Jersey. He was a member of theApollo 11. He was a member of the country was on January 20th of January 1930. He was a member of the country was on January 20th of January 1930. 
+Buzz Aldrin was a member of the United States Air Force who was born on January 20th,1930. He was a member of theApollo 11. He was a member of thebirth ofGlen Ridge, New Jersey and was a member of the Turk of Technology. He was a member of the country was Government of the United States and was created by NASA.D. and was a member of the United States Air Force. 
+TheBuzz Aldrin was a member of the country of the country was built by NASA in 1963, was a member of theWilliam Anders. He was a member of theApollo 11, which was built by theNASA, was a member of theoperator of theNASA. He was a student atMassachuset Institute of Technology. 
+Thebirth place ofElliot See was on the 28th of July,1966. He was a member of theUniversity of Texas at Austin and was completed on the 28th of March,1966. 
+Thebirth of theUniversity of Texas at Austin, which was originally from theUniversity of Texas System, is thebirth ofDallas and was originally from the country of which which was written byDeceased. 
+TheWilliam Anders was a member of the country of the country of the country of which was completed on 1st July,1933 and was designed byFighter pilot and has an M.S. in 1962. He was a member of theApollo 8. 
+Hypermarcas, a member of theCEO B.S.A. corporations, was a member of thelocation ofBrazil. He was a member of theHypermarcas, who was born on January 1st,2001. 
+Trane was founded on 01-01, and was founded on January 1,1913. He was a member of the National Register of Historic Places on January 1,1913. It was founded on January 1,1913. 
+TheAtatürk Monument (òzmir) was built by theAhmet Davutoğlu in thelocation ofTurkey, which is located on 27 July 1932. It wascapital of theAnkara. 
+Azerbaijan isleader to theakrime Minister of Azerbaijan and is led by the created by the created by the created by the created by the created by the created by the created by the created by the created by the created by the created by the createdur Rasizade. It was the name of theArtur Rasizade and isdesigner of theHüseyin Butuner and Hilmi Guner. 
+The14th New Jersey Volunteer Infantry monument was designed byNational Park Service and was designed by thelocation ofFrederick County, Maryland. It was designed by theNational Park Service and was thedis of14th New Jersey Volunteer Infantry monument. The country'sdistrict for thelos of the14th New Jersey Volunteer Infantry Monument is located on November 7, 1907. 
+14th New Jersey Volunteer Infantry monument was designed byNational Park Service and was designed by theMonocacy National Battlefield, which is located on 11th July 1907. Thelocation of theMonocacy National Battlefield wasFrederick County, Maryland. The leader of thelocation isFrederick County, Maryland. 
+Theleader of the city of the country ofSwitzerland, theleader of theJohann Schneider-Ammann, is the location of theAccademia di Architettura di Mendrisio, which was written byFederal Chancellor of Switzerland. It was thecountry of the country is the NovemberSwitzerland. 
+TheAcharya Institute of Technology is located in theKarnataka, which is operated by the Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It was designed by the United States and is located in the National Register of Historic Prabhukumar. It has adirector of of2000 and itscountry ofKarnataka. 
+TheAcharya Institute of Technology was designed byVisvesvaraya Technological University and has the company of the company of the 1st of the 1st of the company of the 1st of the company of the 1st of the company was designed by theVisvesvaraya Technological University. The Green of Technology was designed by the United States Air Force, and was designed by theund. G. P. Prabhukumar. 
+Acharya Institute of Technology is in the United States Air Force, which is led by thewas given the technical campus status byAll India Council for Technical Education. It was written byMumbai and its west isArabian Sea. It is also known asTennis, whose governing body isInternational Tennis Federation. 
+TheAcharya Institute of Technology is located in theVisvesvaraya Technological University, which is led by thewas given the technical campus status byAll India Council for Technical Education. It was designed by theMumbai and the governing body isInternational Tennis Federation. 
+The company ofRomania was written by the counts of Romania and has the company of the company of the country is the operating organisation of theleader of theKlaus Iohannis. The country is led by the Apostle and wasethnic to theGermans of Romania. The country is the location of1 Decembrie 1918 University. 
+TheLars Lòkke Rasmussen is theleader of the Aarhus University in the city of Aarhus, which is located in the city of Aarhus, was designed by theLars Lòkke Rasmussen. Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its India. 
+The company companySchool of Business and Social Sciences at the Aarhus University is located in the city of Aarhus, which was founded in 1928. Itsaffiliation was разговор University Association and was designed by the Aarhus University, which has ana count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count count. 
+Alan Bean was a member of theApollo 12, who was originally from the United States and was designed byWheeler, Texas. He was a member of theApollo 12 was thebirth place of the city ofTest pilot and was completed on March 15th,1932. 
+Alan Bean was a member of theApollo 12 was a member of theDavid Scott. He was a member of the country of the country of the country was on thebirth place ofWheeler, Texas. He was a member of theApollo 12 was thebirth place of theAlan Bean, who was created by the United States and BS in 1955. 
+Alan Shepard was a member of the Apollo 14. He was a member of the Alan Shepard was a member of the Apollo 14. He was originally from theUnited, and was originally from theUnited, 1923. He was a member of the Alan Shepard was a member of the United States and was designed by NASA in 1957. 
+The company of theAlan Shepard was thebirth place of theb Hampshire of theAlan Shepard, who was born in the United States on November November 1923. He was a student at theNWC, M.A. in 1957 and was completed on the November November 18th of November, 1923. 
+Thebirth place of theDistinguished Service Medal, the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of the city of theAlan Shepard was the the country of theland of the November of November. 
+TheBuzz Aldrin was a member of the United States and was a member of the United States and was a member of the United States and was a member of the United States and was a member of the United States and was published by theGlen Ridge, New Jersey. He was a member of the United States and was a member of theApollo 11. He was a member of the United States and was a member of the United States and Sc.D.. 
+TheBuzz Aldrin was a member of theApollo 11, which is part ofEssex County, New Jersey. He was created by theNASA, and was created by thebirth ofGlen Ridge, New Jersey. He was a member of the United States which is led by theNASA. Thebackup pilot of theWilliam And. 
+TheBuzz Aldrin was a member of theApollo 11, who was originally from theNASA, was a member of the country of the country was published by NASA in 1963. He was a member of the country was published by NASA in 1963 and was a member of theMassachuset Institute of Technology. He was a member of the country was Prime Minister of Green. 
+TheBuzz Aldrin was a member of the country of the country was built by theNASA, and was a member of the United States and was published by NASA in 1963. He was a member of the United States and was a member of the Apollo 11. He was a member of theWilliam Anders. He was a member of the country was published by thebirth ofGlen Ridge, New Jersey. He was a member of the country of the country was a Sc.D. 1963. 
+The country of theElliot See was originally from theUniversity of Texas at Austin, which was originally from theTest pilot and was originally from theUniversity of Texas System. It was originally from the country of the country of which was written on July 23rd,1927. 
+The country ofElliot See was originally from theUniversity of Texas at Austin and was originally from theTest pilot. It was designed by thebirth ofDallas on July 1,1927. 
+TheWilliam Anders was a member of the United States and was completed on 1st July,1933. He was a member of the United States and was created by the back backup pilot and has its epoch date on 1933-09-01. It was a member of the retirement of the country and is situated in 1962. 
+Hypermarcas, a member of the red red red, was a member of the red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red red re 
+The11th Mississippi Infantry Monument is located in thelocation of theGettysburg, Pennsylvania. It has theestablished of2000 and is located in the north ofCumberland County, Pennsylvania. The book is located in the southeast ofCarroll County, Maryland. 
+TheAzerbaijan is acapital of the city of Azerbaijan. It was created by theNational Assembly and is led by theNational Assembly. It was thecapital of the city of the city oftyrs' Memorial, which was created by the created by the created by the created by the created by the created by the created by the created by the created by the created by the created by the created by the created by the created by the createdseyin Butuner and Hilmi Guner. 
+TheAcharya Institute of Technology is located in theKarnataka of the United States and has the National Register of Historic Places onVisvesvaraya Technological University. It was designed by the Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It was designed by the United States and has thecountry of the and of the India. 
+The company of theAcharya Institute of Technology is located in the United States and was designed byVisvesvaraya Technological University. It was designed by the Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It was designed byVisvesvaraya Technological University and has themotto of the city of700. It is located to to the Chicago of the November of the November of the November of the November of the November of the Green. 
+TheAcharya Institute of Technology was designed by theVisvesvaraya Technological University, has the company of the Businesss ofBangalore. It was designed by the company of the 1st of the company of the 1st of the company of the country was designed by the Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090. It was founded to the the count. 
+TheAcharya Institute of Technology is located in the United States and was designed byVisvesvaraya Technological University, which has thecountry of the postgraduate students,700. Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its Its India. India. India. 
+TheAWH Engineering College was designed by theman of theMumbai, which has thecountry ofIndia, was a member of theman of theman of which is250. The AfricanAWH Engineering College was a member of theman of theman of which isGanges. Thehas to its northwest ofMahé, India and is located in theriver ofGanges. 
+The1 Decembrie 1918 University is located in the state of the city of the country was inaugurated on the counts of Romania. The country is located in the has the epoch date of the architecture of the country and its washemsDeteaptă-te, române!. The leader ofRomania is located in the has the architecture ofBucharest. 
+The company of theAcharya Institute of Technology is located in the United States Air Force, the company of the company of the company of the company of the company of the company of the company of which is the company of the country of the country is the 3r. G. P. Prabhukumar. It was designed by the Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore 560090. 
